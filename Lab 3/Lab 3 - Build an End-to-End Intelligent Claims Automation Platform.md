@@ -1,3 +1,16 @@
+---
+lab: 3
+title: Build an End-to-End Intelligent Claims Automation Platform
+description: AI-powered claims automation for streamlined intake, routing, tracking, and status updates.
+level: 300
+duration: 120 minutes
+islab: true
+primarytopics:
+- Dataverse
+- Power Automate
+- Copilot Studio
+---
+
 # Lab 3 - Build an End-to-End Intelligent Claims Automation Platform
 
 **Objective**
