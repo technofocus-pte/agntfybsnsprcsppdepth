@@ -1,3 +1,16 @@
+---
+lab: 2
+title: Build an AI-Powered Customer Service Platform
+description: AI-powered customer service platform for streamlined ticket management, escalation, and support.
+level: 300
+duration: 60 minutes
+islab: true
+primarytopics:
+- Power Apps
+- Copilot Studio
+---
+
+
 # Lab 2 - Build an AI-Powered Customer Service Platform
 
 **Objective**
