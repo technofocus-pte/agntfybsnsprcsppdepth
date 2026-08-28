@@ -1,0 +1,71 @@
+==============================================================================
+NovaCom Telecom - Supervisor Dashboard
+Generative Page prompts for Exercise 13
+==============================================================================
+
+Paste each block below into the Generative Page chat panel at the point the
+lab guide indicates. Paste one block at a time and wait for the page to
+finish regenerating before pasting the next.
+
+
+------------------------------------------------------------------------------
+BLOCK 1 - Initial page prompt (Exercise 13, Task "Generate the Page")
+------------------------------------------------------------------------------
+
+Build a supervisor dashboard page for NovaCom Telecom customer service team
+leads, using data from the Service Tickets table.
+
+Show the following:
+
+1. A KPI summary row across the top with four cards: Total Open Tickets,
+   Total Escalated, Total Critical Priority, and Total Resolved.
+
+2. A priority breakdown section showing a count of tickets grouped by the
+   Priority column (Low, Medium, High, Critical) as a horizontal bar chart.
+
+3. An open escalations list below, showing Ticket Number, Ticket Title,
+   Customer Name, Issue Category, Assigned Agent and Created Date, filtered
+   to rows where Status equals Escalated, sorted by Created Date descending.
+
+Use a clean, modern, card-based layout with a white background and an accent
+colour of #0078D4. Make the page responsive.
+
+
+------------------------------------------------------------------------------
+BLOCK 2 - Refinement 1: KPI cards (Exercise 13, Task "Refine the Page")
+------------------------------------------------------------------------------
+
+Make the four KPI cards equal width and place them side by side in a single
+row with a subtle drop shadow and rounded corners. Give the Total Escalated
+card a red accent colour so it stands out from the other three.
+
+
+------------------------------------------------------------------------------
+BLOCK 3 - Refinement 2: layout (Exercise 13, Task "Refine the Page")
+------------------------------------------------------------------------------
+
+Place the priority breakdown chart on the left at about 60 percent width and
+the open escalations list on the right at about 40 percent width, side by
+side, directly below the KPI row. On a narrow screen they should stack, with
+the chart above the list.
+
+
+------------------------------------------------------------------------------
+BLOCK 4 - Optional refinement: category breakdown
+------------------------------------------------------------------------------
+
+Add a second chart below the existing two sections showing the number of
+tickets grouped by Issue Category. Use the same card styling as the rest of
+the page.
+
+
+==============================================================================
+IF GENERATIVE PAGES IS NOT AVAILABLE IN YOUR REGION
+==============================================================================
+
+The Generative Pages maker experience is only available where the environment
+region is United States, United Kingdom, Australia, or Singapore. If the
+Generative page option does not appear in your app designer, follow the
+fallback steps in Exercise 13 of the lab guide instead. The fallback builds
+the same supervisor view using a standard Dataverse chart and dashboard,
+which is available in every region.

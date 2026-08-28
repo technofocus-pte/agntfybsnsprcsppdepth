@@ -1,0 +1,6 @@
+Invoice Number,Vendor,Amount,Cost Centre,Description,Status,Submitted Date
+INV-2026-0417,Wipro Technologies,320000,CC-001,Data centre rack expansion and cabling,Approved,06/12/2026
+INV-2026-0623,Deloitte India,675000,CC-003,Finance transformation advisory retainer,Pending Approval,07/03/2026
+INV-2026-0788,Atlassian Pty Ltd,148000,CC-002,Annual Jira and Confluence licence renewal,Approved,07/21/2026
+INV-2026-0844,Coursera Inc,96000,CC-011,Enterprise learning subscription for 120 staff,Pending Approval,08/04/2026
+INV-2026-0859,Freshworks Inc,54000,CC-007,Marketing automation platform monthly fee,Rejected,08/08/2026

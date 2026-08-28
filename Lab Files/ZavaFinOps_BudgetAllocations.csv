@@ -1,0 +1,15 @@
+Cost Centre ID,Cost Centre Name,Department,Allocated Budget,Spent to Date,Remaining Budget,Budget Status,Budget Owner,Budget Owner Email,Last Updated
+CC-001,Digital Infrastructure,IT,12000000,11400000,600000,At Risk,Arjun Mehta,arjun.mehta@zavafinops.onmicrosoft.com,8/1/2026
+CC-002,Cloud Platform Services,IT,9500000,8835000,665000,At Risk,Arjun Mehta,arjun.mehta@zavafinops.onmicrosoft.com,8/1/2026
+CC-003,Enterprise Consulting,Operations,7500000,8250000,-750000,Over Budget,Rohan Desai,rohan.desai@zavafinops.onmicrosoft.com,8/2/2026
+CC-004,Corporate Finance Ops,Finance,6000000,4800000,1200000,On Track,Priya Lakhani,priya.lakhani@zavafinops.onmicrosoft.com,8/2/2026
+CC-005,Treasury and Compliance,Finance,4500000,4230000,270000,At Risk,Priya Lakhani,priya.lakhani@zavafinops.onmicrosoft.com,8/3/2026
+CC-006,Field Sales Enablement,Sales,8000000,6000000,2000000,On Track,Neha Kapoor,neha.kapoor@zavafinops.onmicrosoft.com,8/3/2026
+CC-007,Marketing Operations,Sales,5500000,5170000,330000,At Risk,Neha Kapoor,neha.kapoor@zavafinops.onmicrosoft.com,8/4/2026
+CC-008,Talent Acquisition,HR,3500000,2450000,1050000,On Track,Sanjay Iyer,sanjay.iyer@zavafinops.onmicrosoft.com,8/4/2026
+CC-009,Employee Benefits,HR,4200000,4620000,-420000,Over Budget,Sanjay Iyer,sanjay.iyer@zavafinops.onmicrosoft.com,8/5/2026
+CC-010,Data and Analytics,IT,6800000,5440000,1360000,On Track,Arjun Mehta,arjun.mehta@zavafinops.onmicrosoft.com,8/5/2026
+CC-011,Learning and Development,HR,2800000,3220000,-420000,Over Budget,Fatima Al-Hassan,fatima.alhassan@zavafinops.onmicrosoft.com,8/6/2026
+CC-012,Facilities and Workplace,Operations,5200000,3900000,1300000,On Track,Rohan Desai,rohan.desai@zavafinops.onmicrosoft.com,8/6/2026
+CC-013,Vendor Management,Operations,4800000,4512000,288000,At Risk,Rohan Desai,rohan.desai@zavafinops.onmicrosoft.com,8/7/2026
+CC-014,Product Marketing,Sales,7200000,5040000,2160000,On Track,Neha Kapoor,neha.kapoor@zavafinops.onmicrosoft.com,8/7/2026

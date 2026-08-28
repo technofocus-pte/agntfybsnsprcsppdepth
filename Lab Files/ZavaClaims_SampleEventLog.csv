@@ -1,0 +1,821 @@
+ClaimID,Activity,Timestamp,EndTimestamp,Assignee,ClaimType
+ZVC-2026-0002,Claim Email Received,2026-01-05 09:07:00,2026-01-05 09:09:00,Claims Inbox,Travel
+ZVC-2026-0001,Claim Email Received,2026-01-05 15:00:00,2026-01-05 15:02:00,Claims Inbox,Motor
+ZVC-2026-0002,Email Read and Logged,2026-01-06 05:55:00,2026-01-06 06:21:00,Kavita Malhotra,Travel
+ZVC-2026-0002,Claim Details Entered,2026-01-06 06:54:00,2026-01-06 07:25:00,Kavita Malhotra,Travel
+ZVC-2026-0002,Claim Triaged,2026-01-06 07:41:00,2026-01-06 07:54:00,Kavita Malhotra,Travel
+ZVC-2026-0003,Claim Email Received,2026-01-06 08:59:00,2026-01-06 09:00:00,Claims Inbox,Motor
+ZVC-2026-0002,Assigned to Assessor,2026-01-06 10:43:00,2026-01-06 10:49:00,Kavita Malhotra,Travel
+ZVC-2026-0001,Email Read and Logged,2026-01-06 11:07:00,2026-01-06 11:20:00,Rakesh Pandey,Motor
+ZVC-2026-0004,Claim Email Received,2026-01-06 11:40:00,2026-01-06 11:42:00,Claims Inbox,Travel
+ZVC-2026-0001,Claim Details Entered,2026-01-06 12:01:00,2026-01-06 12:40:00,Rakesh Pandey,Motor
+ZVC-2026-0001,Claim Triaged,2026-01-06 13:33:00,2026-01-06 13:53:00,Rakesh Pandey,Motor
+ZVC-2026-0005,Claim Email Received,2026-01-06 15:25:00,2026-01-06 15:26:00,Claims Inbox,Motor
+ZVC-2026-0001,Assigned to Assessor,2026-01-06 21:04:00,2026-01-06 21:18:00,Rakesh Pandey,Motor
+ZVC-2026-0004,Email Read and Logged,2026-01-06 23:42:00,2026-01-07 00:09:00,Kavita Malhotra,Travel
+ZVC-2026-0004,Claim Details Entered,2026-01-07 00:45:00,2026-01-07 01:22:00,Kavita Malhotra,Travel
+ZVC-2026-0004,Claim Triaged,2026-01-07 03:46:00,2026-01-07 04:03:00,Kavita Malhotra,Travel
+ZVC-2026-0003,Email Read and Logged,2026-01-07 04:34:00,2026-01-07 04:59:00,Rakesh Pandey,Motor
+ZVC-2026-0003,Claim Details Entered,2026-01-07 05:40:00,2026-01-07 06:23:00,Rakesh Pandey,Motor
+ZVC-2026-0004,Assigned to Assessor,2026-01-07 06:13:00,2026-01-07 06:23:00,Kavita Malhotra,Travel
+ZVC-2026-0003,Claim Triaged,2026-01-07 09:20:00,2026-01-07 09:33:00,Rakesh Pandey,Motor
+ZVC-2026-0001,Manual Review,2026-01-07 11:50:00,2026-01-07 12:35:00,Ravi Menon,Motor
+ZVC-2026-0007,Claim Email Received,2026-01-07 12:00:00,2026-01-07 12:01:00,Claims Inbox,Travel
+ZVC-2026-0004,Manual Review,2026-01-07 12:22:00,2026-01-07 13:34:00,Joseph Thomas,Travel
+ZVC-2026-0001,Request Additional Documents,2026-01-07 12:54:00,2026-01-07 13:05:00,Ravi Menon,Motor
+ZVC-2026-0003,Assigned to Assessor,2026-01-07 13:03:00,2026-01-07 13:12:00,Rakesh Pandey,Motor
+ZVC-2026-0008,Claim Email Received,2026-01-07 13:17:00,2026-01-07 13:18:00,Claims Inbox,Property
+ZVC-2026-0002,Manual Review,2026-01-07 13:43:00,2026-01-07 15:40:00,Vikram Rao,Travel
+ZVC-2026-0004,Claim Returned for Correction,2026-01-07 14:13:00,2026-01-07 14:36:00,Joseph Thomas,Travel
+ZVC-2026-0006,Claim Email Received,2026-01-07 15:31:00,2026-01-07 15:32:00,Claims Inbox,Property
+ZVC-2026-0004,Claim Details Entered,2026-01-07 16:15:00,2026-01-07 16:38:00,Kavita Malhotra,Travel
+ZVC-2026-0007,Email Read and Logged,2026-01-07 16:36:00,2026-01-07 17:01:00,Priya Nair,Travel
+ZVC-2026-0005,Email Read and Logged,2026-01-07 16:41:00,2026-01-07 17:09:00,Priya Nair,Motor
+ZVC-2026-0007,Claim Details Entered,2026-01-07 17:28:00,2026-01-07 18:09:00,Priya Nair,Travel
+ZVC-2026-0005,Claim Details Entered,2026-01-07 17:41:00,2026-01-07 18:22:00,Priya Nair,Motor
+ZVC-2026-0003,Manual Review,2026-01-07 19:29:00,2026-01-07 20:05:00,Sneha Iyer,Motor
+ZVC-2026-0007,Claim Triaged,2026-01-07 20:09:00,2026-01-07 20:28:00,Priya Nair,Travel
+ZVC-2026-0003,Request Additional Documents,2026-01-07 20:57:00,2026-01-07 21:09:00,Sneha Iyer,Motor
+ZVC-2026-0005,Claim Triaged,2026-01-07 21:06:00,2026-01-07 21:15:00,Priya Nair,Motor
+ZVC-2026-0007,Assigned to Assessor,2026-01-07 23:46:00,2026-01-07 23:52:00,Priya Nair,Travel
+ZVC-2026-0008,Email Read and Logged,2026-01-08 04:51:00,2026-01-08 05:14:00,Anita Dsouza,Property
+ZVC-2026-0008,Claim Details Entered,2026-01-08 05:48:00,2026-01-08 06:21:00,Anita Dsouza,Property
+ZVC-2026-0005,Assigned to Assessor,2026-01-08 06:06:00,2026-01-08 06:13:00,Priya Nair,Motor
+ZVC-2026-0008,Claim Triaged,2026-01-08 07:53:00,2026-01-08 08:13:00,Anita Dsouza,Property
+ZVC-2026-0011,Claim Email Received,2026-01-08 08:35:00,2026-01-08 08:37:00,Claims Inbox,Motor
+ZVC-2026-0005,Manual Review,2026-01-08 10:25:00,2026-01-08 11:01:00,Farah Siddiqui,Motor
+ZVC-2026-0006,Email Read and Logged,2026-01-08 11:33:00,2026-01-08 11:56:00,Rakesh Pandey,Property
+ZVC-2026-0002,Assessment Completed,2026-01-08 12:03:00,2026-01-08 14:34:00,Vikram Rao,Travel
+ZVC-2026-0006,Claim Details Entered,2026-01-08 12:40:00,2026-01-08 13:08:00,Rakesh Pandey,Property
+ZVC-2026-0008,Assigned to Assessor,2026-01-08 13:20:00,2026-01-08 13:26:00,Anita Dsouza,Property
+ZVC-2026-0006,Claim Triaged,2026-01-08 15:31:00,2026-01-08 15:41:00,Rakesh Pandey,Property
+ZVC-2026-0009,Claim Email Received,2026-01-08 17:32:00,2026-01-08 17:34:00,Claims Inbox,Motor
+ZVC-2026-0010,Claim Email Received,2026-01-08 17:37:00,2026-01-08 17:38:00,Claims Inbox,Property
+ZVC-2026-0007,Manual Review,2026-01-08 17:54:00,2026-01-08 19:47:00,Farah Siddiqui,Travel
+ZVC-2026-0004,Manual Review,2026-01-08 19:52:00,2026-01-08 21:33:00,Joseph Thomas,Travel
+ZVC-2026-0005,Assessment Completed,2026-01-08 21:55:00,2026-01-08 23:40:00,Farah Siddiqui,Motor
+ZVC-2026-0004,Request Additional Documents,2026-01-08 22:23:00,2026-01-08 22:36:00,Joseph Thomas,Travel
+ZVC-2026-0002,Claim Rejected,2026-01-08 22:32:00,2026-01-08 22:53:00,Nikhil Gupta,Travel
+ZVC-2026-0006,Assigned to Assessor,2026-01-08 22:43:00,2026-01-08 22:54:00,Rakesh Pandey,Property
+ZVC-2026-0011,Email Read and Logged,2026-01-08 23:49:00,2026-01-09 00:12:00,Suresh Iyer,Motor
+ZVC-2026-0011,Claim Details Entered,2026-01-09 00:43:00,2026-01-09 01:05:00,Suresh Iyer,Motor
+ZVC-2026-0002,Claimant Notified,2026-01-09 01:56:00,2026-01-09 02:05:00,Kavita Malhotra,Travel
+ZVC-2026-0010,Email Read and Logged,2026-01-09 02:28:00,2026-01-09 02:48:00,Anita Dsouza,Property
+ZVC-2026-0009,Email Read and Logged,2026-01-09 02:31:00,2026-01-09 02:46:00,Meera Joshi,Motor
+ZVC-2026-0009,Claim Details Entered,2026-01-09 02:53:00,2026-01-09 03:32:00,Meera Joshi,Motor
+ZVC-2026-0010,Claim Details Entered,2026-01-09 03:20:00,2026-01-09 03:58:00,Anita Dsouza,Property
+ZVC-2026-0011,Claim Triaged,2026-01-09 03:21:00,2026-01-09 03:32:00,Suresh Iyer,Motor
+ZVC-2026-0006,Manual Review,2026-01-09 04:31:00,2026-01-09 06:59:00,Vikram Rao,Property
+ZVC-2026-0009,Claim Triaged,2026-01-09 04:39:00,2026-01-09 04:50:00,Meera Joshi,Motor
+ZVC-2026-0010,Claim Triaged,2026-01-09 05:13:00,2026-01-09 05:34:00,Anita Dsouza,Property
+ZVC-2026-0009,Assigned to Assessor,2026-01-09 06:39:00,2026-01-09 06:46:00,Meera Joshi,Motor
+ZVC-2026-0006,Request Additional Documents,2026-01-09 07:23:00,2026-01-09 07:39:00,Vikram Rao,Property
+ZVC-2026-0010,Assigned to Assessor,2026-01-09 07:29:00,2026-01-09 07:35:00,Anita Dsouza,Property
+ZVC-2026-0011,Assigned to Assessor,2026-01-09 09:21:00,2026-01-09 09:26:00,Suresh Iyer,Motor
+ZVC-2026-0014,Claim Email Received,2026-01-09 14:22:00,2026-01-09 14:23:00,Claims Inbox,Property
+ZVC-2026-0013,Claim Email Received,2026-01-09 15:08:00,2026-01-09 15:10:00,Claims Inbox,Travel
+ZVC-2026-0012,Claim Email Received,2026-01-09 15:42:00,2026-01-09 15:44:00,Claims Inbox,Property
+ZVC-2026-0009,Manual Review,2026-01-09 17:05:00,2026-01-09 18:39:00,Joseph Thomas,Motor
+ZVC-2026-0011,Manual Review,2026-01-09 18:15:00,2026-01-09 19:14:00,Joseph Thomas,Motor
+ZVC-2026-0009,Claim Returned for Correction,2026-01-09 19:21:00,2026-01-09 19:36:00,Joseph Thomas,Motor
+ZVC-2026-0007,Assessment Completed,2026-01-09 19:42:00,2026-01-09 21:42:00,Farah Siddiqui,Travel
+ZVC-2026-0011,Claim Returned for Correction,2026-01-09 20:06:00,2026-01-09 20:25:00,Joseph Thomas,Motor
+ZVC-2026-0002,Claim Closed,2026-01-09 21:09:00,2026-01-09 21:15:00,Kavita Malhotra,Travel
+ZVC-2026-0011,Claim Details Entered,2026-01-09 21:57:00,2026-01-09 22:15:00,Suresh Iyer,Motor
+ZVC-2026-0009,Claim Details Entered,2026-01-09 22:58:00,2026-01-09 23:22:00,Meera Joshi,Motor
+ZVC-2026-0012,Email Read and Logged,2026-01-10 00:21:00,2026-01-10 00:35:00,Priya Nair,Property
+ZVC-2026-0012,Claim Details Entered,2026-01-10 00:45:00,2026-01-10 01:10:00,Priya Nair,Property
+ZVC-2026-0005,Settlement Approved,2026-01-10 03:22:00,2026-01-10 03:48:00,Shalini Bose,Motor
+ZVC-2026-0012,Claim Triaged,2026-01-10 04:00:00,2026-01-10 04:14:00,Priya Nair,Property
+ZVC-2026-0014,Email Read and Logged,2026-01-10 05:43:00,2026-01-10 06:08:00,Suresh Iyer,Property
+ZVC-2026-0007,Claim Rejected,2026-01-10 06:00:00,2026-01-10 06:23:00,Nikhil Gupta,Travel
+ZVC-2026-0014,Claim Details Entered,2026-01-10 06:33:00,2026-01-10 07:03:00,Suresh Iyer,Property
+ZVC-2026-0012,Assigned to Assessor,2026-01-10 06:39:00,2026-01-10 06:48:00,Priya Nair,Property
+ZVC-2026-0011,Manual Review,2026-01-10 07:36:00,2026-01-10 08:47:00,Joseph Thomas,Motor
+ZVC-2026-0008,Manual Review,2026-01-10 07:38:00,2026-01-10 10:25:00,Ravi Menon,Property
+ZVC-2026-0014,Claim Triaged,2026-01-10 08:23:00,2026-01-10 08:33:00,Suresh Iyer,Property
+ZVC-2026-0017,Claim Email Received,2026-01-10 09:01:00,2026-01-10 09:02:00,Claims Inbox,Motor
+ZVC-2026-0007,Claimant Notified,2026-01-10 09:37:00,2026-01-10 09:48:00,Priya Nair,Travel
+ZVC-2026-0011,Assessment Completed,2026-01-10 11:37:00,2026-01-10 12:19:00,Joseph Thomas,Motor
+ZVC-2026-0008,Claim Returned for Correction,2026-01-10 11:46:00,2026-01-10 12:09:00,Ravi Menon,Property
+ZVC-2026-0016,Claim Email Received,2026-01-10 14:18:00,2026-01-10 14:20:00,Claims Inbox,Travel
+ZVC-2026-0009,Manual Review,2026-01-10 14:34:00,2026-01-10 15:25:00,Joseph Thomas,Motor
+ZVC-2026-0013,Email Read and Logged,2026-01-10 14:35:00,2026-01-10 15:03:00,Rakesh Pandey,Travel
+ZVC-2026-0007,Claim Closed,2026-01-10 15:09:00,2026-01-10 15:11:00,Priya Nair,Travel
+ZVC-2026-0013,Claim Details Entered,2026-01-10 15:34:00,2026-01-10 16:10:00,Rakesh Pandey,Travel
+ZVC-2026-0014,Assigned to Assessor,2026-01-10 15:39:00,2026-01-10 15:49:00,Suresh Iyer,Property
+ZVC-2026-0009,Request Additional Documents,2026-01-10 15:44:00,2026-01-10 15:52:00,Joseph Thomas,Motor
+ZVC-2026-0008,Claim Details Entered,2026-01-10 16:56:00,2026-01-10 17:18:00,Anita Dsouza,Property
+ZVC-2026-0015,Claim Email Received,2026-01-10 17:05:00,2026-01-10 17:07:00,Claims Inbox,Property
+ZVC-2026-0013,Claim Triaged,2026-01-10 18:50:00,2026-01-10 19:05:00,Rakesh Pandey,Travel
+ZVC-2026-0014,Manual Review,2026-01-10 21:03:00,2026-01-10 22:44:00,Sneha Iyer,Property
+ZVC-2026-0014,Claim Returned for Correction,2026-01-10 23:31:00,2026-01-10 23:48:00,Sneha Iyer,Property
+ZVC-2026-0013,Assigned to Assessor,2026-01-11 00:39:00,2026-01-11 00:53:00,Rakesh Pandey,Travel
+ZVC-2026-0014,Claim Details Entered,2026-01-11 02:59:00,2026-01-11 03:34:00,Suresh Iyer,Property
+ZVC-2026-0013,Manual Review,2026-01-11 05:28:00,2026-01-11 06:35:00,Joseph Thomas,Travel
+ZVC-2026-0010,Manual Review,2026-01-11 08:02:00,2026-01-11 10:48:00,Ravi Menon,Property
+ZVC-2026-0015,Email Read and Logged,2026-01-11 09:35:00,2026-01-11 09:52:00,Priya Nair,Property
+ZVC-2026-0017,Email Read and Logged,2026-01-11 10:06:00,2026-01-11 10:34:00,Rakesh Pandey,Motor
+ZVC-2026-0015,Claim Details Entered,2026-01-11 10:30:00,2026-01-11 11:08:00,Priya Nair,Property
+ZVC-2026-0017,Claim Details Entered,2026-01-11 11:04:00,2026-01-11 11:30:00,Rakesh Pandey,Motor
+ZVC-2026-0010,Claim Returned for Correction,2026-01-11 11:43:00,2026-01-11 11:59:00,Ravi Menon,Property
+ZVC-2026-0015,Claim Triaged,2026-01-11 11:59:00,2026-01-11 12:19:00,Priya Nair,Property
+ZVC-2026-0011,Settlement Approved,2026-01-11 12:00:00,2026-01-11 12:21:00,Nikhil Gupta,Motor
+ZVC-2026-0017,Claim Triaged,2026-01-11 14:00:00,2026-01-11 14:15:00,Rakesh Pandey,Motor
+ZVC-2026-0020,Claim Email Received,2026-01-11 14:08:00,2026-01-11 14:09:00,Claims Inbox,Travel
+ZVC-2026-0016,Email Read and Logged,2026-01-11 15:14:00,2026-01-11 15:33:00,Rakesh Pandey,Travel
+ZVC-2026-0013,Assessment Completed,2026-01-11 15:33:00,2026-01-11 16:33:00,Joseph Thomas,Travel
+ZVC-2026-0016,Claim Details Entered,2026-01-11 15:40:00,2026-01-11 16:13:00,Rakesh Pandey,Travel
+ZVC-2026-0001,Documents Received,2026-01-11 15:50:00,2026-01-11 15:52:00,Claims Inbox,Motor
+ZVC-2026-0008,Manual Review,2026-01-11 16:03:00,2026-01-11 19:31:00,Ravi Menon,Property
+ZVC-2026-0019,Claim Email Received,2026-01-11 16:06:00,2026-01-11 16:08:00,Claims Inbox,Motor
+ZVC-2026-0018,Claim Email Received,2026-01-11 16:28:00,2026-01-11 16:30:00,Claims Inbox,Property
+ZVC-2026-0016,Claim Triaged,2026-01-11 16:33:00,2026-01-11 16:50:00,Rakesh Pandey,Travel
+ZVC-2026-0010,Claim Details Entered,2026-01-11 16:41:00,2026-01-11 17:05:00,Anita Dsouza,Property
+ZVC-2026-0001,Assessment Completed,2026-01-11 18:42:00,2026-01-11 19:54:00,Ravi Menon,Motor
+ZVC-2026-0016,Assigned to Assessor,2026-01-11 18:42:00,2026-01-11 18:50:00,Rakesh Pandey,Travel
+ZVC-2026-0017,Assigned to Assessor,2026-01-11 19:20:00,2026-01-11 19:30:00,Rakesh Pandey,Motor
+ZVC-2026-0015,Assigned to Assessor,2026-01-11 20:20:00,2026-01-11 20:30:00,Priya Nair,Property
+ZVC-2026-0008,Claim Returned for Correction,2026-01-11 21:00:00,2026-01-11 21:14:00,Ravi Menon,Property
+ZVC-2026-0008,Claim Details Entered,2026-01-11 22:33:00,2026-01-11 22:50:00,Anita Dsouza,Property
+ZVC-2026-0018,Email Read and Logged,2026-01-12 01:38:00,2026-01-12 01:51:00,Meera Joshi,Property
+ZVC-2026-0018,Claim Details Entered,2026-01-12 02:34:00,2026-01-12 03:14:00,Meera Joshi,Property
+ZVC-2026-0018,Claim Triaged,2026-01-12 04:12:00,2026-01-12 04:30:00,Meera Joshi,Property
+ZVC-2026-0004,Documents Received,2026-01-12 05:10:00,2026-01-12 05:15:00,Claims Inbox,Travel
+ZVC-2026-0015,Manual Review,2026-01-12 05:47:00,2026-01-12 09:30:00,Ravi Menon,Property
+ZVC-2026-0016,Manual Review,2026-01-12 06:07:00,2026-01-12 07:02:00,Vikram Rao,Travel
+ZVC-2026-0018,Assigned to Assessor,2026-01-12 06:49:00,2026-01-12 06:54:00,Meera Joshi,Property
+ZVC-2026-0001,Settlement Approved,2026-01-12 07:13:00,2026-01-12 07:34:00,Nikhil Gupta,Motor
+ZVC-2026-0016,Claim Returned for Correction,2026-01-12 07:26:00,2026-01-12 07:47:00,Vikram Rao,Travel
+ZVC-2026-0019,Email Read and Logged,2026-01-12 08:18:00,2026-01-12 08:44:00,Kavita Malhotra,Motor
+ZVC-2026-0019,Claim Details Entered,2026-01-12 08:53:00,2026-01-12 09:36:00,Kavita Malhotra,Motor
+ZVC-2026-0012,Manual Review,2026-01-12 09:06:00,2026-01-12 11:58:00,Farah Siddiqui,Property
+ZVC-2026-0021,Claim Email Received,2026-01-12 09:35:00,2026-01-12 09:36:00,Claims Inbox,Motor
+ZVC-2026-0005,Payment Issued,2026-01-12 09:40:00,2026-01-12 09:53:00,Shalini Bose,Motor
+ZVC-2026-0023,Claim Email Received,2026-01-12 09:43:00,2026-01-12 09:44:00,Claims Inbox,Property
+ZVC-2026-0017,Manual Review,2026-01-12 10:03:00,2026-01-12 11:29:00,Joseph Thomas,Motor
+ZVC-2026-0019,Claim Triaged,2026-01-12 10:19:00,2026-01-12 10:31:00,Kavita Malhotra,Motor
+ZVC-2026-0013,Settlement Approved,2026-01-12 10:23:00,2026-01-12 10:59:00,Shalini Bose,Travel
+ZVC-2026-0015,Request Additional Documents,2026-01-12 10:25:00,2026-01-12 10:34:00,Ravi Menon,Property
+ZVC-2026-0017,Request Additional Documents,2026-01-12 12:16:00,2026-01-12 12:31:00,Joseph Thomas,Motor
+ZVC-2026-0012,Claim Returned for Correction,2026-01-12 12:26:00,2026-01-12 12:42:00,Farah Siddiqui,Property
+ZVC-2026-0016,Claim Details Entered,2026-01-12 13:40:00,2026-01-12 14:00:00,Rakesh Pandey,Travel
+ZVC-2026-0020,Email Read and Logged,2026-01-12 14:08:00,2026-01-12 14:22:00,Suresh Iyer,Travel
+ZVC-2026-0004,Request Additional Documents,2026-01-12 14:18:00,2026-01-12 14:28:00,Joseph Thomas,Travel
+ZVC-2026-0019,Assigned to Assessor,2026-01-12 14:29:00,2026-01-12 14:36:00,Kavita Malhotra,Motor
+ZVC-2026-0022,Claim Email Received,2026-01-12 14:32:00,2026-01-12 14:33:00,Claims Inbox,Motor
+ZVC-2026-0020,Claim Details Entered,2026-01-12 15:05:00,2026-01-12 15:30:00,Suresh Iyer,Travel
+ZVC-2026-0012,Claim Details Entered,2026-01-12 15:14:00,2026-01-12 15:42:00,Priya Nair,Property
+ZVC-2026-0005,Claimant Notified,2026-01-12 15:41:00,2026-01-12 15:47:00,Priya Nair,Motor
+ZVC-2026-0020,Claim Triaged,2026-01-12 15:56:00,2026-01-12 16:07:00,Suresh Iyer,Travel
+ZVC-2026-0021,Email Read and Logged,2026-01-12 19:36:00,2026-01-12 20:02:00,Kavita Malhotra,Motor
+ZVC-2026-0021,Claim Details Entered,2026-01-12 20:09:00,2026-01-12 20:49:00,Kavita Malhotra,Motor
+ZVC-2026-0014,Manual Review,2026-01-12 20:53:00,2026-01-12 23:06:00,Sneha Iyer,Property
+ZVC-2026-0023,Email Read and Logged,2026-01-12 22:15:00,2026-01-12 22:38:00,Priya Nair,Property
+ZVC-2026-0020,Assigned to Assessor,2026-01-12 22:52:00,2026-01-12 23:04:00,Suresh Iyer,Travel
+ZVC-2026-0023,Claim Details Entered,2026-01-12 23:09:00,2026-01-12 23:38:00,Priya Nair,Property
+ZVC-2026-0021,Claim Triaged,2026-01-12 23:16:00,2026-01-12 23:27:00,Kavita Malhotra,Motor
+ZVC-2026-0014,Request Additional Documents,2026-01-12 23:31:00,2026-01-12 23:39:00,Sneha Iyer,Property
+ZVC-2026-0023,Claim Triaged,2026-01-13 00:47:00,2026-01-13 01:04:00,Priya Nair,Property
+ZVC-2026-0003,Documents Received,2026-01-13 01:51:00,2026-01-13 01:57:00,Claims Inbox,Motor
+ZVC-2026-0011,Payment Issued,2026-01-13 03:40:00,2026-01-13 03:53:00,Shalini Bose,Motor
+ZVC-2026-0020,Manual Review,2026-01-13 03:45:00,2026-01-13 05:09:00,Sneha Iyer,Travel
+ZVC-2026-0019,Manual Review,2026-01-13 05:33:00,2026-01-13 06:22:00,Anand Krishnan,Motor
+ZVC-2026-0023,Assigned to Assessor,2026-01-13 06:10:00,2026-01-13 06:24:00,Priya Nair,Property
+ZVC-2026-0021,Assigned to Assessor,2026-01-13 06:18:00,2026-01-13 06:27:00,Kavita Malhotra,Motor
+ZVC-2026-0020,Claim Returned for Correction,2026-01-13 06:30:00,2026-01-13 06:47:00,Sneha Iyer,Travel
+ZVC-2026-0019,Request Additional Documents,2026-01-13 07:19:00,2026-01-13 07:32:00,Anand Krishnan,Motor
+ZVC-2026-0016,Manual Review,2026-01-13 07:28:00,2026-01-13 08:46:00,Vikram Rao,Travel
+ZVC-2026-0020,Claim Details Entered,2026-01-13 08:14:00,2026-01-13 08:39:00,Suresh Iyer,Travel
+ZVC-2026-0011,Claimant Notified,2026-01-13 08:43:00,2026-01-13 08:54:00,Suresh Iyer,Motor
+ZVC-2026-0016,Request Additional Documents,2026-01-13 09:17:00,2026-01-13 09:29:00,Vikram Rao,Travel
+ZVC-2026-0025,Claim Email Received,2026-01-13 10:35:00,2026-01-13 10:37:00,Claims Inbox,Motor
+ZVC-2026-0005,Claim Closed,2026-01-13 11:59:00,2026-01-13 12:04:00,Priya Nair,Motor
+ZVC-2026-0026,Claim Email Received,2026-01-13 12:40:00,2026-01-13 12:42:00,Claims Inbox,Property
+ZVC-2026-0010,Manual Review,2026-01-13 12:50:00,2026-01-13 15:42:00,Ravi Menon,Property
+ZVC-2026-0003,Assessment Completed,2026-01-13 13:31:00,2026-01-13 15:19:00,Sneha Iyer,Motor
+ZVC-2026-0024,Claim Email Received,2026-01-13 14:59:00,2026-01-13 15:00:00,Claims Inbox,Motor
+ZVC-2026-0022,Email Read and Logged,2026-01-13 15:24:00,2026-01-13 15:47:00,Rakesh Pandey,Motor
+ZVC-2026-0022,Claim Details Entered,2026-01-13 16:07:00,2026-01-13 16:45:00,Rakesh Pandey,Motor
+ZVC-2026-0010,Claim Returned for Correction,2026-01-13 16:30:00,2026-01-13 16:42:00,Ravi Menon,Property
+ZVC-2026-0012,Manual Review,2026-01-13 16:42:00,2026-01-13 18:54:00,Farah Siddiqui,Property
+ZVC-2026-0018,Manual Review,2026-01-13 16:51:00,2026-01-13 19:54:00,Joseph Thomas,Property
+ZVC-2026-0011,Claim Closed,2026-01-13 18:09:00,2026-01-13 18:14:00,Suresh Iyer,Motor
+ZVC-2026-0022,Claim Triaged,2026-01-13 19:06:00,2026-01-13 19:28:00,Rakesh Pandey,Motor
+ZVC-2026-0012,Claim Returned for Correction,2026-01-13 19:53:00,2026-01-13 20:15:00,Farah Siddiqui,Property
+ZVC-2026-0018,Claim Returned for Correction,2026-01-13 20:15:00,2026-01-13 20:31:00,Joseph Thomas,Property
+ZVC-2026-0010,Claim Details Entered,2026-01-13 20:37:00,2026-01-13 21:09:00,Anita Dsouza,Property
+ZVC-2026-0012,Claim Details Entered,2026-01-13 21:53:00,2026-01-13 22:11:00,Priya Nair,Property
+ZVC-2026-0018,Claim Details Entered,2026-01-13 21:56:00,2026-01-13 22:13:00,Meera Joshi,Property
+ZVC-2026-0024,Email Read and Logged,2026-01-13 22:45:00,2026-01-13 23:08:00,Meera Joshi,Motor
+ZVC-2026-0024,Claim Details Entered,2026-01-13 23:15:00,2026-01-13 23:58:00,Meera Joshi,Motor
+ZVC-2026-0023,Manual Review,2026-01-13 23:35:00,2026-01-14 00:56:00,Ravi Menon,Property
+ZVC-2026-0025,Email Read and Logged,2026-01-13 23:38:00,2026-01-13 23:59:00,Anita Dsouza,Motor
+ZVC-2026-0008,Manual Review,2026-01-14 00:06:00,2026-01-14 02:18:00,Ravi Menon,Property
+ZVC-2026-0025,Claim Details Entered,2026-01-14 00:12:00,2026-01-14 00:40:00,Anita Dsouza,Motor
+ZVC-2026-0022,Assigned to Assessor,2026-01-14 00:33:00,2026-01-14 00:42:00,Rakesh Pandey,Motor
+ZVC-2026-0021,Manual Review,2026-01-14 01:02:00,2026-01-14 01:57:00,Vikram Rao,Motor
+ZVC-2026-0024,Claim Triaged,2026-01-14 01:23:00,2026-01-14 01:36:00,Meera Joshi,Motor
+ZVC-2026-0023,Claim Returned for Correction,2026-01-14 02:16:00,2026-01-14 02:32:00,Ravi Menon,Property
+ZVC-2026-0025,Claim Triaged,2026-01-14 02:24:00,2026-01-14 02:33:00,Anita Dsouza,Motor
+ZVC-2026-0008,Request Additional Documents,2026-01-14 02:42:00,2026-01-14 02:51:00,Ravi Menon,Property
+ZVC-2026-0026,Email Read and Logged,2026-01-14 03:08:00,2026-01-14 03:23:00,Rakesh Pandey,Property
+ZVC-2026-0023,Claim Details Entered,2026-01-14 03:42:00,2026-01-14 04:05:00,Priya Nair,Property
+ZVC-2026-0026,Claim Details Entered,2026-01-14 04:06:00,2026-01-14 04:25:00,Rakesh Pandey,Property
+ZVC-2026-0025,Assigned to Assessor,2026-01-14 04:32:00,2026-01-14 04:45:00,Anita Dsouza,Motor
+ZVC-2026-0026,Claim Triaged,2026-01-14 06:06:00,2026-01-14 06:14:00,Rakesh Pandey,Property
+ZVC-2026-0024,Assigned to Assessor,2026-01-14 06:13:00,2026-01-14 06:26:00,Meera Joshi,Motor
+ZVC-2026-0020,Manual Review,2026-01-14 06:32:00,2026-01-14 07:35:00,Sneha Iyer,Travel
+ZVC-2026-0025,Manual Review,2026-01-14 07:27:00,2026-01-14 08:04:00,Joseph Thomas,Motor
+ZVC-2026-0026,Assigned to Assessor,2026-01-14 07:52:00,2026-01-14 08:05:00,Rakesh Pandey,Property
+ZVC-2026-0020,Request Additional Documents,2026-01-14 08:33:00,2026-01-14 08:46:00,Sneha Iyer,Travel
+ZVC-2026-0006,Documents Received,2026-01-14 08:52:00,2026-01-14 08:56:00,Claims Inbox,Property
+ZVC-2026-0009,Documents Received,2026-01-14 09:26:00,2026-01-14 09:28:00,Claims Inbox,Motor
+ZVC-2026-0021,Assessment Completed,2026-01-14 11:38:00,2026-01-14 12:48:00,Vikram Rao,Motor
+ZVC-2026-0029,Claim Email Received,2026-01-14 12:11:00,2026-01-14 12:13:00,Claims Inbox,Motor
+ZVC-2026-0027,Claim Email Received,2026-01-14 13:33:00,2026-01-14 13:34:00,Claims Inbox,Motor
+ZVC-2026-0001,Payment Issued,2026-01-14 14:09:00,2026-01-14 14:20:00,Nikhil Gupta,Motor
+ZVC-2026-0028,Claim Email Received,2026-01-14 14:28:00,2026-01-14 14:30:00,Claims Inbox,Motor
+ZVC-2026-0006,Assessment Completed,2026-01-14 14:52:00,2026-01-14 16:55:00,Vikram Rao,Property
+ZVC-2026-0013,Payment Issued,2026-01-14 15:39:00,2026-01-14 15:50:00,Nikhil Gupta,Travel
+ZVC-2026-0009,Request Additional Documents,2026-01-14 15:55:00,2026-01-14 16:05:00,Joseph Thomas,Motor
+ZVC-2026-0013,Claimant Notified,2026-01-14 16:57:00,2026-01-14 17:03:00,Rakesh Pandey,Travel
+ZVC-2026-0001,Claimant Notified,2026-01-14 18:37:00,2026-01-14 18:49:00,Rakesh Pandey,Motor
+ZVC-2026-0013,Claim Closed,2026-01-14 21:38:00,2026-01-14 21:42:00,Rakesh Pandey,Travel
+ZVC-2026-0022,Manual Review,2026-01-14 22:09:00,2026-01-14 23:01:00,Joseph Thomas,Motor
+ZVC-2026-0021,Claim Rejected,2026-01-14 22:52:00,2026-01-14 23:16:00,Shalini Bose,Motor
+ZVC-2026-0003,Claim Rejected,2026-01-14 23:19:00,2026-01-14 23:37:00,Shalini Bose,Motor
+ZVC-2026-0024,Manual Review,2026-01-15 01:28:00,2026-01-15 02:44:00,Sneha Iyer,Motor
+ZVC-2026-0003,Claimant Notified,2026-01-15 01:50:00,2026-01-15 01:59:00,Rakesh Pandey,Motor
+ZVC-2026-0021,Claimant Notified,2026-01-15 03:17:00,2026-01-15 03:23:00,Kavita Malhotra,Motor
+ZVC-2026-0027,Email Read and Logged,2026-01-15 03:20:00,2026-01-15 03:43:00,Kavita Malhotra,Motor
+ZVC-2026-0010,Manual Review,2026-01-15 03:22:00,2026-01-15 05:03:00,Ravi Menon,Property
+ZVC-2026-0022,Assessment Completed,2026-01-15 03:34:00,2026-01-15 05:02:00,Joseph Thomas,Motor
+ZVC-2026-0023,Manual Review,2026-01-15 03:43:00,2026-01-15 06:10:00,Ravi Menon,Property
+ZVC-2026-0025,Assessment Completed,2026-01-15 04:01:00,2026-01-15 05:04:00,Joseph Thomas,Motor
+ZVC-2026-0001,Claim Closed,2026-01-15 04:06:00,2026-01-15 04:12:00,Rakesh Pandey,Motor
+ZVC-2026-0027,Claim Details Entered,2026-01-15 04:13:00,2026-01-15 04:33:00,Kavita Malhotra,Motor
+ZVC-2026-0024,Assessment Completed,2026-01-15 05:38:00,2026-01-15 06:21:00,Sneha Iyer,Motor
+ZVC-2026-0010,Request Additional Documents,2026-01-15 05:54:00,2026-01-15 06:03:00,Ravi Menon,Property
+ZVC-2026-0027,Claim Triaged,2026-01-15 06:10:00,2026-01-15 06:26:00,Kavita Malhotra,Motor
+ZVC-2026-0023,Claim Returned for Correction,2026-01-15 07:39:00,2026-01-15 08:00:00,Ravi Menon,Property
+ZVC-2026-0021,Claim Closed,2026-01-15 09:28:00,2026-01-15 09:30:00,Kavita Malhotra,Motor
+ZVC-2026-0026,Manual Review,2026-01-15 10:08:00,2026-01-15 13:42:00,Anand Krishnan,Property
+ZVC-2026-0028,Email Read and Logged,2026-01-15 10:49:00,2026-01-15 11:14:00,Kavita Malhotra,Motor
+ZVC-2026-0027,Assigned to Assessor,2026-01-15 11:23:00,2026-01-15 11:27:00,Kavita Malhotra,Motor
+ZVC-2026-0028,Claim Details Entered,2026-01-15 11:31:00,2026-01-15 11:58:00,Kavita Malhotra,Motor
+ZVC-2026-0032,Claim Email Received,2026-01-15 11:41:00,2026-01-15 11:43:00,Claims Inbox,Motor
+ZVC-2026-0028,Claim Triaged,2026-01-15 12:41:00,2026-01-15 12:58:00,Kavita Malhotra,Motor
+ZVC-2026-0029,Email Read and Logged,2026-01-15 12:42:00,2026-01-15 13:04:00,Kavita Malhotra,Motor
+ZVC-2026-0030,Claim Email Received,2026-01-15 12:49:00,2026-01-15 12:51:00,Claims Inbox,Property
+ZVC-2026-0022,Settlement Approved,2026-01-15 13:34:00,2026-01-15 14:12:00,Shalini Bose,Motor
+ZVC-2026-0029,Claim Details Entered,2026-01-15 13:35:00,2026-01-15 13:59:00,Kavita Malhotra,Motor
+ZVC-2026-0023,Claim Details Entered,2026-01-15 13:38:00,2026-01-15 14:03:00,Priya Nair,Property
+ZVC-2026-0026,Request Additional Documents,2026-01-15 14:26:00,2026-01-15 14:35:00,Anand Krishnan,Property
+ZVC-2026-0025,Settlement Approved,2026-01-15 14:42:00,2026-01-15 15:11:00,Nikhil Gupta,Motor
+ZVC-2026-0028,Assigned to Assessor,2026-01-15 15:04:00,2026-01-15 15:18:00,Kavita Malhotra,Motor
+ZVC-2026-0027,Manual Review,2026-01-15 15:24:00,2026-01-15 16:36:00,Farah Siddiqui,Motor
+ZVC-2026-0029,Claim Triaged,2026-01-15 16:36:00,2026-01-15 16:53:00,Kavita Malhotra,Motor
+ZVC-2026-0031,Claim Email Received,2026-01-15 17:46:00,2026-01-15 17:47:00,Claims Inbox,Travel
+ZVC-2026-0003,Claim Closed,2026-01-15 21:32:00,2026-01-15 21:38:00,Rakesh Pandey,Motor
+ZVC-2026-0018,Manual Review,2026-01-15 22:32:00,2026-01-16 00:10:00,Joseph Thomas,Property
+ZVC-2026-0029,Assigned to Assessor,2026-01-16 00:46:00,2026-01-16 00:52:00,Kavita Malhotra,Motor
+ZVC-2026-0030,Email Read and Logged,2026-01-16 01:31:00,2026-01-16 01:43:00,Kavita Malhotra,Property
+ZVC-2026-0024,Claim Rejected,2026-01-16 02:07:00,2026-01-16 02:26:00,Shalini Bose,Motor
+ZVC-2026-0030,Claim Details Entered,2026-01-16 02:19:00,2026-01-16 02:41:00,Kavita Malhotra,Property
+ZVC-2026-0030,Claim Triaged,2026-01-16 03:26:00,2026-01-16 03:35:00,Kavita Malhotra,Property
+ZVC-2026-0006,Settlement Approved,2026-01-16 05:56:00,2026-01-16 06:20:00,Shalini Bose,Property
+ZVC-2026-0012,Manual Review,2026-01-16 06:38:00,2026-01-16 10:30:00,Farah Siddiqui,Property
+ZVC-2026-0028,Manual Review,2026-01-16 07:23:00,2026-01-16 08:47:00,Sneha Iyer,Motor
+ZVC-2026-0031,Email Read and Logged,2026-01-16 07:29:00,2026-01-16 07:56:00,Rakesh Pandey,Travel
+ZVC-2026-0024,Claimant Notified,2026-01-16 07:57:00,2026-01-16 08:08:00,Meera Joshi,Motor
+ZVC-2026-0031,Claim Details Entered,2026-01-16 08:31:00,2026-01-16 09:14:00,Rakesh Pandey,Travel
+ZVC-2026-0030,Assigned to Assessor,2026-01-16 09:26:00,2026-01-16 09:36:00,Kavita Malhotra,Property
+ZVC-2026-0028,Request Additional Documents,2026-01-16 09:28:00,2026-01-16 09:39:00,Sneha Iyer,Motor
+ZVC-2026-0031,Claim Triaged,2026-01-16 09:54:00,2026-01-16 10:13:00,Rakesh Pandey,Travel
+ZVC-2026-0032,Email Read and Logged,2026-01-16 10:11:00,2026-01-16 10:33:00,Rakesh Pandey,Motor
+ZVC-2026-0027,Assessment Completed,2026-01-16 10:37:00,2026-01-16 12:18:00,Farah Siddiqui,Motor
+ZVC-2026-0032,Claim Details Entered,2026-01-16 10:51:00,2026-01-16 11:13:00,Rakesh Pandey,Motor
+ZVC-2026-0012,Request Additional Documents,2026-01-16 10:55:00,2026-01-16 11:13:00,Farah Siddiqui,Property
+ZVC-2026-0032,Claim Triaged,2026-01-16 11:38:00,2026-01-16 11:58:00,Rakesh Pandey,Motor
+ZVC-2026-0035,Claim Email Received,2026-01-16 13:00:00,2026-01-16 13:02:00,Claims Inbox,Motor
+ZVC-2026-0034,Claim Email Received,2026-01-16 13:21:00,2026-01-16 13:22:00,Claims Inbox,Motor
+ZVC-2026-0023,Manual Review,2026-01-16 13:33:00,2026-01-16 16:12:00,Ravi Menon,Property
+ZVC-2026-0032,Assigned to Assessor,2026-01-16 16:09:00,2026-01-16 16:15:00,Rakesh Pandey,Motor
+ZVC-2026-0033,Claim Email Received,2026-01-16 16:58:00,2026-01-16 17:00:00,Claims Inbox,Travel
+ZVC-2026-0029,Manual Review,2026-01-16 17:06:00,2026-01-16 18:40:00,Vikram Rao,Motor
+ZVC-2026-0031,Assigned to Assessor,2026-01-16 17:22:00,2026-01-16 17:28:00,Rakesh Pandey,Travel
+ZVC-2026-0029,Claim Returned for Correction,2026-01-16 19:18:00,2026-01-16 19:28:00,Vikram Rao,Motor
+ZVC-2026-0029,Claim Details Entered,2026-01-16 21:11:00,2026-01-16 21:32:00,Kavita Malhotra,Motor
+ZVC-2026-0032,Manual Review,2026-01-16 21:19:00,2026-01-16 22:10:00,Anand Krishnan,Motor
+ZVC-2026-0023,Assessment Completed,2026-01-16 21:40:00,2026-01-17 02:28:00,Ravi Menon,Property
+ZVC-2026-0024,Claim Closed,2026-01-16 22:01:00,2026-01-16 22:05:00,Meera Joshi,Motor
+ZVC-2026-0009,Documents Received,2026-01-17 00:46:00,2026-01-17 00:49:00,Claims Inbox,Motor
+ZVC-2026-0029,Manual Review,2026-01-17 01:36:00,2026-01-17 02:24:00,Vikram Rao,Motor
+ZVC-2026-0029,Claim Returned for Correction,2026-01-17 02:44:00,2026-01-17 03:08:00,Vikram Rao,Motor
+ZVC-2026-0019,Documents Received,2026-01-17 03:46:00,2026-01-17 03:51:00,Claims Inbox,Motor
+ZVC-2026-0015,Documents Received,2026-01-17 04:23:00,2026-01-17 04:28:00,Claims Inbox,Property
+ZVC-2026-0031,Manual Review,2026-01-17 05:08:00,2026-01-17 06:13:00,Ravi Menon,Travel
+ZVC-2026-0004,Documents Received,2026-01-17 05:51:00,2026-01-17 05:57:00,Claims Inbox,Travel
+ZVC-2026-0029,Claim Details Entered,2026-01-17 05:57:00,2026-01-17 06:13:00,Kavita Malhotra,Motor
+ZVC-2026-0035,Email Read and Logged,2026-01-17 06:01:00,2026-01-17 06:21:00,Meera Joshi,Motor
+ZVC-2026-0035,Claim Details Entered,2026-01-17 06:30:00,2026-01-17 07:12:00,Meera Joshi,Motor
+ZVC-2026-0031,Claim Returned for Correction,2026-01-17 06:49:00,2026-01-17 07:09:00,Ravi Menon,Travel
+ZVC-2026-0022,Payment Issued,2026-01-17 08:14:00,2026-01-17 08:21:00,Shalini Bose,Motor
+ZVC-2026-0035,Claim Triaged,2026-01-17 09:14:00,2026-01-17 09:31:00,Meera Joshi,Motor
+ZVC-2026-0023,Settlement Approved,2026-01-17 09:34:00,2026-01-17 09:53:00,Nikhil Gupta,Property
+ZVC-2026-0029,Manual Review,2026-01-17 09:36:00,2026-01-17 11:00:00,Vikram Rao,Motor
+ZVC-2026-0031,Claim Details Entered,2026-01-17 09:40:00,2026-01-17 10:06:00,Rakesh Pandey,Travel
+ZVC-2026-0034,Email Read and Logged,2026-01-17 10:05:00,2026-01-17 10:24:00,Anita Dsouza,Motor
+ZVC-2026-0037,Claim Email Received,2026-01-17 10:20:00,2026-01-17 10:22:00,Claims Inbox,Property
+ZVC-2026-0034,Claim Details Entered,2026-01-17 11:02:00,2026-01-17 11:26:00,Anita Dsouza,Motor
+ZVC-2026-0034,Claim Triaged,2026-01-17 12:20:00,2026-01-17 12:36:00,Anita Dsouza,Motor
+ZVC-2026-0028,Documents Received,2026-01-17 12:30:00,2026-01-17 12:33:00,Claims Inbox,Motor
+ZVC-2026-0035,Assigned to Assessor,2026-01-17 12:44:00,2026-01-17 12:52:00,Meera Joshi,Motor
+ZVC-2026-0019,Assessment Completed,2026-01-17 13:01:00,2026-01-17 14:19:00,Anand Krishnan,Motor
+ZVC-2026-0009,Assessment Completed,2026-01-17 13:04:00,2026-01-17 14:19:00,Joseph Thomas,Motor
+ZVC-2026-0015,Request Additional Documents,2026-01-17 13:34:00,2026-01-17 13:48:00,Ravi Menon,Property
+ZVC-2026-0022,Claimant Notified,2026-01-17 13:54:00,2026-01-17 14:06:00,Rakesh Pandey,Motor
+ZVC-2026-0036,Claim Email Received,2026-01-17 14:02:00,2026-01-17 14:04:00,Claims Inbox,Travel
+ZVC-2026-0027,Settlement Approved,2026-01-17 14:08:00,2026-01-17 14:41:00,Nikhil Gupta,Motor
+ZVC-2026-0038,Claim Email Received,2026-01-17 14:54:00,2026-01-17 14:55:00,Claims Inbox,Travel
+ZVC-2026-0017,Documents Received,2026-01-17 14:56:00,2026-01-17 15:01:00,Claims Inbox,Motor
+ZVC-2026-0037,Email Read and Logged,2026-01-17 15:21:00,2026-01-17 15:43:00,Priya Nair,Property
+ZVC-2026-0029,Assessment Completed,2026-01-17 15:31:00,2026-01-17 17:20:00,Vikram Rao,Motor
+ZVC-2026-0037,Claim Details Entered,2026-01-17 15:52:00,2026-01-17 16:34:00,Priya Nair,Property
+ZVC-2026-0022,Claim Closed,2026-01-17 15:58:00,2026-01-17 16:00:00,Rakesh Pandey,Motor
+ZVC-2026-0025,Payment Issued,2026-01-17 16:03:00,2026-01-17 16:15:00,Nikhil Gupta,Motor
+ZVC-2026-0037,Claim Triaged,2026-01-17 17:41:00,2026-01-17 17:52:00,Priya Nair,Property
+ZVC-2026-0032,Assessment Completed,2026-01-17 17:51:00,2026-01-17 19:43:00,Anand Krishnan,Motor
+ZVC-2026-0033,Email Read and Logged,2026-01-17 18:43:00,2026-01-17 18:57:00,Kavita Malhotra,Travel
+ZVC-2026-0034,Assigned to Assessor,2026-01-17 18:46:00,2026-01-17 18:57:00,Anita Dsouza,Motor
+ZVC-2026-0033,Claim Details Entered,2026-01-17 19:20:00,2026-01-17 20:00:00,Kavita Malhotra,Travel
+ZVC-2026-0028,Assessment Completed,2026-01-17 19:30:00,2026-01-17 21:06:00,Sneha Iyer,Motor
+ZVC-2026-0025,Claimant Notified,2026-01-17 19:49:00,2026-01-17 19:57:00,Anita Dsouza,Motor
+ZVC-2026-0018,Assessment Completed,2026-01-17 19:59:00,2026-01-17 23:34:00,Joseph Thomas,Property
+ZVC-2026-0037,Assigned to Assessor,2026-01-17 20:41:00,2026-01-17 20:46:00,Priya Nair,Property
+ZVC-2026-0033,Claim Triaged,2026-01-17 22:02:00,2026-01-17 22:13:00,Kavita Malhotra,Travel
+ZVC-2026-0038,Email Read and Logged,2026-01-17 22:41:00,2026-01-17 22:54:00,Rakesh Pandey,Travel
+ZVC-2026-0038,Claim Details Entered,2026-01-17 23:11:00,2026-01-17 23:30:00,Rakesh Pandey,Travel
+ZVC-2026-0004,Assessment Completed,2026-01-17 23:30:00,2026-01-18 02:08:00,Joseph Thomas,Travel
+ZVC-2026-0017,Assessment Completed,2026-01-18 00:36:00,2026-01-18 02:18:00,Joseph Thomas,Motor
+ZVC-2026-0038,Claim Triaged,2026-01-18 02:00:00,2026-01-18 02:10:00,Rakesh Pandey,Travel
+ZVC-2026-0033,Assigned to Assessor,2026-01-18 02:34:00,2026-01-18 02:44:00,Kavita Malhotra,Travel
+ZVC-2026-0025,Claim Closed,2026-01-18 04:08:00,2026-01-18 04:12:00,Anita Dsouza,Motor
+ZVC-2026-0036,Email Read and Logged,2026-01-18 06:42:00,2026-01-18 07:00:00,Meera Joshi,Travel
+ZVC-2026-0017,Settlement Approved,2026-01-18 06:53:00,2026-01-18 07:28:00,Nikhil Gupta,Motor
+ZVC-2026-0036,Claim Details Entered,2026-01-18 07:21:00,2026-01-18 08:02:00,Meera Joshi,Travel
+ZVC-2026-0034,Manual Review,2026-01-18 07:32:00,2026-01-18 08:55:00,Anand Krishnan,Motor
+ZVC-2026-0038,Assigned to Assessor,2026-01-18 07:38:00,2026-01-18 07:49:00,Rakesh Pandey,Travel
+ZVC-2026-0020,Documents Received,2026-01-18 08:09:00,2026-01-18 08:11:00,Claims Inbox,Travel
+ZVC-2026-0035,Manual Review,2026-01-18 08:21:00,2026-01-18 09:29:00,Vikram Rao,Motor
+ZVC-2026-0036,Claim Triaged,2026-01-18 08:29:00,2026-01-18 08:46:00,Meera Joshi,Travel
+ZVC-2026-0041,Claim Email Received,2026-01-18 09:24:00,2026-01-18 09:25:00,Claims Inbox,Property
+ZVC-2026-0034,Claim Returned for Correction,2026-01-18 09:32:00,2026-01-18 09:46:00,Anand Krishnan,Motor
+ZVC-2026-0031,Manual Review,2026-01-18 10:27:00,2026-01-18 12:31:00,Ravi Menon,Travel
+ZVC-2026-0035,Claim Returned for Correction,2026-01-18 10:43:00,2026-01-18 11:00:00,Vikram Rao,Motor
+ZVC-2026-0036,Assigned to Assessor,2026-01-18 10:44:00,2026-01-18 10:55:00,Meera Joshi,Travel
+ZVC-2026-0023,Payment Issued,2026-01-18 11:26:00,2026-01-18 11:36:00,Nikhil Gupta,Property
+ZVC-2026-0018,Settlement Approved,2026-01-18 12:17:00,2026-01-18 12:53:00,Nikhil Gupta,Property
+ZVC-2026-0009,Settlement Approved,2026-01-18 12:25:00,2026-01-18 13:00:00,Nikhil Gupta,Motor
+ZVC-2026-0040,Claim Email Received,2026-01-18 13:15:00,2026-01-18 13:16:00,Claims Inbox,Motor
+ZVC-2026-0004,Settlement Approved,2026-01-18 13:37:00,2026-01-18 14:15:00,Shalini Bose,Travel
+ZVC-2026-0039,Claim Email Received,2026-01-18 13:45:00,2026-01-18 13:46:00,Claims Inbox,Motor
+ZVC-2026-0030,Manual Review,2026-01-18 14:29:00,2026-01-18 16:31:00,Ravi Menon,Property
+ZVC-2026-0035,Claim Details Entered,2026-01-18 14:53:00,2026-01-18 15:26:00,Meera Joshi,Motor
+ZVC-2026-0023,Claimant Notified,2026-01-18 15:26:00,2026-01-18 15:30:00,Priya Nair,Property
+ZVC-2026-0006,Payment Issued,2026-01-18 15:34:00,2026-01-18 15:39:00,Shalini Bose,Property
+ZVC-2026-0034,Claim Details Entered,2026-01-18 15:38:00,2026-01-18 15:58:00,Anita Dsouza,Motor
+ZVC-2026-0030,Request Additional Documents,2026-01-18 16:55:00,2026-01-18 17:06:00,Ravi Menon,Property
+ZVC-2026-0031,Assessment Completed,2026-01-18 18:03:00,2026-01-18 19:26:00,Ravi Menon,Travel
+ZVC-2026-0006,Claimant Notified,2026-01-18 18:22:00,2026-01-18 18:32:00,Rakesh Pandey,Property
+ZVC-2026-0028,Settlement Approved,2026-01-18 19:19:00,2026-01-18 19:59:00,Nikhil Gupta,Motor
+ZVC-2026-0008,Documents Received,2026-01-18 21:00:00,2026-01-18 21:02:00,Claims Inbox,Property
+ZVC-2026-0018,Payment Issued,2026-01-18 21:11:00,2026-01-18 21:25:00,Shalini Bose,Property
+ZVC-2026-0019,Settlement Approved,2026-01-18 21:26:00,2026-01-18 21:58:00,Nikhil Gupta,Motor
+ZVC-2026-0038,Manual Review,2026-01-18 21:32:00,2026-01-18 22:12:00,Anand Krishnan,Travel
+ZVC-2026-0029,Settlement Approved,2026-01-18 23:25:00,2026-01-18 23:58:00,Shalini Bose,Motor
+ZVC-2026-0038,Claim Returned for Correction,2026-01-18 23:39:00,2026-01-19 00:00:00,Anand Krishnan,Travel
+ZVC-2026-0018,Claimant Notified,2026-01-18 23:54:00,2026-01-18 23:59:00,Meera Joshi,Property
+ZVC-2026-0034,Manual Review,2026-01-19 00:25:00,2026-01-19 01:51:00,Anand Krishnan,Motor
+ZVC-2026-0039,Email Read and Logged,2026-01-19 00:56:00,2026-01-19 01:11:00,Meera Joshi,Motor
+ZVC-2026-0006,Claim Closed,2026-01-19 01:06:00,2026-01-19 01:11:00,Rakesh Pandey,Property
+ZVC-2026-0033,Manual Review,2026-01-19 01:33:00,2026-01-19 02:27:00,Vikram Rao,Travel
+ZVC-2026-0039,Claim Details Entered,2026-01-19 01:43:00,2026-01-19 02:08:00,Meera Joshi,Motor
+ZVC-2026-0020,Assessment Completed,2026-01-19 01:55:00,2026-01-19 03:05:00,Sneha Iyer,Travel
+ZVC-2026-0038,Claim Details Entered,2026-01-19 01:57:00,2026-01-19 02:16:00,Rakesh Pandey,Travel
+ZVC-2026-0034,Claim Returned for Correction,2026-01-19 03:06:00,2026-01-19 03:25:00,Anand Krishnan,Motor
+ZVC-2026-0033,Request Additional Documents,2026-01-19 03:09:00,2026-01-19 03:25:00,Vikram Rao,Travel
+ZVC-2026-0018,Claim Closed,2026-01-19 03:27:00,2026-01-19 03:29:00,Meera Joshi,Property
+ZVC-2026-0027,Payment Issued,2026-01-19 03:46:00,2026-01-19 03:54:00,Nikhil Gupta,Motor
+ZVC-2026-0039,Claim Triaged,2026-01-19 03:51:00,2026-01-19 04:00:00,Meera Joshi,Motor
+ZVC-2026-0034,Claim Details Entered,2026-01-19 06:11:00,2026-01-19 06:26:00,Anita Dsouza,Motor
+ZVC-2026-0038,Manual Review,2026-01-19 06:13:00,2026-01-19 07:04:00,Anand Krishnan,Travel
+ZVC-2026-0036,Manual Review,2026-01-19 06:17:00,2026-01-19 07:19:00,Farah Siddiqui,Travel
+ZVC-2026-0036,Request Additional Documents,2026-01-19 07:31:00,2026-01-19 07:43:00,Farah Siddiqui,Travel
+ZVC-2026-0038,Claim Returned for Correction,2026-01-19 07:35:00,2026-01-19 07:48:00,Anand Krishnan,Travel
+ZVC-2026-0032,Settlement Approved,2026-01-19 07:41:00,2026-01-19 08:12:00,Shalini Bose,Motor
+ZVC-2026-0035,Manual Review,2026-01-19 08:23:00,2026-01-19 09:06:00,Vikram Rao,Motor
+ZVC-2026-0027,Claimant Notified,2026-01-19 08:40:00,2026-01-19 08:50:00,Kavita Malhotra,Motor
+ZVC-2026-0041,Email Read and Logged,2026-01-19 09:24:00,2026-01-19 09:46:00,Anita Dsouza,Property
+ZVC-2026-0039,Assigned to Assessor,2026-01-19 09:45:00,2026-01-19 09:51:00,Meera Joshi,Motor
+ZVC-2026-0035,Request Additional Documents,2026-01-19 09:46:00,2026-01-19 10:04:00,Vikram Rao,Motor
+ZVC-2026-0041,Claim Details Entered,2026-01-19 10:14:00,2026-01-19 10:47:00,Anita Dsouza,Property
+ZVC-2026-0038,Claim Details Entered,2026-01-19 12:40:00,2026-01-19 12:56:00,Rakesh Pandey,Travel
+ZVC-2026-0041,Claim Triaged,2026-01-19 12:45:00,2026-01-19 12:55:00,Anita Dsouza,Property
+ZVC-2026-0037,Manual Review,2026-01-19 13:12:00,2026-01-19 17:02:00,Sneha Iyer,Property
+ZVC-2026-0040,Email Read and Logged,2026-01-19 13:37:00,2026-01-19 14:05:00,Rakesh Pandey,Motor
+ZVC-2026-0044,Claim Email Received,2026-01-19 14:07:00,2026-01-19 14:08:00,Claims Inbox,Motor
+ZVC-2026-0023,Claim Closed,2026-01-19 14:18:00,2026-01-19 14:21:00,Priya Nair,Property
+ZVC-2026-0040,Claim Details Entered,2026-01-19 14:27:00,2026-01-19 14:57:00,Rakesh Pandey,Motor
+ZVC-2026-0040,Claim Triaged,2026-01-19 16:26:00,2026-01-19 16:41:00,Rakesh Pandey,Motor
+ZVC-2026-0043,Claim Email Received,2026-01-19 16:48:00,2026-01-19 16:50:00,Claims Inbox,Motor
+ZVC-2026-0042,Claim Email Received,2026-01-19 17:07:00,2026-01-19 17:09:00,Claims Inbox,Property
+ZVC-2026-0037,Claim Returned for Correction,2026-01-19 17:54:00,2026-01-19 18:13:00,Sneha Iyer,Property
+ZVC-2026-0027,Claim Closed,2026-01-19 17:55:00,2026-01-19 18:01:00,Kavita Malhotra,Motor
+ZVC-2026-0041,Assigned to Assessor,2026-01-19 19:37:00,2026-01-19 19:41:00,Anita Dsouza,Property
+ZVC-2026-0019,Payment Issued,2026-01-19 19:39:00,2026-01-19 19:49:00,Shalini Bose,Motor
+ZVC-2026-0039,Manual Review,2026-01-19 19:49:00,2026-01-19 20:36:00,Anand Krishnan,Motor
+ZVC-2026-0040,Assigned to Assessor,2026-01-19 19:57:00,2026-01-19 20:08:00,Rakesh Pandey,Motor
+ZVC-2026-0037,Claim Details Entered,2026-01-19 22:02:00,2026-01-19 22:32:00,Priya Nair,Property
+ZVC-2026-0043,Email Read and Logged,2026-01-20 00:21:00,2026-01-20 00:40:00,Anita Dsouza,Motor
+ZVC-2026-0043,Claim Details Entered,2026-01-20 01:09:00,2026-01-20 01:30:00,Anita Dsouza,Motor
+ZVC-2026-0017,Payment Issued,2026-01-20 01:32:00,2026-01-20 01:39:00,Shalini Bose,Motor
+ZVC-2026-0042,Email Read and Logged,2026-01-20 01:41:00,2026-01-20 01:55:00,Suresh Iyer,Property
+ZVC-2026-0019,Claimant Notified,2026-01-20 02:07:00,2026-01-20 02:11:00,Kavita Malhotra,Motor
+ZVC-2026-0042,Claim Details Entered,2026-01-20 02:08:00,2026-01-20 02:46:00,Suresh Iyer,Property
+ZVC-2026-0031,Settlement Approved,2026-01-20 03:00:00,2026-01-20 03:33:00,Shalini Bose,Travel
+ZVC-2026-0034,Manual Review,2026-01-20 04:01:00,2026-01-20 04:51:00,Anand Krishnan,Motor
+ZVC-2026-0004,Payment Issued,2026-01-20 04:11:00,2026-01-20 04:26:00,Shalini Bose,Travel
+ZVC-2026-0043,Claim Triaged,2026-01-20 04:26:00,2026-01-20 04:37:00,Anita Dsouza,Motor
+ZVC-2026-0017,Claimant Notified,2026-01-20 04:30:00,2026-01-20 04:34:00,Rakesh Pandey,Motor
+ZVC-2026-0042,Claim Triaged,2026-01-20 05:41:00,2026-01-20 05:53:00,Suresh Iyer,Property
+ZVC-2026-0019,Claim Closed,2026-01-20 06:10:00,2026-01-20 06:13:00,Kavita Malhotra,Motor
+ZVC-2026-0017,Claim Closed,2026-01-20 06:49:00,2026-01-20 06:53:00,Rakesh Pandey,Motor
+ZVC-2026-0016,Documents Received,2026-01-20 07:23:00,2026-01-20 07:28:00,Claims Inbox,Travel
+ZVC-2026-0012,Documents Received,2026-01-20 07:48:00,2026-01-20 07:54:00,Claims Inbox,Property
+ZVC-2026-0044,Email Read and Logged,2026-01-20 08:12:00,2026-01-20 08:40:00,Suresh Iyer,Motor
+ZVC-2026-0009,Payment Issued,2026-01-20 08:19:00,2026-01-20 08:26:00,Nikhil Gupta,Motor
+ZVC-2026-0047,Claim Email Received,2026-01-20 08:34:00,2026-01-20 08:35:00,Claims Inbox,Motor
+ZVC-2026-0043,Assigned to Assessor,2026-01-20 08:39:00,2026-01-20 08:51:00,Anita Dsouza,Motor
+ZVC-2026-0039,Assessment Completed,2026-01-20 09:02:00,2026-01-20 10:54:00,Anand Krishnan,Motor
+ZVC-2026-0044,Claim Details Entered,2026-01-20 09:17:00,2026-01-20 09:50:00,Suresh Iyer,Motor
+ZVC-2026-0020,Settlement Approved,2026-01-20 09:46:00,2026-01-20 10:13:00,Nikhil Gupta,Travel
+ZVC-2026-0041,Manual Review,2026-01-20 10:14:00,2026-01-20 13:55:00,Vikram Rao,Property
+ZVC-2026-0029,Payment Issued,2026-01-20 11:21:00,2026-01-20 11:26:00,Shalini Bose,Motor
+ZVC-2026-0004,Claimant Notified,2026-01-20 11:26:00,2026-01-20 11:37:00,Kavita Malhotra,Travel
+ZVC-2026-0040,Manual Review,2026-01-20 11:34:00,2026-01-20 12:45:00,Ravi Menon,Motor
+ZVC-2026-0042,Assigned to Assessor,2026-01-20 12:03:00,2026-01-20 12:16:00,Suresh Iyer,Property
+ZVC-2026-0044,Claim Triaged,2026-01-20 12:22:00,2026-01-20 12:32:00,Suresh Iyer,Motor
+ZVC-2026-0046,Claim Email Received,2026-01-20 12:57:00,2026-01-20 12:59:00,Claims Inbox,Travel
+ZVC-2026-0009,Claimant Notified,2026-01-20 13:00:00,2026-01-20 13:04:00,Meera Joshi,Motor
+ZVC-2026-0040,Claim Returned for Correction,2026-01-20 13:05:00,2026-01-20 13:20:00,Ravi Menon,Motor
+ZVC-2026-0034,Assessment Completed,2026-01-20 13:13:00,2026-01-20 14:41:00,Anand Krishnan,Motor
+ZVC-2026-0037,Manual Review,2026-01-20 14:06:00,2026-01-20 17:44:00,Sneha Iyer,Property
+ZVC-2026-0044,Assigned to Assessor,2026-01-20 14:25:00,2026-01-20 14:36:00,Suresh Iyer,Motor
+ZVC-2026-0043,Manual Review,2026-01-20 14:37:00,2026-01-20 15:56:00,Sneha Iyer,Motor
+ZVC-2026-0041,Claim Returned for Correction,2026-01-20 14:46:00,2026-01-20 15:04:00,Vikram Rao,Property
+ZVC-2026-0045,Claim Email Received,2026-01-20 14:51:00,2026-01-20 14:52:00,Claims Inbox,Property
+ZVC-2026-0009,Claim Closed,2026-01-20 15:19:00,2026-01-20 15:21:00,Meera Joshi,Motor
+ZVC-2026-0029,Claimant Notified,2026-01-20 15:42:00,2026-01-20 15:48:00,Kavita Malhotra,Motor
+ZVC-2026-0031,Payment Issued,2026-01-20 16:17:00,2026-01-20 16:26:00,Nikhil Gupta,Travel
+ZVC-2026-0016,Request Additional Documents,2026-01-20 16:49:00,2026-01-20 16:59:00,Vikram Rao,Travel
+ZVC-2026-0038,Manual Review,2026-01-20 16:53:00,2026-01-20 18:18:00,Anand Krishnan,Travel
+ZVC-2026-0008,Assessment Completed,2026-01-20 17:26:00,2026-01-20 19:48:00,Ravi Menon,Property
+ZVC-2026-0004,Claim Closed,2026-01-20 17:28:00,2026-01-20 17:31:00,Kavita Malhotra,Travel
+ZVC-2026-0040,Claim Details Entered,2026-01-20 18:10:00,2026-01-20 18:26:00,Rakesh Pandey,Motor
+ZVC-2026-0041,Claim Details Entered,2026-01-20 18:13:00,2026-01-20 18:36:00,Anita Dsouza,Property
+ZVC-2026-0029,Claim Closed,2026-01-20 18:43:00,2026-01-20 18:48:00,Kavita Malhotra,Motor
+ZVC-2026-0038,Request Additional Documents,2026-01-20 18:55:00,2026-01-20 19:11:00,Anand Krishnan,Travel
+ZVC-2026-0047,Email Read and Logged,2026-01-20 19:07:00,2026-01-20 19:21:00,Anita Dsouza,Motor
+ZVC-2026-0031,Claimant Notified,2026-01-20 19:12:00,2026-01-20 19:19:00,Rakesh Pandey,Travel
+ZVC-2026-0047,Claim Details Entered,2026-01-20 19:39:00,2026-01-20 20:12:00,Anita Dsouza,Motor
+ZVC-2026-0026,Documents Received,2026-01-20 20:11:00,2026-01-20 20:14:00,Claims Inbox,Property
+ZVC-2026-0032,Payment Issued,2026-01-20 20:27:00,2026-01-20 20:32:00,Shalini Bose,Motor
+ZVC-2026-0031,Claim Closed,2026-01-20 22:14:00,2026-01-20 22:20:00,Rakesh Pandey,Travel
+ZVC-2026-0047,Claim Triaged,2026-01-20 22:30:00,2026-01-20 22:46:00,Anita Dsouza,Motor
+ZVC-2026-0032,Claimant Notified,2026-01-21 00:51:00,2026-01-21 00:56:00,Rakesh Pandey,Motor
+ZVC-2026-0020,Payment Issued,2026-01-21 01:30:00,2026-01-21 01:36:00,Nikhil Gupta,Travel
+ZVC-2026-0047,Assigned to Assessor,2026-01-21 02:02:00,2026-01-21 02:15:00,Anita Dsouza,Motor
+ZVC-2026-0046,Email Read and Logged,2026-01-21 02:09:00,2026-01-21 02:37:00,Kavita Malhotra,Travel
+ZVC-2026-0032,Claim Closed,2026-01-21 02:21:00,2026-01-21 02:27:00,Rakesh Pandey,Motor
+ZVC-2026-0046,Claim Details Entered,2026-01-21 02:51:00,2026-01-21 03:19:00,Kavita Malhotra,Travel
+ZVC-2026-0020,Claimant Notified,2026-01-21 04:03:00,2026-01-21 04:09:00,Suresh Iyer,Travel
+ZVC-2026-0040,Manual Review,2026-01-21 04:34:00,2026-01-21 06:09:00,Ravi Menon,Motor
+ZVC-2026-0046,Claim Triaged,2026-01-21 04:39:00,2026-01-21 04:53:00,Kavita Malhotra,Travel
+ZVC-2026-0043,Assessment Completed,2026-01-21 06:52:00,2026-01-21 08:31:00,Sneha Iyer,Motor
+ZVC-2026-0028,Payment Issued,2026-01-21 07:10:00,2026-01-21 07:25:00,Nikhil Gupta,Motor
+ZVC-2026-0039,Claim Rejected,2026-01-21 08:27:00,2026-01-21 08:56:00,Shalini Bose,Motor
+ZVC-2026-0020,Claim Closed,2026-01-21 08:28:00,2026-01-21 08:30:00,Suresh Iyer,Travel
+ZVC-2026-0044,Manual Review,2026-01-21 09:14:00,2026-01-21 10:42:00,Sneha Iyer,Motor
+ZVC-2026-0046,Assigned to Assessor,2026-01-21 13:03:00,2026-01-21 13:13:00,Kavita Malhotra,Travel
+ZVC-2026-0049,Claim Email Received,2026-01-21 13:23:00,2026-01-21 13:24:00,Claims Inbox,Property
+ZVC-2026-0028,Claimant Notified,2026-01-21 13:29:00,2026-01-21 13:33:00,Kavita Malhotra,Motor
+ZVC-2026-0050,Claim Email Received,2026-01-21 13:46:00,2026-01-21 13:48:00,Claims Inbox,Motor
+ZVC-2026-0048,Claim Email Received,2026-01-21 13:51:00,2026-01-21 13:53:00,Claims Inbox,Property
+ZVC-2026-0039,Claimant Notified,2026-01-21 14:25:00,2026-01-21 14:36:00,Meera Joshi,Motor
+ZVC-2026-0036,Documents Received,2026-01-21 14:44:00,2026-01-21 14:48:00,Claims Inbox,Travel
+ZVC-2026-0042,Manual Review,2026-01-21 14:58:00,2026-01-21 18:18:00,Farah Siddiqui,Property
+ZVC-2026-0045,Email Read and Logged,2026-01-21 15:25:00,2026-01-21 15:50:00,Anita Dsouza,Property
+ZVC-2026-0034,Settlement Approved,2026-01-21 15:49:00,2026-01-21 16:21:00,Shalini Bose,Motor
+ZVC-2026-0040,Assessment Completed,2026-01-21 16:10:00,2026-01-21 18:10:00,Ravi Menon,Motor
+ZVC-2026-0045,Claim Details Entered,2026-01-21 16:12:00,2026-01-21 16:30:00,Anita Dsouza,Property
+ZVC-2026-0047,Manual Review,2026-01-21 17:15:00,2026-01-21 18:23:00,Sneha Iyer,Motor
+ZVC-2026-0045,Claim Triaged,2026-01-21 18:11:00,2026-01-21 18:22:00,Anita Dsouza,Property
+ZVC-2026-0042,Claim Returned for Correction,2026-01-21 18:44:00,2026-01-21 19:09:00,Farah Siddiqui,Property
+ZVC-2026-0042,Claim Details Entered,2026-01-21 21:27:00,2026-01-21 21:56:00,Suresh Iyer,Property
+ZVC-2026-0045,Assigned to Assessor,2026-01-21 23:53:00,2026-01-22 00:03:00,Anita Dsouza,Property
+ZVC-2026-0008,Settlement Approved,2026-01-21 23:55:00,2026-01-22 00:33:00,Nikhil Gupta,Property
+ZVC-2026-0037,Assessment Completed,2026-01-22 01:59:00,2026-01-22 05:45:00,Sneha Iyer,Property
+ZVC-2026-0040,Settlement Approved,2026-01-22 02:46:00,2026-01-22 03:08:00,Shalini Bose,Motor
+ZVC-2026-0038,Documents Received,2026-01-22 04:23:00,2026-01-22 04:27:00,Claims Inbox,Travel
+ZVC-2026-0044,Assessment Completed,2026-01-22 04:47:00,2026-01-22 05:33:00,Sneha Iyer,Motor
+ZVC-2026-0028,Claim Closed,2026-01-22 05:23:00,2026-01-22 05:27:00,Kavita Malhotra,Motor
+ZVC-2026-0047,Assessment Completed,2026-01-22 05:31:00,2026-01-22 06:58:00,Sneha Iyer,Motor
+ZVC-2026-0048,Email Read and Logged,2026-01-22 05:38:00,2026-01-22 05:53:00,Meera Joshi,Property
+ZVC-2026-0039,Claim Closed,2026-01-22 05:39:00,2026-01-22 05:43:00,Meera Joshi,Motor
+ZVC-2026-0048,Claim Details Entered,2026-01-22 06:01:00,2026-01-22 06:35:00,Meera Joshi,Property
+ZVC-2026-0048,Claim Triaged,2026-01-22 07:20:00,2026-01-22 07:29:00,Meera Joshi,Property
+ZVC-2026-0048,Assigned to Assessor,2026-01-22 10:25:00,2026-01-22 10:39:00,Meera Joshi,Property
+ZVC-2026-0036,Assessment Completed,2026-01-22 10:55:00,2026-01-22 12:07:00,Farah Siddiqui,Travel
+ZVC-2026-0012,Assessment Completed,2026-01-22 11:10:00,2026-01-22 13:22:00,Farah Siddiqui,Property
+ZVC-2026-0041,Manual Review,2026-01-22 11:16:00,2026-01-22 13:08:00,Vikram Rao,Property
+ZVC-2026-0038,Request Additional Documents,2026-01-22 11:28:00,2026-01-22 11:41:00,Anand Krishnan,Travel
+ZVC-2026-0047,Settlement Approved,2026-01-22 11:30:00,2026-01-22 11:59:00,Nikhil Gupta,Motor
+ZVC-2026-0052,Claim Email Received,2026-01-22 11:50:00,2026-01-22 11:51:00,Claims Inbox,Property
+ZVC-2026-0046,Manual Review,2026-01-22 12:02:00,2026-01-22 13:45:00,Vikram Rao,Travel
+ZVC-2026-0049,Email Read and Logged,2026-01-22 12:54:00,2026-01-22 13:22:00,Kavita Malhotra,Property
+ZVC-2026-0050,Email Read and Logged,2026-01-22 13:17:00,2026-01-22 13:39:00,Priya Nair,Motor
+ZVC-2026-0049,Claim Details Entered,2026-01-22 13:37:00,2026-01-22 14:19:00,Kavita Malhotra,Property
+ZVC-2026-0050,Claim Details Entered,2026-01-22 14:00:00,2026-01-22 14:21:00,Priya Nair,Motor
+ZVC-2026-0051,Claim Email Received,2026-01-22 15:27:00,2026-01-22 15:29:00,Claims Inbox,Travel
+ZVC-2026-0049,Claim Triaged,2026-01-22 16:03:00,2026-01-22 16:19:00,Kavita Malhotra,Property
+ZVC-2026-0053,Claim Email Received,2026-01-22 17:00:00,2026-01-22 17:01:00,Claims Inbox,Travel
+ZVC-2026-0050,Claim Triaged,2026-01-22 17:02:00,2026-01-22 17:18:00,Priya Nair,Motor
+ZVC-2026-0008,Payment Issued,2026-01-22 17:30:00,2026-01-22 17:40:00,Shalini Bose,Property
+ZVC-2026-0035,Documents Received,2026-01-22 19:09:00,2026-01-22 19:14:00,Claims Inbox,Motor
+ZVC-2026-0043,Settlement Approved,2026-01-22 21:06:00,2026-01-22 21:24:00,Shalini Bose,Motor
+ZVC-2026-0050,Assigned to Assessor,2026-01-22 21:41:00,2026-01-22 21:47:00,Priya Nair,Motor
+ZVC-2026-0026,Assessment Completed,2026-01-22 22:30:00,2026-01-23 02:08:00,Anand Krishnan,Property
+ZVC-2026-0008,Claimant Notified,2026-01-22 23:16:00,2026-01-22 23:27:00,Anita Dsouza,Property
+ZVC-2026-0049,Assigned to Assessor,2026-01-23 00:31:00,2026-01-23 00:40:00,Kavita Malhotra,Property
+ZVC-2026-0052,Email Read and Logged,2026-01-23 03:09:00,2026-01-23 03:34:00,Meera Joshi,Property
+ZVC-2026-0052,Claim Details Entered,2026-01-23 03:45:00,2026-01-23 04:11:00,Meera Joshi,Property
+ZVC-2026-0052,Claim Triaged,2026-01-23 04:37:00,2026-01-23 04:49:00,Meera Joshi,Property
+ZVC-2026-0036,Settlement Approved,2026-01-23 04:57:00,2026-01-23 05:22:00,Nikhil Gupta,Travel
+ZVC-2026-0035,Assessment Completed,2026-01-23 05:29:00,2026-01-23 06:30:00,Vikram Rao,Motor
+ZVC-2026-0044,Settlement Approved,2026-01-23 05:30:00,2026-01-23 06:05:00,Shalini Bose,Motor
+ZVC-2026-0048,Manual Review,2026-01-23 07:47:00,2026-01-23 09:23:00,Farah Siddiqui,Property
+ZVC-2026-0016,Documents Received,2026-01-23 08:10:00,2026-01-23 08:15:00,Claims Inbox,Travel
+ZVC-2026-0052,Assigned to Assessor,2026-01-23 08:44:00,2026-01-23 08:50:00,Meera Joshi,Property
+ZVC-2026-0053,Email Read and Logged,2026-01-23 08:51:00,2026-01-23 09:06:00,Anita Dsouza,Travel
+ZVC-2026-0053,Claim Details Entered,2026-01-23 09:38:00,2026-01-23 10:10:00,Anita Dsouza,Travel
+ZVC-2026-0048,Request Additional Documents,2026-01-23 09:56:00,2026-01-23 10:06:00,Farah Siddiqui,Property
+ZVC-2026-0053,Claim Triaged,2026-01-23 11:30:00,2026-01-23 11:50:00,Anita Dsouza,Travel
+ZVC-2026-0051,Email Read and Logged,2026-01-23 11:43:00,2026-01-23 12:07:00,Priya Nair,Travel
+ZVC-2026-0051,Claim Details Entered,2026-01-23 12:22:00,2026-01-23 12:59:00,Priya Nair,Travel
+ZVC-2026-0037,Settlement Approved,2026-01-23 12:32:00,2026-01-23 13:09:00,Shalini Bose,Property
+ZVC-2026-0034,Payment Issued,2026-01-23 12:54:00,2026-01-23 12:59:00,Shalini Bose,Motor
+ZVC-2026-0046,Assessment Completed,2026-01-23 12:56:00,2026-01-23 14:35:00,Vikram Rao,Travel
+ZVC-2026-0045,Manual Review,2026-01-23 13:23:00,2026-01-23 15:22:00,Ravi Menon,Property
+ZVC-2026-0054,Claim Email Received,2026-01-23 13:25:00,2026-01-23 13:27:00,Claims Inbox,Travel
+ZVC-2026-0053,Assigned to Assessor,2026-01-23 13:41:00,2026-01-23 13:49:00,Anita Dsouza,Travel
+ZVC-2026-0055,Claim Email Received,2026-01-23 14:10:00,2026-01-23 14:11:00,Claims Inbox,Motor
+ZVC-2026-0051,Claim Triaged,2026-01-23 15:33:00,2026-01-23 15:48:00,Priya Nair,Travel
+ZVC-2026-0056,Claim Email Received,2026-01-23 15:59:00,2026-01-23 16:00:00,Claims Inbox,Travel
+ZVC-2026-0034,Claimant Notified,2026-01-23 16:13:00,2026-01-23 16:22:00,Anita Dsouza,Motor
+ZVC-2026-0045,Request Additional Documents,2026-01-23 16:20:00,2026-01-23 16:29:00,Ravi Menon,Property
+ZVC-2026-0050,Manual Review,2026-01-23 17:10:00,2026-01-23 18:44:00,Farah Siddiqui,Motor
+ZVC-2026-0051,Assigned to Assessor,2026-01-23 18:08:00,2026-01-23 18:17:00,Priya Nair,Travel
+ZVC-2026-0040,Payment Issued,2026-01-23 18:42:00,2026-01-23 18:53:00,Nikhil Gupta,Motor
+ZVC-2026-0012,Settlement Approved,2026-01-23 20:23:00,2026-01-23 20:55:00,Shalini Bose,Property
+ZVC-2026-0008,Claim Closed,2026-01-23 22:45:00,2026-01-23 22:48:00,Anita Dsouza,Property
+ZVC-2026-0040,Claimant Notified,2026-01-24 00:39:00,2026-01-24 00:43:00,Rakesh Pandey,Motor
+ZVC-2026-0054,Email Read and Logged,2026-01-24 01:11:00,2026-01-24 01:36:00,Meera Joshi,Travel
+ZVC-2026-0049,Manual Review,2026-01-24 01:36:00,2026-01-24 03:16:00,Sneha Iyer,Property
+ZVC-2026-0054,Claim Details Entered,2026-01-24 01:46:00,2026-01-24 02:09:00,Meera Joshi,Travel
+ZVC-2026-0035,Claim Rejected,2026-01-24 03:22:00,2026-01-24 03:39:00,Nikhil Gupta,Motor
+ZVC-2026-0054,Claim Triaged,2026-01-24 03:25:00,2026-01-24 03:33:00,Meera Joshi,Travel
+ZVC-2026-0049,Request Additional Documents,2026-01-24 03:56:00,2026-01-24 04:13:00,Sneha Iyer,Property
+ZVC-2026-0026,Settlement Approved,2026-01-24 03:58:00,2026-01-24 04:32:00,Shalini Bose,Property
+ZVC-2026-0016,Assessment Completed,2026-01-24 04:18:00,2026-01-24 05:30:00,Vikram Rao,Travel
+ZVC-2026-0054,Assigned to Assessor,2026-01-24 04:34:00,2026-01-24 04:48:00,Meera Joshi,Travel
+ZVC-2026-0056,Email Read and Logged,2026-01-24 04:38:00,2026-01-24 05:04:00,Rakesh Pandey,Travel
+ZVC-2026-0042,Manual Review,2026-01-24 04:57:00,2026-01-24 07:37:00,Farah Siddiqui,Property
+ZVC-2026-0056,Claim Details Entered,2026-01-24 05:23:00,2026-01-24 05:56:00,Rakesh Pandey,Travel
+ZVC-2026-0050,Assessment Completed,2026-01-24 05:25:00,2026-01-24 06:52:00,Farah Siddiqui,Motor
+ZVC-2026-0046,Settlement Approved,2026-01-24 08:02:00,2026-01-24 08:20:00,Nikhil Gupta,Travel
+ZVC-2026-0035,Claimant Notified,2026-01-24 08:09:00,2026-01-24 08:13:00,Meera Joshi,Motor
+ZVC-2026-0041,Assessment Completed,2026-01-24 08:12:00,2026-01-24 11:35:00,Vikram Rao,Property
+ZVC-2026-0042,Request Additional Documents,2026-01-24 08:29:00,2026-01-24 08:39:00,Farah Siddiqui,Property
+ZVC-2026-0051,Manual Review,2026-01-24 08:36:00,2026-01-24 10:22:00,Anand Krishnan,Travel
+ZVC-2026-0056,Claim Triaged,2026-01-24 08:40:00,2026-01-24 08:48:00,Rakesh Pandey,Travel
+ZVC-2026-0047,Payment Issued,2026-01-24 09:08:00,2026-01-24 09:14:00,Shalini Bose,Motor
+ZVC-2026-0035,Claim Closed,2026-01-24 09:33:00,2026-01-24 09:35:00,Meera Joshi,Motor
+ZVC-2026-0055,Email Read and Logged,2026-01-24 09:59:00,2026-01-24 10:17:00,Rakesh Pandey,Motor
+ZVC-2026-0053,Manual Review,2026-01-24 10:19:00,2026-01-24 11:30:00,Sneha Iyer,Travel
+ZVC-2026-0055,Claim Details Entered,2026-01-24 11:02:00,2026-01-24 11:20:00,Rakesh Pandey,Motor
+ZVC-2026-0051,Claim Returned for Correction,2026-01-24 11:30:00,2026-01-24 11:46:00,Anand Krishnan,Travel
+ZVC-2026-0043,Payment Issued,2026-01-24 11:43:00,2026-01-24 11:48:00,Nikhil Gupta,Motor
+ZVC-2026-0053,Request Additional Documents,2026-01-24 11:59:00,2026-01-24 12:11:00,Sneha Iyer,Travel
+ZVC-2026-0056,Assigned to Assessor,2026-01-24 12:38:00,2026-01-24 12:50:00,Rakesh Pandey,Travel
+ZVC-2026-0051,Claim Details Entered,2026-01-24 12:47:00,2026-01-24 13:14:00,Priya Nair,Travel
+ZVC-2026-0043,Claimant Notified,2026-01-24 12:59:00,2026-01-24 13:08:00,Anita Dsouza,Motor
+ZVC-2026-0055,Claim Triaged,2026-01-24 13:32:00,2026-01-24 13:42:00,Rakesh Pandey,Motor
+ZVC-2026-0057,Claim Email Received,2026-01-24 13:49:00,2026-01-24 13:50:00,Claims Inbox,Property
+ZVC-2026-0059,Claim Email Received,2026-01-24 14:04:00,2026-01-24 14:06:00,Claims Inbox,Motor
+ZVC-2026-0058,Claim Email Received,2026-01-24 14:10:00,2026-01-24 14:12:00,Claims Inbox,Travel
+ZVC-2026-0043,Claim Closed,2026-01-24 14:49:00,2026-01-24 14:51:00,Anita Dsouza,Motor
+ZVC-2026-0034,Claim Closed,2026-01-24 15:05:00,2026-01-24 15:07:00,Anita Dsouza,Motor
+ZVC-2026-0036,Payment Issued,2026-01-24 15:07:00,2026-01-24 15:13:00,Shalini Bose,Travel
+ZVC-2026-0047,Claimant Notified,2026-01-24 16:13:00,2026-01-24 16:19:00,Anita Dsouza,Motor
+ZVC-2026-0050,Settlement Approved,2026-01-24 16:23:00,2026-01-24 16:52:00,Shalini Bose,Motor
+ZVC-2026-0036,Claimant Notified,2026-01-24 17:05:00,2026-01-24 17:14:00,Meera Joshi,Travel
+ZVC-2026-0014,Documents Received,2026-01-24 17:48:00,2026-01-24 17:51:00,Claims Inbox,Property
+ZVC-2026-0058,Email Read and Logged,2026-01-24 18:12:00,2026-01-24 18:39:00,Rakesh Pandey,Travel
+ZVC-2026-0016,Settlement Approved,2026-01-24 18:25:00,2026-01-24 18:45:00,Nikhil Gupta,Travel
+ZVC-2026-0058,Claim Details Entered,2026-01-24 19:02:00,2026-01-24 19:20:00,Rakesh Pandey,Travel
+ZVC-2026-0033,Documents Received,2026-01-24 19:10:00,2026-01-24 19:16:00,Claims Inbox,Travel
+ZVC-2026-0055,Assigned to Assessor,2026-01-24 20:40:00,2026-01-24 20:44:00,Rakesh Pandey,Motor
+ZVC-2026-0058,Claim Triaged,2026-01-24 21:14:00,2026-01-24 21:30:00,Rakesh Pandey,Travel
+ZVC-2026-0044,Payment Issued,2026-01-24 22:34:00,2026-01-24 22:43:00,Nikhil Gupta,Motor
+ZVC-2026-0058,Assigned to Assessor,2026-01-24 22:50:00,2026-01-24 23:00:00,Rakesh Pandey,Travel
+ZVC-2026-0026,Payment Issued,2026-01-25 00:11:00,2026-01-25 00:26:00,Shalini Bose,Property
+ZVC-2026-0047,Claim Closed,2026-01-25 02:15:00,2026-01-25 02:19:00,Anita Dsouza,Motor
+ZVC-2026-0040,Claim Closed,2026-01-25 02:19:00,2026-01-25 02:21:00,Rakesh Pandey,Motor
+ZVC-2026-0037,Payment Issued,2026-01-25 02:50:00,2026-01-25 02:56:00,Shalini Bose,Property
+ZVC-2026-0056,Manual Review,2026-01-25 02:52:00,2026-01-25 03:54:00,Joseph Thomas,Travel
+ZVC-2026-0033,Assessment Completed,2026-01-25 03:08:00,2026-01-25 05:43:00,Vikram Rao,Travel
+ZVC-2026-0054,Manual Review,2026-01-25 04:00:00,2026-01-25 05:25:00,Joseph Thomas,Travel
+ZVC-2026-0055,Manual Review,2026-01-25 04:30:00,2026-01-25 05:29:00,Vikram Rao,Motor
+ZVC-2026-0037,Claimant Notified,2026-01-25 04:32:00,2026-01-25 04:42:00,Priya Nair,Property
+ZVC-2026-0044,Claimant Notified,2026-01-25 05:01:00,2026-01-25 05:06:00,Suresh Iyer,Motor
+ZVC-2026-0056,Claim Returned for Correction,2026-01-25 05:16:00,2026-01-25 05:33:00,Joseph Thomas,Travel
+ZVC-2026-0036,Claim Closed,2026-01-25 06:05:00,2026-01-25 06:10:00,Meera Joshi,Travel
+ZVC-2026-0026,Claimant Notified,2026-01-25 06:10:00,2026-01-25 06:17:00,Rakesh Pandey,Property
+ZVC-2026-0046,Payment Issued,2026-01-25 08:41:00,2026-01-25 08:55:00,Nikhil Gupta,Travel
+ZVC-2026-0056,Claim Details Entered,2026-01-25 09:59:00,2026-01-25 10:19:00,Rakesh Pandey,Travel
+ZVC-2026-0057,Email Read and Logged,2026-01-25 12:05:00,2026-01-25 12:22:00,Suresh Iyer,Property
+ZVC-2026-0055,Assessment Completed,2026-01-25 12:09:00,2026-01-25 13:40:00,Vikram Rao,Motor
+ZVC-2026-0059,Email Read and Logged,2026-01-25 12:13:00,2026-01-25 12:41:00,Kavita Malhotra,Motor
+ZVC-2026-0060,Claim Email Received,2026-01-25 12:32:00,2026-01-25 12:33:00,Claims Inbox,Motor
+ZVC-2026-0057,Claim Details Entered,2026-01-25 12:44:00,2026-01-25 13:23:00,Suresh Iyer,Property
+ZVC-2026-0059,Claim Details Entered,2026-01-25 13:26:00,2026-01-25 14:04:00,Kavita Malhotra,Motor
+ZVC-2026-0046,Claimant Notified,2026-01-25 14:46:00,2026-01-25 14:50:00,Kavita Malhotra,Travel
+ZVC-2026-0051,Manual Review,2026-01-25 14:47:00,2026-01-25 15:48:00,Anand Krishnan,Travel
+ZVC-2026-0057,Claim Triaged,2026-01-25 15:10:00,2026-01-25 15:26:00,Suresh Iyer,Property
+ZVC-2026-0037,Claim Closed,2026-01-25 15:22:00,2026-01-25 15:25:00,Priya Nair,Property
+ZVC-2026-0059,Claim Triaged,2026-01-25 15:58:00,2026-01-25 16:13:00,Kavita Malhotra,Motor
+ZVC-2026-0052,Manual Review,2026-01-25 16:20:00,2026-01-25 18:10:00,Farah Siddiqui,Property
+ZVC-2026-0051,Request Additional Documents,2026-01-25 16:23:00,2026-01-25 16:41:00,Anand Krishnan,Travel
+ZVC-2026-0056,Manual Review,2026-01-25 18:13:00,2026-01-25 19:31:00,Joseph Thomas,Travel
+ZVC-2026-0012,Payment Issued,2026-01-25 18:18:00,2026-01-25 18:29:00,Nikhil Gupta,Property
+ZVC-2026-0054,Assessment Completed,2026-01-25 18:26:00,2026-01-25 20:54:00,Joseph Thomas,Travel
+ZVC-2026-0052,Request Additional Documents,2026-01-25 18:34:00,2026-01-25 18:48:00,Farah Siddiqui,Property
+ZVC-2026-0056,Request Additional Documents,2026-01-25 20:16:00,2026-01-25 20:28:00,Joseph Thomas,Travel
+ZVC-2026-0044,Claim Closed,2026-01-25 20:58:00,2026-01-25 21:00:00,Suresh Iyer,Motor
+ZVC-2026-0041,Settlement Approved,2026-01-25 22:16:00,2026-01-25 22:35:00,Nikhil Gupta,Property
+ZVC-2026-0046,Claim Closed,2026-01-25 22:38:00,2026-01-25 22:41:00,Kavita Malhotra,Travel
+ZVC-2026-0057,Assigned to Assessor,2026-01-25 22:41:00,2026-01-25 22:53:00,Suresh Iyer,Property
+ZVC-2026-0058,Manual Review,2026-01-25 22:44:00,2026-01-25 23:30:00,Farah Siddiqui,Travel
+ZVC-2026-0059,Assigned to Assessor,2026-01-25 23:00:00,2026-01-25 23:14:00,Kavita Malhotra,Motor
+ZVC-2026-0012,Claimant Notified,2026-01-25 23:46:00,2026-01-25 23:56:00,Priya Nair,Property
+ZVC-2026-0060,Email Read and Logged,2026-01-26 01:24:00,2026-01-26 01:43:00,Priya Nair,Motor
+ZVC-2026-0060,Claim Details Entered,2026-01-26 02:05:00,2026-01-26 02:38:00,Priya Nair,Motor
+ZVC-2026-0050,Payment Issued,2026-01-26 02:23:00,2026-01-26 02:33:00,Shalini Bose,Motor
+ZVC-2026-0012,Claim Closed,2026-01-26 03:10:00,2026-01-26 03:16:00,Priya Nair,Property
+ZVC-2026-0060,Claim Triaged,2026-01-26 03:29:00,2026-01-26 03:44:00,Priya Nair,Motor
+ZVC-2026-0054,Settlement Approved,2026-01-26 03:51:00,2026-01-26 04:22:00,Nikhil Gupta,Travel
+ZVC-2026-0038,Documents Received,2026-01-26 05:18:00,2026-01-26 05:21:00,Claims Inbox,Travel
+ZVC-2026-0059,Manual Review,2026-01-26 06:23:00,2026-01-26 07:56:00,Sneha Iyer,Motor
+ZVC-2026-0026,Claim Closed,2026-01-26 07:26:00,2026-01-26 07:28:00,Rakesh Pandey,Property
+ZVC-2026-0060,Assigned to Assessor,2026-01-26 07:43:00,2026-01-26 07:48:00,Priya Nair,Motor
+ZVC-2026-0033,Settlement Approved,2026-01-26 08:08:00,2026-01-26 08:45:00,Shalini Bose,Travel
+ZVC-2026-0059,Claim Returned for Correction,2026-01-26 08:47:00,2026-01-26 09:10:00,Sneha Iyer,Motor
+ZVC-2026-0050,Claimant Notified,2026-01-26 09:33:00,2026-01-26 09:44:00,Priya Nair,Motor
+ZVC-2026-0054,Payment Issued,2026-01-26 11:38:00,2026-01-26 11:46:00,Shalini Bose,Travel
+ZVC-2026-0059,Claim Details Entered,2026-01-26 12:14:00,2026-01-26 12:45:00,Kavita Malhotra,Motor
+ZVC-2026-0054,Claimant Notified,2026-01-26 14:03:00,2026-01-26 14:11:00,Meera Joshi,Travel
+ZVC-2026-0014,Assessment Completed,2026-01-26 15:16:00,2026-01-26 18:42:00,Sneha Iyer,Property
+ZVC-2026-0041,Payment Issued,2026-01-26 16:33:00,2026-01-26 16:45:00,Shalini Bose,Property
+ZVC-2026-0015,Documents Received,2026-01-26 17:11:00,2026-01-26 17:14:00,Claims Inbox,Property
+ZVC-2026-0016,Payment Issued,2026-01-26 17:59:00,2026-01-26 18:12:00,Nikhil Gupta,Travel
+ZVC-2026-0041,Claimant Notified,2026-01-26 19:32:00,2026-01-26 19:42:00,Anita Dsouza,Property
+ZVC-2026-0016,Claimant Notified,2026-01-26 20:43:00,2026-01-26 20:47:00,Rakesh Pandey,Travel
+ZVC-2026-0058,Assessment Completed,2026-01-26 22:05:00,2026-01-26 23:18:00,Farah Siddiqui,Travel
+ZVC-2026-0014,Settlement Approved,2026-01-27 00:10:00,2026-01-27 00:47:00,Nikhil Gupta,Property
+ZVC-2026-0054,Claim Closed,2026-01-27 00:36:00,2026-01-27 00:39:00,Meera Joshi,Travel
+ZVC-2026-0038,Assessment Completed,2026-01-27 01:25:00,2026-01-27 03:16:00,Anand Krishnan,Travel
+ZVC-2026-0057,Manual Review,2026-01-27 02:44:00,2026-01-27 05:01:00,Anand Krishnan,Property
+ZVC-2026-0050,Claim Closed,2026-01-27 03:11:00,2026-01-27 03:14:00,Priya Nair,Motor
+ZVC-2026-0059,Manual Review,2026-01-27 04:00:00,2026-01-27 04:56:00,Sneha Iyer,Motor
+ZVC-2026-0060,Manual Review,2026-01-27 04:34:00,2026-01-27 05:56:00,Anand Krishnan,Motor
+ZVC-2026-0057,Request Additional Documents,2026-01-27 05:24:00,2026-01-27 05:40:00,Anand Krishnan,Property
+ZVC-2026-0055,Settlement Approved,2026-01-27 05:36:00,2026-01-27 06:01:00,Nikhil Gupta,Motor
+ZVC-2026-0033,Payment Issued,2026-01-27 09:11:00,2026-01-27 09:22:00,Shalini Bose,Travel
+ZVC-2026-0014,Payment Issued,2026-01-27 10:53:00,2026-01-27 11:00:00,Nikhil Gupta,Property
+ZVC-2026-0041,Claim Closed,2026-01-27 11:19:00,2026-01-27 11:21:00,Anita Dsouza,Property
+ZVC-2026-0038,Claim Rejected,2026-01-27 11:56:00,2026-01-27 12:28:00,Shalini Bose,Travel
+ZVC-2026-0014,Claimant Notified,2026-01-27 12:18:00,2026-01-27 12:27:00,Suresh Iyer,Property
+ZVC-2026-0033,Claimant Notified,2026-01-27 13:33:00,2026-01-27 13:42:00,Kavita Malhotra,Travel
+ZVC-2026-0059,Assessment Completed,2026-01-27 16:04:00,2026-01-27 17:21:00,Sneha Iyer,Motor
+ZVC-2026-0038,Claimant Notified,2026-01-27 18:12:00,2026-01-27 18:17:00,Rakesh Pandey,Travel
+ZVC-2026-0016,Claim Closed,2026-01-27 19:05:00,2026-01-27 19:08:00,Rakesh Pandey,Travel
+ZVC-2026-0060,Assessment Completed,2026-01-27 19:38:00,2026-01-27 20:49:00,Anand Krishnan,Motor
+ZVC-2026-0015,Assessment Completed,2026-01-27 21:02:00,2026-01-28 00:54:00,Ravi Menon,Property
+ZVC-2026-0038,Claim Closed,2026-01-27 23:16:00,2026-01-27 23:18:00,Rakesh Pandey,Travel
+ZVC-2026-0055,Payment Issued,2026-01-28 01:40:00,2026-01-28 01:55:00,Shalini Bose,Motor
+ZVC-2026-0033,Claim Closed,2026-01-28 03:10:00,2026-01-28 03:14:00,Kavita Malhotra,Travel
+ZVC-2026-0014,Claim Closed,2026-01-28 03:13:00,2026-01-28 03:16:00,Suresh Iyer,Property
+ZVC-2026-0055,Claimant Notified,2026-01-28 05:30:00,2026-01-28 05:38:00,Rakesh Pandey,Motor
+ZVC-2026-0058,Claim Rejected,2026-01-28 07:07:00,2026-01-28 07:23:00,Shalini Bose,Travel
+ZVC-2026-0058,Claimant Notified,2026-01-28 12:52:00,2026-01-28 13:00:00,Rakesh Pandey,Travel
+ZVC-2026-0015,Settlement Approved,2026-01-28 14:20:00,2026-01-28 14:54:00,Shalini Bose,Property
+ZVC-2026-0059,Settlement Approved,2026-01-28 15:32:00,2026-01-28 16:07:00,Nikhil Gupta,Motor
+ZVC-2026-0055,Claim Closed,2026-01-28 15:47:00,2026-01-28 15:49:00,Rakesh Pandey,Motor
+ZVC-2026-0060,Settlement Approved,2026-01-28 23:57:00,2026-01-29 00:25:00,Nikhil Gupta,Motor
+ZVC-2026-0058,Claim Closed,2026-01-29 01:02:00,2026-01-29 01:07:00,Rakesh Pandey,Travel
+ZVC-2026-0048,Documents Received,2026-01-29 02:29:00,2026-01-29 02:35:00,Claims Inbox,Property
+ZVC-2026-0051,Documents Received,2026-01-29 06:44:00,2026-01-29 06:50:00,Claims Inbox,Travel
+ZVC-2026-0010,Documents Received,2026-01-29 07:14:00,2026-01-29 07:20:00,Claims Inbox,Property
+ZVC-2026-0048,Request Additional Documents,2026-01-29 08:26:00,2026-01-29 08:35:00,Farah Siddiqui,Property
+ZVC-2026-0051,Request Additional Documents,2026-01-29 12:17:00,2026-01-29 12:33:00,Anand Krishnan,Travel
+ZVC-2026-0059,Payment Issued,2026-01-29 20:29:00,2026-01-29 20:43:00,Nikhil Gupta,Motor
+ZVC-2026-0015,Payment Issued,2026-01-29 22:43:00,2026-01-29 22:54:00,Nikhil Gupta,Property
+ZVC-2026-0059,Claimant Notified,2026-01-30 00:07:00,2026-01-30 00:11:00,Kavita Malhotra,Motor
+ZVC-2026-0015,Claimant Notified,2026-01-30 03:19:00,2026-01-30 03:23:00,Priya Nair,Property
+ZVC-2026-0059,Claim Closed,2026-01-30 14:55:00,2026-01-30 14:59:00,Kavita Malhotra,Motor
+ZVC-2026-0049,Documents Received,2026-01-30 22:12:00,2026-01-30 22:14:00,Claims Inbox,Property
+ZVC-2026-0010,Assessment Completed,2026-01-30 23:48:00,2026-01-31 03:50:00,Ravi Menon,Property
+ZVC-2026-0060,Payment Issued,2026-01-31 00:30:00,2026-01-31 00:41:00,Shalini Bose,Motor
+ZVC-2026-0015,Claim Closed,2026-01-31 00:52:00,2026-01-31 00:58:00,Priya Nair,Property
+ZVC-2026-0053,Documents Received,2026-01-31 03:15:00,2026-01-31 03:17:00,Claims Inbox,Travel
+ZVC-2026-0053,Request Additional Documents,2026-01-31 05:26:00,2026-01-31 05:41:00,Sneha Iyer,Travel
+ZVC-2026-0060,Claimant Notified,2026-01-31 05:31:00,2026-01-31 05:35:00,Priya Nair,Motor
+ZVC-2026-0030,Documents Received,2026-01-31 05:33:00,2026-01-31 05:37:00,Claims Inbox,Property
+ZVC-2026-0051,Documents Received,2026-01-31 14:58:00,2026-01-31 15:02:00,Claims Inbox,Travel
+ZVC-2026-0030,Request Additional Documents,2026-01-31 15:06:00,2026-01-31 15:17:00,Ravi Menon,Property
+ZVC-2026-0056,Documents Received,2026-02-01 03:27:00,2026-02-01 03:32:00,Claims Inbox,Travel
+ZVC-2026-0060,Claim Closed,2026-02-01 05:08:00,2026-02-01 05:12:00,Priya Nair,Motor
+ZVC-2026-0049,Assessment Completed,2026-02-01 05:44:00,2026-02-01 09:59:00,Sneha Iyer,Property
+ZVC-2026-0010,Settlement Approved,2026-02-01 07:53:00,2026-02-01 08:13:00,Shalini Bose,Property
+ZVC-2026-0042,Documents Received,2026-02-01 09:11:00,2026-02-01 09:17:00,Claims Inbox,Property
+ZVC-2026-0051,Assessment Completed,2026-02-01 09:24:00,2026-02-01 11:20:00,Anand Krishnan,Travel
+ZVC-2026-0042,Request Additional Documents,2026-02-01 13:36:00,2026-02-01 13:46:00,Farah Siddiqui,Property
+ZVC-2026-0056,Assessment Completed,2026-02-01 21:57:00,2026-02-01 23:39:00,Joseph Thomas,Travel
+ZVC-2026-0049,Settlement Approved,2026-02-02 12:00:00,2026-02-02 12:32:00,Shalini Bose,Property
+ZVC-2026-0051,Settlement Approved,2026-02-02 15:26:00,2026-02-02 15:46:00,Nikhil Gupta,Travel
+ZVC-2026-0010,Payment Issued,2026-02-03 02:31:00,2026-02-03 02:36:00,Shalini Bose,Property
+ZVC-2026-0010,Claimant Notified,2026-02-03 05:26:00,2026-02-03 05:37:00,Anita Dsouza,Property
+ZVC-2026-0053,Documents Received,2026-02-03 06:48:00,2026-02-03 06:50:00,Claims Inbox,Travel
+ZVC-2026-0056,Settlement Approved,2026-02-03 09:23:00,2026-02-03 09:59:00,Nikhil Gupta,Travel
+ZVC-2026-0051,Payment Issued,2026-02-03 11:57:00,2026-02-03 12:08:00,Shalini Bose,Travel
+ZVC-2026-0053,Assessment Completed,2026-02-03 14:32:00,2026-02-03 16:55:00,Sneha Iyer,Travel
+ZVC-2026-0051,Claimant Notified,2026-02-03 17:11:00,2026-02-03 17:17:00,Priya Nair,Travel
+ZVC-2026-0010,Claim Closed,2026-02-03 18:12:00,2026-02-03 18:16:00,Anita Dsouza,Property
+ZVC-2026-0049,Payment Issued,2026-02-03 20:18:00,2026-02-03 20:24:00,Nikhil Gupta,Property
+ZVC-2026-0049,Claimant Notified,2026-02-04 00:42:00,2026-02-04 00:48:00,Kavita Malhotra,Property
+ZVC-2026-0051,Claim Closed,2026-02-04 03:43:00,2026-02-04 03:46:00,Priya Nair,Travel
+ZVC-2026-0057,Documents Received,2026-02-04 10:34:00,2026-02-04 10:39:00,Claims Inbox,Property
+ZVC-2026-0049,Claim Closed,2026-02-04 15:50:00,2026-02-04 15:53:00,Kavita Malhotra,Property
+ZVC-2026-0053,Claim Rejected,2026-02-04 20:13:00,2026-02-04 20:29:00,Nikhil Gupta,Travel
+ZVC-2026-0053,Claimant Notified,2026-02-05 01:09:00,2026-02-05 01:20:00,Anita Dsouza,Travel
+ZVC-2026-0053,Claim Closed,2026-02-05 08:52:00,2026-02-05 08:54:00,Anita Dsouza,Travel
+ZVC-2026-0045,Documents Received,2026-02-05 18:18:00,2026-02-05 18:20:00,Claims Inbox,Property
+ZVC-2026-0056,Payment Issued,2026-02-05 19:15:00,2026-02-05 19:24:00,Shalini Bose,Travel
+ZVC-2026-0056,Claimant Notified,2026-02-06 01:57:00,2026-02-06 02:03:00,Rakesh Pandey,Travel
+ZVC-2026-0057,Assessment Completed,2026-02-06 04:32:00,2026-02-06 07:31:00,Anand Krishnan,Property
+ZVC-2026-0045,Assessment Completed,2026-02-06 10:31:00,2026-02-06 15:30:00,Ravi Menon,Property
+ZVC-2026-0057,Settlement Approved,2026-02-06 10:41:00,2026-02-06 11:03:00,Nikhil Gupta,Property
+ZVC-2026-0056,Claim Closed,2026-02-06 21:27:00,2026-02-06 21:29:00,Rakesh Pandey,Travel
+ZVC-2026-0045,Settlement Approved,2026-02-07 14:48:00,2026-02-07 15:09:00,Shalini Bose,Property
+ZVC-2026-0057,Payment Issued,2026-02-07 19:06:00,2026-02-07 19:13:00,Nikhil Gupta,Property
+ZVC-2026-0042,Documents Received,2026-02-08 00:11:00,2026-02-08 00:13:00,Claims Inbox,Property
+ZVC-2026-0045,Payment Issued,2026-02-08 00:52:00,2026-02-08 01:05:00,Shalini Bose,Property
+ZVC-2026-0048,Documents Received,2026-02-08 01:12:00,2026-02-08 01:16:00,Claims Inbox,Property
+ZVC-2026-0057,Claimant Notified,2026-02-08 01:24:00,2026-02-08 01:30:00,Suresh Iyer,Property
+ZVC-2026-0052,Documents Received,2026-02-08 03:43:00,2026-02-08 03:48:00,Claims Inbox,Property
+ZVC-2026-0045,Claimant Notified,2026-02-08 06:45:00,2026-02-08 06:49:00,Anita Dsouza,Property
+ZVC-2026-0042,Assessment Completed,2026-02-08 11:09:00,2026-02-08 14:29:00,Farah Siddiqui,Property
+ZVC-2026-0057,Claim Closed,2026-02-08 15:43:00,2026-02-08 15:48:00,Suresh Iyer,Property
+ZVC-2026-0045,Claim Closed,2026-02-08 16:58:00,2026-02-08 17:04:00,Anita Dsouza,Property
+ZVC-2026-0048,Assessment Completed,2026-02-09 03:56:00,2026-02-09 06:24:00,Farah Siddiqui,Property
+ZVC-2026-0030,Documents Received,2026-02-09 04:13:00,2026-02-09 04:19:00,Claims Inbox,Property
+ZVC-2026-0052,Assessment Completed,2026-02-09 20:55:00,2026-02-10 00:01:00,Farah Siddiqui,Property
+ZVC-2026-0042,Settlement Approved,2026-02-10 04:14:00,2026-02-10 04:54:00,Nikhil Gupta,Property
+ZVC-2026-0030,Assessment Completed,2026-02-10 07:24:00,2026-02-10 10:09:00,Ravi Menon,Property
+ZVC-2026-0052,Settlement Approved,2026-02-10 10:08:00,2026-02-10 10:46:00,Nikhil Gupta,Property
+ZVC-2026-0048,Settlement Approved,2026-02-10 17:51:00,2026-02-10 18:27:00,Nikhil Gupta,Property
+ZVC-2026-0030,Settlement Approved,2026-02-11 00:49:00,2026-02-11 01:12:00,Nikhil Gupta,Property
+ZVC-2026-0042,Payment Issued,2026-02-12 01:57:00,2026-02-12 02:11:00,Shalini Bose,Property
+ZVC-2026-0042,Claimant Notified,2026-02-12 09:03:00,2026-02-12 09:10:00,Suresh Iyer,Property
+ZVC-2026-0052,Payment Issued,2026-02-12 12:31:00,2026-02-12 12:45:00,Nikhil Gupta,Property
+ZVC-2026-0052,Claimant Notified,2026-02-12 13:52:00,2026-02-12 13:59:00,Meera Joshi,Property
+ZVC-2026-0042,Claim Closed,2026-02-12 18:51:00,2026-02-12 18:54:00,Suresh Iyer,Property
+ZVC-2026-0048,Payment Issued,2026-02-12 21:42:00,2026-02-12 21:52:00,Nikhil Gupta,Property
+ZVC-2026-0048,Claimant Notified,2026-02-13 00:42:00,2026-02-13 00:48:00,Meera Joshi,Property
+ZVC-2026-0030,Payment Issued,2026-02-13 05:32:00,2026-02-13 05:41:00,Nikhil Gupta,Property
+ZVC-2026-0052,Claim Closed,2026-02-13 08:42:00,2026-02-13 08:48:00,Meera Joshi,Property
+ZVC-2026-0030,Claimant Notified,2026-02-13 09:19:00,2026-02-13 09:31:00,Kavita Malhotra,Property
+ZVC-2026-0030,Claim Closed,2026-02-13 15:59:00,2026-02-13 16:01:00,Kavita Malhotra,Property
+ZVC-2026-0048,Claim Closed,2026-02-13 22:25:00,2026-02-13 22:28:00,Meera Joshi,Property
