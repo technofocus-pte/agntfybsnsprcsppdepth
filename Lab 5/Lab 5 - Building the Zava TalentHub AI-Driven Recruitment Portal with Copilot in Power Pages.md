@@ -1,3 +1,18 @@
+---
+lab: 5
+title: Build the Zava TalentHub AI-Driven Recruitment Portal with Copilot in Power Pages
+description: Build a public recruitment portal with live Dataverse job listings, online applications, and a Copilot Studio agent for candidate assistance.
+level: 300
+duration: 120 minutes
+islab: true
+primarytopics:
+- Power Pages
+- Dataverse
+- Copilot Studio
+- Power Apps
+- Microsoft Copilot
+---
+
 # Lab 5: Building the Zava TalentHub AI-Driven Recruitment Portal with Copilot in Power Pages
 
 **Objective**
