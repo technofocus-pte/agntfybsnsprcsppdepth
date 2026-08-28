@@ -1,11 +1,6 @@
 ---
-lab:
-title: Build a plan and canvas app for a real estate solution with Copilot in Power Apps
-description: Build a plan and canvas app for Contoso Realty's property showing
-operations using Copilot in Power Apps, enabling agents to schedule,
-track, and update client showings from a single app while capturing
-structured feedback, reducing scheduling conflicts and manual
-coordination effort across the sales team.
+lab: 1
+title: Copilot-powered app for streamlined property showing scheduling, tracking, and feedback.
 level: 300
 duration: 60 minutes
 islab: true
