@@ -827,6 +827,12 @@ Claims table created earlier.
 
     ![](./media/image109.png) 
 
+    > Note: If Copilot studio navigate to new Copilot Studio portal, Turn off the new exeperience button.
+
+    ![](./media/1a.png)
+
+    ![](./media/1b.png)
+
 7.  If copilot studio not able load, open a new browser tab and navigate
     to +++https://admin.powerplatform.microsoft.com+++ the Power
     Platform admin centre. 

@@ -775,6 +775,15 @@ be changed before any agent is created.
 
     ![](./media/image54.png)
 
+
+    > Note: If Copilot studio navigate to new Copilot Studio portal, Turn off the new exeperience button.
+
+      ![](./media/1a.png)
+
+      ![](./media/1b.png)
+
+
+
 6.  Wait while Copilot Studio loads. The address bar shows that the
     portal has opened in the **Default** environment.
 

@@ -850,6 +850,12 @@ involved.
 
     ![](./media/image85.png)
 
+    > Note: If Copilot studio navigate to new Copilot Studio portal, Turn off the new exeperience button.
+
+      ![](./media/1a.png)
+
+      ![](./media/1b.png)
+
 7.  If Copilot Studio does not load in **Dev One**, open a new browser
     tab and navigate to +++https://admin.powerplatform.microsoft.com+++
     the Power Platform admin centre.
