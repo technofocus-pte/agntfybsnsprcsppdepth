@@ -1,6 +1,6 @@
 ---
 lab: 4
-title: Automate Zava FinOps Financial Operations with an Intelligent Agent in Microsoft Copilot Studio
+title: Automate Financial Operations with an Intelligent Agent in Microsoft Copilot Studio
 description: Build an intelligent finance agent to query budgets, submit invoices, and classify spend using Dataverse, Power Automate, and AI Builder.
 level: 300
 duration: 120 minutes
@@ -14,7 +14,7 @@ primarytopics:
 - Microsoft Teams
 ---
 
-# Lab 4: Automate Zava FinOps Financial Operations with an Intelligent Agent in Microsoft Copilot Studio
+# Lab 4: Automate Financial Operations with an Intelligent Agent in Microsoft Copilot Studio
 
 **Objective**
 
