@@ -1,6 +1,6 @@
 ---
 lab: 2
-title: Build an AI-Powered Customer Service Platform
+title: Build an AI powered Customer Service Platform
 description: AI-powered customer service platform for streamlined ticket management, escalation, and support.
 level: 300
 duration: 60 minutes
@@ -11,7 +11,7 @@ primarytopics:
 ---
 
 
-# Lab 2 - Build an AI-Powered Customer Service Platform
+# Lab 2 - Build an AI powered customer service platform
 
 **Objective**
 

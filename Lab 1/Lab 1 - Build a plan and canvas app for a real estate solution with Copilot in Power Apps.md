@@ -1,6 +1,7 @@
 ---
 lab: 1
-title: Copilot-powered app for streamlined property showing scheduling, tracking, and feedback.
+title: Build a plan and canvas app for a real estate solution with Copilot in Power Apps
+description: Copilot-powered app for streamlined property showing scheduling, tracking, and feedback.
 level: 300
 duration: 60 minutes
 islab: true

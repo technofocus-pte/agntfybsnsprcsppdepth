@@ -1,6 +1,6 @@
 ---
 lab: 3
-title: Build an End-to-End Intelligent Claims Automation Platform
+title: Build an end-to-end intelligent claims automation platform
 description: AI-powered claims automation for streamlined intake, routing, tracking, and status updates.
 level: 300
 duration: 120 minutes
@@ -11,7 +11,7 @@ primarytopics:
 - Copilot Studio
 ---
 
-# Lab 3 - Build an End-to-End Intelligent Claims Automation Platform
+# Lab 3 - Build an end-to-end intelligent claims automation platform
 
 **Objective**
 
