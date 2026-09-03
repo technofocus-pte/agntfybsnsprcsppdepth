@@ -724,33 +724,6 @@ In this exercise, you will activate Copilot Studio in the same Dev One environme
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image99.png)
 
 
-### Allow Anonymous Access to the Agent
-
-The portal is public, so candidates will use the agent without signing in. By default a new agent requires authentication, which would show an error in the chat window for every anonymous visitor.
-
-1. In the top-right corner, click **Settings**.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image100.png)
-
-1. In the Settings panel, select **Security** from the left list, then select **Authentication**.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image101.png)
-
-1. Under **Choose an option**, select **No authentication**, then click **Save**.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image102.png)
-
-1. In the **Save this configuration?** dialog, read the warning and click **Save**.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image103.png)
-
-1. Confirm the message **Authentication settings saved**, then click the **X** in the top-right corner to close the Settings panel.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image104.png)
-
-1. The ZavaTalent agent is created, configured with its response format and behaviour rules, and reachable by anonymous portal visitors.
-
-
 ## Exercise 10: Add the Knowledge Sources and Set the Welcome Message
 
 In this exercise, you will connect the Jobs and Department tables to the agent as Dataverse knowledge sources, set a welcome message that tells candidates what the agent can do, and test it. No topic is authored — the agent answers from live data.
@@ -854,6 +827,32 @@ In this exercise, you will connect the Jobs and Department tables to the agent a
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image123.png)
 
 1. The ZavaTalent agent answers candidate questions accurately from live Dataverse data and refuses to invent roles that do not exist.
+
+### Allow Anonymous Access to the Agent
+
+The portal is public, so candidates will use the agent without signing in. By default a new agent requires authentication, which would show an error in the chat window for every anonymous visitor.
+
+1. In the top-right corner, click **Settings**.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image100.png)
+
+1. In the Settings panel, select **Security** from the left list, then select **Authentication**.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image101.png)
+
+1. Under **Choose an option**, select **No authentication**, then click **Save**.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image102.png)
+
+1. In the **Save this configuration?** dialog, read the warning and click **Save**.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image103.png)
+
+1. Confirm the message **Authentication settings saved**, then click the **X** in the top-right corner to close the Settings panel.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image104.png)
+
+1. The ZavaTalent agent is created, configured with its response format and behaviour rules, and reachable by anonymous portal visitors.
 
 
 ## Exercise 11: Embed the ZavaTalent Agent in the Portal
