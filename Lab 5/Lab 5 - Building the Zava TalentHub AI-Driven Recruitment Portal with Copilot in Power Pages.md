@@ -567,7 +567,7 @@ In this exercise, you will add a Dataverse form to the Apply Now page so candida
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image73.png)
 
-1. Three fields must be removed, because the system generates them rather than the candidate. In the form designer, click the **Application Reference** field to select it, then click **Delete** on the command bar.
+1. Three fields must be removed, because the system generates them rather than the candidate. In the form designer, click the **Application Reference** field to select it, then click **Delete/Hide** on the command bar.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image74.png)
 
