@@ -890,38 +890,6 @@ In this exercise, you will add the published agent to Zava TalentHub so that a c
 1. The ZavaTalent agent is embedded in Zava TalentHub and available to anonymous visitors on every page.
 
 
-## Exercise 12: Publish and Test Zava TalentHub End to End
-
-In this exercise, you will publish the portal to the public internet and walk the candidate journey exactly as a NovaCorp applicant would experience it — browsing roles, searching the live jobs list, and asking the agent for a recommendation.
-
-1. Return to the **Power Pages Design Studio** tab.
-
-1. Click **Preview** on the command bar, then select **Desktop** to open the live site in a new tab.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image130.png)
-
-1. On the Zava TalentHub home page, confirm the navy header, the branded navigation, and the hero section render correctly. In the navigation, click **Open Roles**.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image131.png)
-
-1. On the **Open Roles** page, confirm the jobs list shows the live Jobs data with **Job Title** as the first column. Type +++Remote+++ into the search box and confirm the list filters to the remote roles only.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image132.png)
-
-1. Return to the **Home** page and locate the **ZavaTalent** chat button in the bottom-right corner of the page. Click it to open the chat window.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image133.png)
-
-1. Confirm the welcome message you configured in Exercise 10 appears. Enter the following question in the chat box and click the **Send** icon: +++I have six years of experience in data engineering. What should I apply for?+++
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image134.png)
-
-1. Confirm the agent responds in character, asking about your key technical skills, specialisations, work arrangement, and location preference before recommending a role — exactly as the instructions in Exercise 9 specified.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image135.png)
-
-1. Zava TalentHub is published to the public internet with live job data, a working application form, and an embedded careers agent.
-
 
 ## Conclusion
 
