@@ -178,11 +178,11 @@ In this exercise, you will configure the default view for the **Service Tickets*
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image19.png)
 
+1. Update in **Status** Column. Select **Tables** > **Service Tickets** > **Columns**. Select **Enabled for Advanced Find**.
+   
 1. On the **Service Tickets** table page, locate the **Data experiences** section. This section includes **Forms**, **Views**, **Charts**, and **Dashboards**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image20.png)
-
-1. Update in **Status** Column. Select **Tables** > **Service Tickets** > **Columns**. Select **Enabled for Advanced Find**.
 
 1. Select **Views**. The list of available views for the **Service Tickets** table is displayed, including the **Active Service Tickets** view.
 
