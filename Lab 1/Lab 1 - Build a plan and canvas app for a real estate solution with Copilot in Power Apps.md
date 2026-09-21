@@ -57,7 +57,7 @@ In this exercise, you set up the foundation for the entire lab. You navigate to 
 
 1. Click **Start free** to begin the Developer Plan sign-up.
 
-1. Enter the administrator password in the **Enter password** field, then click **Sign in**.
+1. Enter the administrator ID and password in the respective field, then **Sign in**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%201/media/image2.png)
 
