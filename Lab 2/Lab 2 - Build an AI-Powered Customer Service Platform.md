@@ -381,7 +381,7 @@ In this exercise, you will create an automated workflow that escalates critical 
 
 1. Configure the **When a row is added**, **modified or deleted** trigger with the following values:
 
-    - Change type — +++Added+++
+    - Change type — **Added**
     - Table name — **Service Tickets**
     - Scope — **Organization**
 
@@ -414,8 +414,8 @@ In this exercise, you will create an automated workflow that escalates critical 
 1. Configure the action with the following values:
 
     - Table name: **Service Tickets**
-    - Row ID: Select the **ticket**'s unique identifier from the trigger
-    outputs. Depending on your environment, this value may appear as **Service Ticke**t or Unique identifier.
+    - Row ID: Select the ticket unique identifier from the trigger
+    outputs. Depending on your environment, this value may appear as **Service Ticket** or Unique identifier.
 
 
 1. Select **Show all** under **Advanced parameters**.
@@ -427,22 +427,19 @@ In this exercise, you will create an automated workflow that escalates critical 
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image45.png)
 
+1. Below the **Update a row** action, select **Add an action**. Search for **+++Send an email+++**, and then select **Send an email (V2)** under **Office 365 Outlook**.
 
-1. In the **True** branch, select **Add an action**.
-
-    >[!Note] If prompted to sign in, select **Sign In** and enter your lab credentials, if required.
-
-1. Below the **Update a row** action, select **Add an action**. Search for **Send an email**, and then select **Send an email (V2)** under **Office 365 Outlook**.
+   >[!Note] If prompted to sign in, select **Sign In** and enter your lab credentials, if required.
 
 1. In the **To** field, enter your **lab administrator email address**. This email address will be used to verify that the notification is sent successfully.
 
-1. In the **Subject** field, enter the following text, and then insert the **Ticket Title** dynamic content at the end:
+1. In the **Subject** field, enter the following text, and then insert the **Ticket Title** **dynamic** content at the end:
 
-    +++[CRITICAL] NovaCom ticket escalated+++
+    +++[CRITICAL] NovaCom ticket escalated - +++
 
 1. Select the **Body** field and enter the following text, replacing each bracketed value with dynamic content where indicated:
 
-    +++A Critical priority ticket has been raised and automatically escalated. Ticket Number: [Ticket Number] Title: [Ticket Title] Customer: [Customer Name] Email: [Customer Email] Category: [Issue Category] Description: [Description] This ticket has been assigned to the Escalation Team. Please acknowledge within 30 minutes in the NovaCom Service Console+++
+    +++A Critical priority ticket has been raised and automatically escalated. Ticket Number: [Ticket Number] Title: [Ticket Title] Customer: [Customer Name] Email: [Customer Email] Category: [Issue Category] Description: [Description] This ticket has been assigned to the Escalation Team. Please acknowledge within 30 minutes in the NovaCom Service Console.+++
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image46.png)
 
@@ -999,4 +996,11 @@ In this exercise, you will publish the support assistant to Microsoft 365 and wa
 
 ## Conclusion
 
-By delivering this platform, NovaCom Telecom brings ticket capture, escalation, self-service, and supervision onto a single Dataverse table. Agents work a filtered, purpose-built queue in the NovaCom Service Console, critical incidents escalate themselves to the Escalation Team and notify the duty manager within minutes, and customers can check ticket status or raise a new ticket conversationally through the Support Assistant in Microsoft 365 and Teams — with the assistant grounded in live data so it never guesses a status or agent name. Team leads finally have a Supervisor Dashboard showing KPIs, priority mix, and current escalations, all built from a plain-English description. The result is a ticket that can be reported, recorded, escalated, notified, and surfaced for supervision without a NovaCom employee touching it, and a pattern — Dataverse as the source of truth, Power Apps for user experiences, Power Automate for process, and Copilot Studio for AI interaction — that extends naturally to SLA tracking, knowledge management, satisfaction surveys, and advanced reporting.
+With this platform, NovaCom Telecom brings ticket capture, escalation, and customer self-service onto a single Dataverse table. Agents work a filtered, purpose-built queue in the NovaCom Service Console. Critical incidents escalate themselves to the Escalation Team and notify the duty manager within minutes. Customers can check ticket status or raise a new ticket through the Support Assistant in Microsoft 365 and Teams, and because the assistant is grounded in live data, it never guesses a status or agent name.
+
+The result is a ticket that can be reported, recorded, escalated, notified, and placed in the agents' queue without a NovaCom employee touching it. The solution also sets a pattern that extends naturally to SLA tracking, knowledge management, satisfaction surveys, and advanced reporting:
+
+- Dataverse is the source of truth.
+- Power Apps provides the user experiences.
+- Power Automate runs the process.
+- Copilot Studio handles AI interaction.
