@@ -292,9 +292,9 @@ In this exercise, you will use Copilot in Power Automate to generate the Claims 
 
     > When a new email arrives in my Outlook inbox, create a new row in the Dataverse Claims table with the email subject and the sender address, then send a reply email to the sender confirming that the claim has been received.
     
-    click **Generate**.
+    click **Send**.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image46.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image46a.png)
 
 1. Review the suggested flow, which contains the email trigger, an Add a new row action and a Reply to email action, then click **Keep it and continue**.
 
