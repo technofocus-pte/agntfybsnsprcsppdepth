@@ -506,7 +506,7 @@ In this exercise, you will add a Switch control that routes each claim according
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image87.png)
 
-1. Click the **+** icon beside the existing cases to add a third case.
+1. Click the **+** icon beside the Switch action to add a third case.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image88.png)
 
