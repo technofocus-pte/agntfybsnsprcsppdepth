@@ -198,7 +198,7 @@ In this exercise, you will import the ZavaClaims event log into Process Mining, 
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image26.png)
 
-1. On the Choose where to export dialog, leave the destination set to **PowerBI embedded** and click **Continue**.
+1. On the Choose where to export dialog, click **Continue**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image27.png)
 
@@ -246,6 +246,8 @@ In this exercise, you will import the ZavaClaims event log into Process Mining, 
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image38.png)
 
+<!--
+
 1. Click **Copilot** in the top-right corner, enter +++What are the top three bottlenecks in this claims process?+++ in the question field and click the **send icon.**
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image39.png)
@@ -277,7 +279,7 @@ In this exercise, you will import the ZavaClaims event log into Process Mining, 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image45.png)
 
 1. The claims process is analysed and Copilot has identified the bottlenecks and rework loops that the automation in the following exercises will address.
-
+-->
 
 ## Exercise 5: Create the Claims Intake Flow with Copilot
 
