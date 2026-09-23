@@ -14,51 +14,39 @@ primarytopics:
 
 ### Objective
 
-Build an AI-powered customer service platform for NovaCom Telecom using Power Apps, Power Automate, and Microsoft Copilot Studio over a single Dataverse table, enabling customer service agents to manage their ticket queue, critical incidents to escalate themselves, customers to check and raise tickets conversationally, and supervisors to monitor activity from a generated dashboard — removing manual triage and the disconnected tools that slow ticket handling today.
+Build an AI-powered customer service platform for NovaCom Telecom using Power Apps, Power Automate, and Microsoft Copilot Studio, all running on a single Dataverse table. Agents manage their ticket queue in one app, critical incidents are escalated automatically, and customers can check or raise tickets through a conversational agent. This removes the manual triage and disconnected tools that slow ticket handling today.
 
 ### Solution Focus Area
 
-- NovaCom Telecom, a telecommunications provider, handles a steady flow
-of customer support tickets spanning outages, billing, connectivity, and service requests. Agents work their queue without a purpose-built console, ticket priority is assessed by eye, and critical incidents sit alongside routine ones until someone happens to notice them.
+- NovaCom Telecom, a telecommunications provider, handles a steady flow of customer support tickets covering outages, billing, connectivity, and service requests. Agents work their queue without a purpose-built console, ticket priority is judged by eye, and critical incidents sit alongside routine ones until someone happens to notice them.
 
-- Because ticket data, escalation decisions, and customer updates are
-handled separately, total-loss-of-service issues can wait in the queue before reaching the escalation team, the duty manager is notified only when an agent remembers to do it, and customers have no way to check progress other than calling support. Team leads have no consolidated view of open tickets, priority mix, or current escalations to manage workload with.
+- Ticket data, escalation decisions, and customer updates are all handled separately. As a result, total-loss-of-service issues can wait in the queue before they reach the escalation team, and the duty manager hears about them only when an agent remembers to send a notice. Customers have no way to check progress except by calling support.
 
-- To address these gaps, NovaCom aims to bring ticket capture,
-escalation, self-service, and supervision onto one platform, using the Dev One developer environment so that every component reads and writes the same Dataverse ticket records rather than its own copy.
+- To close these gaps, NovaCom aims to bring ticket capture, escalation, and customer self-service onto one platform in the Dev One developer environment. Every component will read and write the same Dataverse ticket records instead of keeping its own copy.
 
 
 ### Solution
 
 An end-to-end Power Platform solution built on a single Dataverse table will modernise customer service at NovaCom Telecom by:
     
-- **Establishing the Data Layer:** The **Service Tickets** table will be
-created in Dataverse by importing NovaCom_ServiceTickets.csv, holding Ticket Number, Ticket Title, Customer Name, Customer Email, Issue Category, Priority, Status, Description, Assigned Agent, Created Date and Resolved Date, with Priority and Status kept as text so the automation and the agent can evaluate and write those values directly.
+- **Establishing the Data Layer:** The Service Tickets table will be created in Dataverse by importing NovaCom_ServiceTickets.csv. It will hold Ticket Number, Ticket Title, Customer Name, Customer Email, Issue Category, Priority, Status, Description, Assigned Agent, Created Date and Resolved Date. Priority and Status will be kept as text so the automation and the agent can evaluate and write those values directly.
 
-- **Giving Agents a Working Queue:** The **Active Service Tickets** view
-will be configured to show the columns agents need, sorted by Created Date descending and filtered to exclude Resolved tickets, and surfaced through the **NovaCom Service Console** model-driven app with a two-column form that places customer context on the left and operational fields such as Priority, Status and Assigned Agent on the right.
+- **Giving Agents a Working Queue:** The Active Service Tickets view will show the columns agents need, sorted by Created Date descending and filtered to exclude Resolved tickets. It will be surfaced through the NovaCom Service Console model-driven app, whose two-column form places customer context on the left and operational fields such as Priority, Status and Assigned Agent on the right.
 
-- **Automating Escalation:** The **NVC Ticket Triage and Escalation**
-flow will watch the Service Tickets table for new rows, and when Priority equals Critical, set the ticket Status to Escalated, assign it to the Escalation Team, and email the duty manager a \[CRITICAL\] notification requesting acknowledgement within 30 minutes.
+- **Automating Escalation:** The NVC Ticket Triage and Escalation flow will watch the Service Tickets table for new rows. When Priority equals Critical, it will set the ticket Status to Escalated, assign the ticket to the Escalation Team, and email the duty manager a [CRITICAL] notification requesting acknowledgement within 30 minutes.
 
-- **Delivering Customer Self-Service:** The **NovaCom Support
-Assistant** in Copilot Studio, grounded in the Service Tickets table as a Dataverse knowledge source, will return ticket status in a fixed format, refuse to invent a ticket number, status, agent or date, acknowledge frustrated customers, and open every conversation with a welcome message and suggested prompts.
+- **Delivering Customer Self-Service:** The NovaCom Support Assistant in Copilot Studio will be grounded in the Service Tickets table as a Dataverse knowledge source. It will return ticket status in a fixed format, refuse to invent a ticket number, status, agent or date, and acknowledge frustrated customers. Every conversation will open with a welcome message and suggested prompts.
 
-- **Enabling the Agent to Act:** The **NVC Create Support Ticket** agent
-flow will write a new ticket to Dataverse with a generated NVC-TKT- reference after the assistant collects the customer's name, email, issue category and description — meaning a Critical ticket raised in conversation passes straight into the same escalation automation.
+- **Enabling the Agent to Act:** After the assistant collects the customer's name, email, issue category and description, the NVC Create Support Ticket agent flow will write a new ticket to Dataverse with a generated NVC-TKT- reference. This means a Critical ticket raised in conversation passes straight into the same escalation automation.
 
-- **Providing Supervisor Visibility:** A **Supervisor Dashboard** built
-with Generative Pages from a plain-English description will render KPI cards, a priority breakdown chart, and a live escalations list inside the Service Console, refined conversationally and checked with the Accessibility assistant before publishing.
-
-- **Delivering It Where Users Work:** The published assistant will be
-added to the Microsoft 365 and Teams channel, so a customer can describe a problem in conversation, have a ticket written to Dataverse, escalated, notified to the duty manager, and reflected on the supervisor dashboard without a NovaCom employee touching it.
+- **Delivering It Where Users Work:** The published assistant will be added to the Microsoft 365 and Teams channel. A customer can describe a problem in conversation, and the ticket will be written to Dataverse, escalated, notified to the duty manager, and shown in the agents' Service Console queue, all without a NovaCom employee touching it.
 
 
 ## Exercise 1: Activate the Power Apps Developer Plan and Select the Lab Environment
 
 In this exercise, you will activate a **Power Apps Developer Plan** and select the **developer environment** that will host all solution components created throughout the lab. Using the same environment for **Power Apps**, **Power Automate**, and **Copilot Studio** ensures that the agent console, automation flows, and AI agent can seamlessly access and share a single Dataverse table, providing a unified customer service solution.
 
-1. Using Microsoft Edge, navigate to the Power Apps product page: +++https://www.microsoft.com/en-in/power-platform/products/power-apps+++.
+1. Using Microsoft Edge, navigate to the Power Apps product page: **+++https://www.microsoft.com/en-in/power-platform/products/power-apps+++**.
 
 1. On the **Power Apps** product page, select **Try for free**.
 
@@ -178,8 +166,6 @@ In this exercise, you will configure the default view for the **Service Tickets*
 1. In the **Power Apps** navigation pane, select **Tables**, and then select the **Service Tickets** table.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image19.png)
-
-1. Update in **Status** Column. Select **Tables** > **Service Tickets** > **Columns**. Select **Enabled for Advanced Find**.
    
 1. On the **Service Tickets** table page, locate the **Data experiences** section. This section includes **Forms**, **Views**, **Charts**, and **Dashboards**.
 
@@ -234,8 +220,9 @@ In this exercise, you will configure the default view for the **Service Tickets*
 
     - Column: **Status**
     - Operator: **Does not equal**
-    - Value: +++Resolved+++
+    - Value: **+++Resolved+++**
 
+>[!Note]: Select **Enabled for Advanced Find** for the Status column. Otherwise, the filter will display only **Active** and **Inactive** values, and you won't be able to enter a custom value manually.
 
 1. Select **OK** to save the filter. Verify that **resolved tickets** are no longer displayed in the preview grid and that only active tickets remain visible.
 
@@ -264,7 +251,7 @@ In this exercise, you will create the **NovaCom Service Console** model-driven a
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image28.png)
 
-1. In the **New app** dialog, enter +++NovaCom Service Console+++ in the Name field.
+1. In the **New app** dialog, enter **+++NovaCom Service Console+++** in the Name field.
 
 1. Select **Create** and then wait for the app designer to open.
 
@@ -382,9 +369,9 @@ In this exercise, you will create an automated workflow that escalates critical 
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image41.png)
 
-1. In the Flow name field, enter +++NVC Ticket Triage and Escalation+++.
+1. In the Flow name field, enter **+++NVC Ticket Triage and Escalation+++**.
 
-1. In the Choose your flow's trigger search box, enter +++When a row is added+++, and then select **When a row is added**, **modified** or **deleted** from **Microsoft Dataverse**.
+1. In the Choose your flow's trigger search box, enter **+++When a row is added+++**, and then select **When a row is added**, **modified** or **deleted** from **Microsoft Dataverse**.
 
 1. Select **Create**.
 
@@ -433,8 +420,8 @@ In this exercise, you will create an automated workflow that escalates critical 
 
 1. Select **Show all** under **Advanced parameters**.
 
-    - In the Status field, enter +++Escalated+++.
-    - In the Assigned Agent field, enter +++Escalation Team+++.
+    - In the Status field, enter **+++Escalated+++**.
+    - In the Assigned Agent field, enter **+++Escalation Team+++**.
 
     >[!Note] The **Update a row** action updates the ticket that triggered the flow, changing its status and assigning it to the escalation team when the priority is **Critical**
 
@@ -517,7 +504,7 @@ In this exercise, you will raise a critical ticket in the Service Console and co
 
 In this exercise, you will activate the Copilot Studio trial and switch Copilot Studio to the same developer environment used in Power Apps. Copilot Studio opens in the default environment, so the environment must be changed before any agent is created.
 
-1. Open a new browser tab and navigate to +++https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio+++ the Microsoft Copilot Studio product page.
+1. Open a new browser tab and navigate to **+++https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio+++** the Microsoft Copilot Studio product page.
 
 1. Select **Sign in to Copilot Studio**.
 
@@ -594,7 +581,7 @@ In this exercise, you will activate the Copilot Studio trial and switch Copilot 
 
 1. On the command bar, select **Create blank agent**.
 
-1. In the **Name your agent dialog**, enter **+++NovaCom Support Assistant++**+.
+1. In the **Name your agent dialog**, enter **+++NovaCom Support Assistant+++**.
 
 1. Select **Create** and then wait for the agent to be provisioned.
 
@@ -686,7 +673,7 @@ In this exercise, you will build an agent flow that writes a new ticket to Datav
 
 1. Under **Choose the type of user input**, select **Text**.
 
-1. In the input name field, enter the following name: +++CustomerName+++
+1. In the input name field, enter the following name: **+++CustomerName+++**
 
 1. Repeat the previous steps to add the following four inputs:
 
@@ -939,7 +926,7 @@ Before starting, confirm your environment region is United States, United Kingdo
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image93.png)
 
 -->
-## Exercise 15: Publish the Agent to Microsoft 365 and Test End to End
+## Exercise 14: Publish the Agent to Microsoft 365 and Test End to End
 
 In this exercise, you will publish the support assistant to Microsoft 365 and walk the complete journey one final time, confirming that all four components you built are connected through the Service Tickets table.
 
