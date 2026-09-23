@@ -480,7 +480,7 @@ In this exercise, you will add a Switch control that routes each claim according
 
 1. In the **Subject** field, enter the following text and insert the **Claim Reference** dynamic content at the end:
 
-    +++\[MOTOR CLAIM\] New claim received – +++
+    +++\[MOTOR CLAIM\] New claim received –+++
 
 1. Click into the **Body** field and enter the following text, replacing each bracketed value with dynamic content where indicated:
 
