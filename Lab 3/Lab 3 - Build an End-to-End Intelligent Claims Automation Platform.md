@@ -23,13 +23,14 @@ ZavaClaims Insurance, a general insurance provider handling Motor, Property and 
 
 Because triage is manual and claim details live in mailboxes and personal trackers rather than one record store, claims are inconsistently classified, urgent cases sit in the queue alongside routine ones, and claims move back and forth between teams before landing with the correct assessor. Claimants have no way to check progress except by calling the claims team, and leadership has no reliable view of where cases stall or which activities generate the most rework.
 
-To address these gaps, ZavaClaims aims to first understand where its intake process actually breaks down, then automate it end to end and expose the result to claimants — using Copilot in the Dev One developer environment to move from analysis to a working solution without building each step by hand.
+To address these gaps, ZavaClaims aims to first understand where its intake process actually breaks down, then automate it end to end and expose the result to claimants — using Process Mining and Copilot in the Dev One developer environment to move from analysis to a working solution without building each step by hand.
 
 ### Solution
 
 A Copilot-driven claims automation platform will be implemented to modernize claims intake at ZavaClaims Insurance by:
-- **Analyzing the Current Process:** Copilot in Process Mining will
-  import the ZavaClaims event log, generate a process map, and answer questions on bottlenecks, rework loops, and end-to-end duration differences between Motor and Property claims, so automation targets the steps that genuinely fail.
+
+- **Analyzing the Current Process:** Process Mining will import the
+  ZavaClaims event log and generate a process map and summary metrics that reveal case volumes, process variants, average case duration, and rework and loop percentages, so automation targets the steps that genuinely fail.
 
 - **Establishing the Data Model:** A **Claims** table will be created in
   Dataverse from the sample claim records, holding Claim Reference, Claimant Name, Claimant Email, Claim Type, Status, Urgency, Assigned Assessor, Claim Amount, Claim Summary, and Submitted Date as the single record store for the solution.
