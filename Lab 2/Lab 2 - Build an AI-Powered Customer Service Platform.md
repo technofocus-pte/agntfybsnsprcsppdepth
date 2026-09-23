@@ -522,11 +522,11 @@ In this exercise, you will activate the Copilot Studio trial and switch Copilot 
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image54.png)
 
-    >[!Note] If Copilot studio navigates to new Copilot Studio portal, **Turn off** the new experience button.
+    >[!Note]  If Copilot Studio opens in the new UI, click the ellipsis (...) icon at the bottom-left of the screen and select Open classic experience.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/1a.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/imagez1.png)
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/1b.png)
+   <!-- ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/1b.png)-->
 
 1. Wait while Copilot Studio loads. The address bar shows that the portal has opened in the **Default** environment.
 
