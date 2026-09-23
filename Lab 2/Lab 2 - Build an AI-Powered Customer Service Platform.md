@@ -849,7 +849,7 @@ In this exercise, you will test the assistant against five realistic customer qu
 
     **Conclusion**: The **NovaCom Support Assistant** answers accurately from live data, refuses to guess, and raises real tickets that enter the existing escalation process.
 
-
+<!--
 ## Exercise 14: Build the Supervisor Dashboard with Generative Pages
 
 In this exercise, you will build the supervisor dashboard that NovaCom team leads have never had, by describing it in plain English. Generative Pages interprets the description, writes React and TypeScript code, compiles it, and renders a working page inside the model-driven app.
@@ -938,7 +938,7 @@ Before starting, confirm your environment region is United States, United Kingdo
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image93.png)
 
-
+-->
 ## Exercise 15: Publish the Agent to Microsoft 365 and Test End to End
 
 In this exercise, you will publish the support assistant to Microsoft 365 and walk the complete journey one final time, confirming that all four components you built are connected through the Service Tickets table.
