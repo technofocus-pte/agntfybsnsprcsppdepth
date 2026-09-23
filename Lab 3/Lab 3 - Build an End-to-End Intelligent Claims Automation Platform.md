@@ -294,7 +294,7 @@ In this exercise, you will use Copilot in Power Automate to generate the Claims 
     
     click **Send**.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image46a.png)
+    ![](./media/image46a.png)
 
 1. Review the suggested flow, which contains the email trigger, an Add a new row action and a Reply to email action, then click **Keep it and continue**.
 
