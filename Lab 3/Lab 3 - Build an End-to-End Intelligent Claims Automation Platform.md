@@ -630,11 +630,14 @@ In this exercise, you will activate a Copilot Studio trial and point it at the D
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image109.png)
 
+    <!--
     >[!Note] If Copilot studio navigate to new Copilot Studio portal, Turn off the new exeperience button.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/1a.png)
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/1b.png)
+    -->
+
 
 1. If copilot studio not able load, open a new browser tab and navigate to +++https://admin.powerplatform.microsoft.com+++ the Power Platform admin centre.
 
