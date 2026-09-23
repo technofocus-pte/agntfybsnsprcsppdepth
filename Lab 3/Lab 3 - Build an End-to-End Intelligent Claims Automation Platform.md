@@ -288,9 +288,11 @@ In this exercise, you will use Copilot in Power Automate to generate the Claims 
 
 1. From the left navigation, select **Home**.
 
-1. CLick on the **Create with copilot**. In the Create your automation with Copilot field, enter +++When a
-    new email arrives in my Outlook inbox, create a new row in the
-    Dataverse Claims table with the email subject and the sender address, then send a reply email to the sender confirming that the claim has been received.+++ and click **Generate**.
+1. CLick on the **Create with copilot**. In the Create your automation with Copilot field, enter 
+
+    > When a new email arrives in my Outlook inbox, create a new row in the Dataverse Claims table with the email subject and the sender address, then send a reply email to the sender confirming that the claim has been received.
+    
+    click **Generate**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image46.png)
 
