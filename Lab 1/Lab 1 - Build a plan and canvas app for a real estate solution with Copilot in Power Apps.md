@@ -242,7 +242,7 @@ In this exercise, you generate and refine an app directly from the plan you crea
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%201/media/image40.png)
 
-1. Select the **Properties** icon from the horizontal menu to open the **Properties** pane. Select **RecordsGallery4**, and then set the **Flexible height** toggle to **On**.
+1. Select the **Properties** icon from the horizontal menu to open the **Properties** pane. Select **RecordsGallery4**, and then set the **Flexible height** toggle to **On**. Click on the **Save** button from top.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%201/media/image41.png)
 
@@ -271,6 +271,8 @@ In this exercise, you generate and refine an app directly from the plan you crea
     **Agent:** John Smith (You can choose any from the drop-down list)
 
     **Client:** Jessica Lee (You can choose any from the drop-down list)
+
+    **Note:** This app and table is copilot generated, field should be different from the lab guide fill the information as per the requirement of the field.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%201/media/image44.png)
 
