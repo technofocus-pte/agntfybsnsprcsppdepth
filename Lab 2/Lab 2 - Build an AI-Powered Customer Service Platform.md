@@ -18,39 +18,40 @@ Build an AI-powered customer service platform for NovaCom Telecom using Power Ap
 
 ### Solution Focus Area
 
-    - NovaCom Telecom, a telecommunications provider, handles a steady flow
-    of customer support tickets spanning outages, billing, connectivity, and service requests. Agents work their queue without a purpose-built console, ticket priority is assessed by eye, and critical incidents sit alongside routine ones until someone happens to notice them.
-  
-    - Because ticket data, escalation decisions, and customer updates are
-    handled separately, total-loss-of-service issues can wait in the queue before reaching the escalation team, the duty manager is notified only when an agent remembers to do it, and customers have no way to check progress other than calling support. Team leads have no consolidated view of open tickets, priority mix, or current escalations to manage workload with.
-  
-    - To address these gaps, NovaCom aims to bring ticket capture,
-    escalation, self-service, and supervision onto one platform, using the Dev One developer environment so that every component reads and writes the same Dataverse ticket records rather than its own copy.
+- NovaCom Telecom, a telecommunications provider, handles a steady flow
+of customer support tickets spanning outages, billing, connectivity, and service requests. Agents work their queue without a purpose-built console, ticket priority is assessed by eye, and critical incidents sit alongside routine ones until someone happens to notice them.
+
+- Because ticket data, escalation decisions, and customer updates are
+handled separately, total-loss-of-service issues can wait in the queue before reaching the escalation team, the duty manager is notified only when an agent remembers to do it, and customers have no way to check progress other than calling support. Team leads have no consolidated view of open tickets, priority mix, or current escalations to manage workload with.
+
+- To address these gaps, NovaCom aims to bring ticket capture,
+escalation, self-service, and supervision onto one platform, using the Dev One developer environment so that every component reads and writes the same Dataverse ticket records rather than its own copy.
 
 
 ### Solution
 
 An end-to-end Power Platform solution built on a single Dataverse table will modernise customer service at NovaCom Telecom by:
-    - **Establishing the Data Layer:** The **Service Tickets** table will be
-    created in Dataverse by importing NovaCom_ServiceTickets.csv, holding Ticket Number, Ticket Title, Customer Name, Customer Email, Issue Category, Priority, Status, Description, Assigned Agent, Created Date and Resolved Date, with Priority and Status kept as text so the automation and the agent can evaluate and write those values directly.
-  
-    - **Giving Agents a Working Queue:** The **Active Service Tickets** view
-    will be configured to show the columns agents need, sorted by Created Date descending and filtered to exclude Resolved tickets, and surfaced through the **NovaCom Service Console** model-driven app with a two-column form that places customer context on the left and operational fields such as Priority, Status and Assigned Agent on the right.
-  
-    - **Automating Escalation:** The **NVC Ticket Triage and Escalation**
-    flow will watch the Service Tickets table for new rows, and when Priority equals Critical, set the ticket Status to Escalated, assign it to the Escalation Team, and email the duty manager a \[CRITICAL\] notification requesting acknowledgement within 30 minutes.
-  
-    - **Delivering Customer Self-Service:** The **NovaCom Support
-    Assistant** in Copilot Studio, grounded in the Service Tickets table as a Dataverse knowledge source, will return ticket status in a fixed format, refuse to invent a ticket number, status, agent or date, acknowledge frustrated customers, and open every conversation with a welcome message and suggested prompts.
-  
-    - **Enabling the Agent to Act:** The **NVC Create Support Ticket** agent
-    flow will write a new ticket to Dataverse with a generated NVC-TKT- reference after the assistant collects the customer's name, email, issue category and description — meaning a Critical ticket raised in conversation passes straight into the same escalation automation.
-  
-    - **Providing Supervisor Visibility:** A **Supervisor Dashboard** built
-    with Generative Pages from a plain-English description will render KPI cards, a priority breakdown chart, and a live escalations list inside the Service Console, refined conversationally and checked with the Accessibility assistant before publishing.
-  
-    - **Delivering It Where Users Work:** The published assistant will be
-    added to the Microsoft 365 and Teams channel, so a customer can describe a problem in conversation, have a ticket written to Dataverse, escalated, notified to the duty manager, and reflected on the supervisor dashboard without a NovaCom employee touching it.
+    
+- **Establishing the Data Layer:** The **Service Tickets** table will be
+created in Dataverse by importing NovaCom_ServiceTickets.csv, holding Ticket Number, Ticket Title, Customer Name, Customer Email, Issue Category, Priority, Status, Description, Assigned Agent, Created Date and Resolved Date, with Priority and Status kept as text so the automation and the agent can evaluate and write those values directly.
+
+- **Giving Agents a Working Queue:** The **Active Service Tickets** view
+will be configured to show the columns agents need, sorted by Created Date descending and filtered to exclude Resolved tickets, and surfaced through the **NovaCom Service Console** model-driven app with a two-column form that places customer context on the left and operational fields such as Priority, Status and Assigned Agent on the right.
+
+- **Automating Escalation:** The **NVC Ticket Triage and Escalation**
+flow will watch the Service Tickets table for new rows, and when Priority equals Critical, set the ticket Status to Escalated, assign it to the Escalation Team, and email the duty manager a \[CRITICAL\] notification requesting acknowledgement within 30 minutes.
+
+- **Delivering Customer Self-Service:** The **NovaCom Support
+Assistant** in Copilot Studio, grounded in the Service Tickets table as a Dataverse knowledge source, will return ticket status in a fixed format, refuse to invent a ticket number, status, agent or date, acknowledge frustrated customers, and open every conversation with a welcome message and suggested prompts.
+
+- **Enabling the Agent to Act:** The **NVC Create Support Ticket** agent
+flow will write a new ticket to Dataverse with a generated NVC-TKT- reference after the assistant collects the customer's name, email, issue category and description — meaning a Critical ticket raised in conversation passes straight into the same escalation automation.
+
+- **Providing Supervisor Visibility:** A **Supervisor Dashboard** built
+with Generative Pages from a plain-English description will render KPI cards, a priority breakdown chart, and a live escalations list inside the Service Console, refined conversationally and checked with the Accessibility assistant before publishing.
+
+- **Delivering It Where Users Work:** The published assistant will be
+added to the Microsoft 365 and Teams channel, so a customer can describe a problem in conversation, have a ticket written to Dataverse, escalated, notified to the duty manager, and reflected on the supervisor dashboard without a NovaCom employee touching it.
 
 
 ## Exercise 1: Activate the Power Apps Developer Plan and Select the Lab Environment
@@ -67,7 +68,7 @@ In this exercise, you will activate a **Power Apps Developer Plan** and select t
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image1.png)
 
-1. In the **Enter password** field, enter the administrator password, and then select **Sign in.**
+1. Enter admin Id and password in the respective field and then select **Sign in.**
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image2.png)
 
