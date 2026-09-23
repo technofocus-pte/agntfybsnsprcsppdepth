@@ -180,9 +180,9 @@ In this exercise, you will activate a Microsoft Power Automate trial using the s
 1. The Power Automate trial is active, and the Power Automate portal is available.
 
 
-## Exercise 4: Analyse the Claims Process with Copilot in Process Mining
+## Exercise 4: Analyse the Claims Process in Process Mining
 
-In this exercise, you will import the ZavaClaims event log into Process Mining, generate a process map, and use Copilot to identify bottlenecks and rework in the current claims process before building any automation.
+In this exercise, you will import the ZavaClaims event log into Process Mining, generate a process map, and review the process metrics to identify bottlenecks and rework in the current claims process before building any automation.
 
 1. In Power Automate, click the **Environments** selector and select **Dev One**.
 
