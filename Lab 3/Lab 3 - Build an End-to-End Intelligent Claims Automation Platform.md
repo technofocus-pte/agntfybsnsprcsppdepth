@@ -498,7 +498,7 @@ In this exercise, you will add a Switch control that routes each claim according
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image86.png)
 
-1. Configure the Property notification with the Subject +++\[PROPERTY CLAIM\] New claim received -+++ followed by the **Claim Reference** dynamic content, and a body that asks for a site inspection and a property assessor within 8 business hours. Replace each bracketed value with dynamic content where indicated:
+1. Set To to the administrator account. Configure the Property notification with the Subject +++\[PROPERTY CLAIM\] New claim received -+++ followed by the **Claim Reference** dynamic content, and a body that asks for a site inspection and a property assessor within 8 business hours. Replace each bracketed value with dynamic content where indicated:
 
     Body: +++A new Property claim has been logged by the Claims Intake
     Processor. Reference: \[Claim Reference\] Claimant: \[Claimant Email\]
@@ -518,7 +518,7 @@ In this exercise, you will add a Switch control that routes each claim according
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image90.png)
 
-1. Configure the Travel notification with the Subject +++\[TRAVEL CLAIM\] New claim received -+++ followed by the **Claim Reference** dynamic content, and a body that asks for policy validity and travel dates to be confirmed before an assessor is assigned within 8 business hours. Replace each bracketed value with dynamic content where indicated:
+1. Set To to the administrator account. Configure the Travel notification with the Subject +++\[TRAVEL CLAIM\] New claim received -+++ followed by the **Claim Reference** dynamic content, and a body that asks for policy validity and travel dates to be confirmed before an assessor is assigned within 8 business hours. Replace each bracketed value with dynamic content where indicated:
 
     Body: +++A new Travel claim has been logged by the Claims Intake
     Processor. Reference: \[Claim Reference\] Claimant: \[Claimant Email\]
@@ -534,7 +534,7 @@ In this exercise, you will add a Switch control that routes each claim according
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image93.png)
 
-1. Configure the unclassified notification with the Subject +++\[UNCLASSIFIED CLAIM\] Manual review required -+++ followed by the **Claim Reference** dynamic content, and a body that asks the team to review the original email and set the correct claim type manually.
+1. Set To to the administrator account. Configure the unclassified notification with the Subject +++\[UNCLASSIFIED CLAIM\] Manual review required -+++ followed by the **Claim Reference** dynamic content, and a body that asks the team to review the original email and set the correct claim type manually.
 
     Body: +++The Claims Intake Processor could not confidently classify
     this claim. Reference: \[Claim Reference\] Claimant: \[Claimant
@@ -608,6 +608,11 @@ In this exercise, you will activate a Copilot Studio trial and point it at the D
 1. Click **Sign in to Copilot Studio**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image105.png)
+
+    > Note: If copilot studio logged in into the new UI portal Click on the elipsis icon on the botom right slide and select **Open classic experiece**. 
+
+      ![](./media/imagez1.png)
+
 
 1. Enter M365 admin tenant ID in the **Sign in** field, then click **Next**.
 
