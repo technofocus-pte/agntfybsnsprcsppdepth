@@ -328,7 +328,7 @@ In this exercise, you will customize the **Service Tickets** form to improve the
 
 1. In the form designer, select the existing section on the **form canvas**.
 
-1. Select **Form field** from top pane. Then in left navigation pane select **Layout** > **2 Column**.
+1. Select **Form field** from top pane.
 
 1. In the **Properties** pane, under **Formatting**, set **Layout to 2**.
 
