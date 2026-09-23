@@ -609,7 +609,7 @@ In this exercise, you will activate a Copilot Studio trial and point it at the D
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image105.png)
 
-    > Note: If copilot studio logged in into the new UI portal Click on the elipsis icon on the botom right slide and select **Open classic experiece**. 
+    > Note: If Copilot Studio opens in the new UI, click the ellipsis (...) icon at the bottom-left of the screen and select Open classic experience.
 
       ![](./media/imagez1.png)
 
