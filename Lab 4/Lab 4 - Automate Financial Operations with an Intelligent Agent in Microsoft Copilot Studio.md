@@ -241,6 +241,10 @@ In this exercise, you will create the Invoice table using the same import method
 
 In this exercise, you will activate the Copilot Studio trial and switch Copilot Studio to the same developer environment used in Power Apps. Copilot Studio opens in the default environment, so the environment must be changed before any agent is created.
 
+> Note: If Copilot Studio opens in the new UI, click the ellipsis (...) icon at the bottom-left of the screen and select Open classic experience.
+    
+![](./media/imagez1.png)
+
 1. Open a new browser tab and navigate to +++https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio+++ the Microsoft Copilot Studio product page.
 
 1. Click **Sign in to Copilot Studio**.
