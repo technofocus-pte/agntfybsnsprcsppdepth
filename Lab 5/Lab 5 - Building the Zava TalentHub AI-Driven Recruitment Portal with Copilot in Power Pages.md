@@ -516,6 +516,8 @@ In this exercise, you will connect the Open Roles page to the Jobs table so that
 
 1. The list appears on the canvas showing placeholder rows. With the list selected, open **List settings**, then select **More options** under **Actions** in the left rail.
 
+    Turn off **Mordern list, AI Insights, Search with natural language**.
+
 1. Set **Number of records per page** to +++10+++
 
 1. Turn on **Enable search in this list**, enter the following **Placeholder text**, then click **Done**: +++Search roles by title, team, or location+++
@@ -640,11 +642,10 @@ In this exercise, you will activate Copilot Studio in the same Dev One environme
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image85.png)
 
-    >[!Note] If Copilot studio navigate to new Copilot Studio portal, Turn off the new exeperience button.
+    >[!Note] If Copilot Studio opens in the new UI, click the ellipsis (...) icon at the bottom-left of the screen and select Open classic experience.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/1a.png)
+     ![](./media/imagez1.png)
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/1b.png)
 
 1. If Copilot Studio does not load in **Dev One**, open a new browser tab and navigate to +++https://admin.powerplatform.microsoft.com+++ the Power Platform admin centre.
 
