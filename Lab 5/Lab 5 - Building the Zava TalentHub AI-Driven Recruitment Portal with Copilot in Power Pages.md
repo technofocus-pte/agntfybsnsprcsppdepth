@@ -369,9 +369,11 @@ In this exercise, you will activate the Power Pages trial and generate the compl
 
 1. On the **Start building your website with Copilot** page, click into the description box, enter the following text, then click the **Send** arrow at the right of the box:
 
-    +++Careers portal "Zava TalentHub" for NovaCorp. Navigation:
+    ```
+    Careers portal "Zava TalentHub" for NovaCorp. Navigation:
     Home, Open Roles, Life at NovaCorp, Apply Now, Contact
-    Recruitment. Open Roles and Apply Now: empty sections only. Navy \#1B3C6E, indigo \#4F46E5.+++
+    Recruitment. Open Roles and Apply Now: empty sections only. Navy \#1B3C6E, indigo \#4F46E5.
+    ```
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image47.png)
 
