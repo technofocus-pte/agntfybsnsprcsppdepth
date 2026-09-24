@@ -357,13 +357,38 @@ In this exercise, you will customize the **Service Tickets** form to improve the
 
 In this exercise, you will create an automated workflow that escalates critical service tickets. Currently, critical issues remain in the queue until an agent identifies and processes them. By using **Power Automate**, you will configure a flow that automatically detects new tickets with a **Priority** value of **Critical**, reassigns them to the escalation team, and notifies the duty manager by email. This ensures that high-priority incidents receive immediate attention, regardless of whether the ticket is created by an agent, imported into Dataverse, or submitted through the support assistant.
 
+### Activate Power Automate Trial
+
+Open a new browser tab and navigate to +++https://www.microsoft.com/en-in/power-platform/products/power-automate+++ the Microsoft Power Automate product page.
+
+1. On the product page, click the **Try for free** button.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image18.png)
+
+1. In the Email field, enter your admin tenant email address and click **Next**.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image19.png)
+
+1. When prompted that you are already a Microsoft customer, click **Sign in**.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image20.png)
+
+1. On the Create your account step, select your **Country or Region**, enter your **Job title**, enter the **Company name** +++ZavaClaims+++, enter a valid **Business phone number**, then click **Get Started**.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image21.png)
+
+1. On the Confirmation details step, click **Get Started**.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image22.png)
+
+1. If the Microsoft Copilot page opens instead of Power Automate, click the app launcher, enter +++Power Automate+++ in the search field, and select **Power Automate**.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image23.png)
+
+1. The Power Automate trial is active, and the Power Automate portal is available.
+
 ### Create the Flow and Trigger
 
-1. Open a new browser tab and then navigate to the Power Automate portal at **+++https://make.powerautomate.com+++.**
-
-1. Verify that **Dev One** is selected in the Environment picker in the upper-right corner. If a different environment is selected, switch to **Dev One** before continuing.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image40.png)
 
 1. In the **Power Automate** navigation pane, select **Create**. On the **Create** page, select **Automated** cloud flow.
 
@@ -519,7 +544,7 @@ In this exercise, you will activate the Copilot Studio trial and switch Copilot 
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image54.png)
 
-    >[!Note]  If Copilot Studio opens in the new UI, click the ellipsis (...) icon at the bottom-left of the screen and select Open classic experience.
+    > Note: If Copilot Studio opens in the new UI, click the ellipsis (...) icon at the bottom-left of the screen and select Open classic experience.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/imagez1.png)
 
@@ -571,6 +596,7 @@ In this exercise, you will activate the Copilot Studio trial and switch Copilot 
 
     The Copilot Studio trial is active and the portal is running in the same Dev One environment that holds the Dataverse tables.
 
+    > Note: If the Copilot Studio home page does not load, copy the Environment ID and replace the existing Environment ID in the URL.
 
 ## Exercise 9: Create the NovaCom Support Assistant
 
