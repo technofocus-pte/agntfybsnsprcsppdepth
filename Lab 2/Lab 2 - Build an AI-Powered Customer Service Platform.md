@@ -169,13 +169,15 @@ In this exercise, you will configure the default view for the **Service Tickets*
    
 1. On the **Service Tickets** table page, locate the **Data experiences** section. This section includes **Forms**, **Views**, **Charts**, and **Dashboards**.
 
+1. Select **Views**. The list of available views for the **Service Tickets** table is displayed, including the **Active Service Tickets** view.
+
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image20.png)
 
-1. Select **Views**. The list of available views for the **Service Tickets** table is displayed, including the **Active Service Tickets** view.
+
+1. Select **Active Service Tickets**. The view designer opens in a new browser tab and displays a preview of the view, along with the **Table columns pane**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image21.png)
 
-1. Select **Active Service Tickets**. The view designer opens in a new browser tab and displays a preview of the view, along with the **Table columns pane**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image22.png)
 
@@ -201,7 +203,7 @@ In this exercise, you will configure the default view for the **Service Tickets*
 
 1. If the search returns No match found, the column is already included in the view. Continue to the next column.
 
-    >[!Note] If you add a column by mistake, select the column header, select **More options (...)**, and then select **Remove**.
+    > Note : If you add a column by mistake, select the column header, select **More options (...)**, and then select **Remove**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image23.png)
 
@@ -222,7 +224,7 @@ In this exercise, you will configure the default view for the **Service Tickets*
     - Operator: **Does not equal**
     - Value: **+++Resolved+++**
 
->[!Note]: Select **Enabled for Advanced Find** for the Status column. Otherwise, the filter will display only **Active** and **Inactive** values, and you won't be able to enter a custom value manually.
+    > Note : Select **Enabled for Advanced Find** for the Status column. Otherwise, the filter will display only **Active** and **Inactive** values, and you won't be able to enter a custom value manually.
 
 1. Select **OK** to save the filter. Verify that **resolved tickets** are no longer displayed in the preview grid and that only active tickets remain visible.
 
@@ -230,7 +232,7 @@ In this exercise, you will configure the default view for the **Service Tickets*
 
 1. On the command bar, select **Save and publish**.
 
-    >[!Note] The **Save and publish** command save the view and publishes the changes in a single action. Publishing makes the updated view available in the model-driven app.
+    > Note : The **Save and publish** command save the view and publishes the changes in a single action. Publishing makes the updated view available in the model-driven app.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image26.png)
 
@@ -339,7 +341,7 @@ In this exercise, you will customize the **Service Tickets** form to improve the
     - Created Date
     - Resolved Date
 
-    >[!Note] If a field is already present on the form, it will not appear in the **Table columns** pane. In this case, select the field on the form canvas and move it to the appropriate column and position instead.
+    > Note : If a field is already present on the form, it will not appear in the **Table columns** pane. In this case, select the field on the form canvas and move it to the appropriate column and position instead.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image38.png)
 
@@ -350,7 +352,7 @@ In this exercise, you will customize the **Service Tickets** form to improve the
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image39.png)
 
-    Conclusion: The **Service Tickets** form displays customer information and operational fields in a two-column layout, allowing agents to view customer context and manage tickets more efficiently.
+    **Conclusion:** The **Service Tickets** form displays customer information and operational fields in a two-column layout, allowing agents to view customer context and manage tickets more efficiently.
 
 
 ## Exercise 6: Build the Ticket Triage and Escalation Flow
@@ -402,7 +404,7 @@ Open a new browser tab and navigate to +++https://www.microsoft.com/en-in/power-
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image42.png)
 
-    >[!Note] If prompted to sign in, select **Sign In** and enter your lab credentials, if required.
+    > Note: If prompted to sign in, select **Sign In** and enter your lab credentials, if required.
 
 1. Configure the **When a row is added**, **modified or deleted** trigger with the following values:
 
@@ -425,7 +427,7 @@ Open a new browser tab and navigate to +++https://www.microsoft.com/en-in/power-
 
 1. In the right **Choose** **a value** field, enter +++Critical+++.
 
-    >[!Note] The **Priority** column must be configured as **Single line of text**. The condition checks for the text value **Critical** and is case-sensitive. Ensure the value matches the data in the **Service Tickets** table exactly.
+    > Note : The **Priority** column must be configured as **Single line of text**. The condition checks for the text value **Critical** and is case-sensitive. Ensure the value matches the data in the **Service Tickets** table exactly.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image44.png)
 
@@ -448,13 +450,13 @@ Open a new browser tab and navigate to +++https://www.microsoft.com/en-in/power-
     - In the Status field, enter **+++Escalated+++**.
     - In the Assigned Agent field, enter **+++Escalation Team+++**.
 
-    >[!Note] The **Update a row** action updates the ticket that triggered the flow, changing its status and assigning it to the escalation team when the priority is **Critical**
+    > Note : The **Update a row** action updates the ticket that triggered the flow, changing its status and assigning it to the escalation team when the priority is **Critical**
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image45.png)
 
 1. Below the **Update a row** action, select **Add an action**. Search for **+++Send an email+++**, and then select **Send an email (V2)** under **Office 365 Outlook**.
 
-   >[!Note] If prompted to sign in, select **Sign In** and enter your lab credentials, if required.
+   > Note : If prompted to sign in, select **Sign In** and enter your lab credentials, if required.
 
 1. In the **To** field, enter your **lab administrator email address**. This email address will be used to verify that the notification is sent successfully.
 
