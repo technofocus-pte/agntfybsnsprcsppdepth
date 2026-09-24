@@ -349,9 +349,9 @@ In this exercise, you will activate the Power Pages trial and generate the compl
 
 1. Open a new browser tab and navigate to +++https://make.powerpages.microsoft.com+++ the Power Pages home page.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image42.png)
-
 1. If prompted, sign in with the same lab admin account used in Exercise 1.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image42.png)
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image43.png)
 
