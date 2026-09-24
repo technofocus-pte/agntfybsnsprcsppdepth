@@ -598,7 +598,7 @@ In this exercise, you will build an agent flow that writes a new invoice to Data
 
 1. In the **Subject** field, enter the following text and Replace the +++InvoiceNumber+++ with dynamic content at the end:
 
-    +++\[ACTION REQUIRED\] New Invoice Pending Approval – InvoiceNumber** **+++
+    +++\[ACTION REQUIRED\] New Invoice Pending Approval – InvoiceNumber+++
 
 1. Click into the **Body** field and enter the following text, replace each dynamic content value where indicated:
 
