@@ -685,6 +685,7 @@ In this exercise, you will activate a Copilot Studio trial and point it at the D
 
 1. The Copilot Studio trial is active, and the portal is running in the same Dev One environment that holds the Dataverse tables.
 
+    > Note: If the Copilot Studio home page does not load, copy the Environment ID and replace the existing Environment ID in the URL.
 
 ## Exercise 11: Build the ZavaAssist Agent
 

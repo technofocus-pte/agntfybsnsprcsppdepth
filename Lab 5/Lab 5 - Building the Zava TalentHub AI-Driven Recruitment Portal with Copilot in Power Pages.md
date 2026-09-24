@@ -618,7 +618,12 @@ In this exercise, you will add a Dataverse form to the Apply Now page so candida
 
 In this exercise, you will activate Copilot Studio in the same Dev One environment and create the ZavaTalent agent — the assistant that answers candidate questions on the portal at any hour, without a recruiter being involved.
 
+
 ### Activate the Copilot Studio Trial
+
+> Note: After logged in, Copilot Studio opens in the new UI, click the ellipsis (...) icon at the bottom-left of the screen and select Open classic experience.
+
+![](./media/imagez1.png)
 
 1. Open a new browser tab and navigate to +++https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio+++ the Microsoft Copilot Studio product page.
 
@@ -641,10 +646,6 @@ In this exercise, you will activate Copilot Studio in the same Dev One environme
 1. Wait while Copilot Studio loads. The address bar shows that the portal has opened in the **Default** environment.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image85.png)
-
-    >[!Note] If Copilot Studio opens in the new UI, click the ellipsis (...) icon at the bottom-left of the screen and select Open classic experience.
-
-     ![](./media/imagez1.png)
 
 
 1. If Copilot Studio does not load in **Dev One**, open a new browser tab and navigate to +++https://admin.powerplatform.microsoft.com+++ the Power Platform admin centre.
@@ -691,6 +692,7 @@ In this exercise, you will activate Copilot Studio in the same Dev One environme
 
 1. The Copilot Studio trial is active and running in the same Dev One environment that holds the Dataverse tables.
 
+    > Note: If the Copilot Studio home page does not load, copy the Environment ID and replace the existing Environment ID in the URL.
 
 ### Create the ZavaTalent Agent
 

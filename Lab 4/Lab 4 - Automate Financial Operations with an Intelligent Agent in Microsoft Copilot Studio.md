@@ -267,12 +267,6 @@ In this exercise, you will activate the Copilot Studio trial and switch Copilot 
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%204/media/image44.png)
 
-    >[!Note] If Copilot studio navigate to new Copilot Studio portal, Turn off the new exeperience button.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%204/media/1a.png)
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%204/media/1b.png)
-
 1. Open a new browser tab and navigate to +++https://admin.powerplatform.microsoft.com+++ the Power Platform admin centre.
 
 1. From the left navigation, select **Manage**, then select **Environments**, then select **Dev One**.
@@ -317,6 +311,7 @@ In this exercise, you will activate the Copilot Studio trial and switch Copilot 
 
 1. The Copilot Studio trial is active and the portal is running in the same Dev One environment that holds the Dataverse tables.
 
+    > Note: If the Copilot Studio home page does not load, copy the Environment ID and replace the existing Environment ID in the URL.
 
 ## Exercise 5: Create the FinOps Assistant Agent
 
