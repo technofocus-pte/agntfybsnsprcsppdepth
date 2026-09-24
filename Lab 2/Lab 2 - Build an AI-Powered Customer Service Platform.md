@@ -526,7 +526,7 @@ In this exercise, you will raise a critical ticket in the Service Console and co
 
 In this exercise, you will activate the Copilot Studio trial and switch Copilot Studio to the same developer environment used in Power Apps. Copilot Studio opens in the default environment, so the environment must be changed before any agent is created.
 
-> Note: If Copilot Studio opens in the new UI, click the ellipsis (...) icon at the bottom-left of the screen and select Open classic experience.
+> Note: After logged in, Copilot Studio opens in the new UI, click the ellipsis (...) icon at the bottom-left of the screen and select Open classic experience.
 
 ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/imagez1.png)
 
