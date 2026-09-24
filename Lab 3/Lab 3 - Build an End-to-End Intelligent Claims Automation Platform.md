@@ -603,15 +603,17 @@ In this exercise, you will trigger the completed flow with a live claim email an
 
 In this exercise, you will activate a Copilot Studio trial and point it at the Dev One environment so that the agent you build can read the Claims table created earlier.
 
+> Note: After logged in, Copilot Studio opens in the new UI, click the ellipsis (...) icon at the bottom-left of the screen and select Open classic experience.
+
+![](./media/imagez1.png)
+
 1. Open a new browser tab and navigate to +++https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio+++ the Microsoft Copilot Studio product page.
 
 1. Click **Sign in to Copilot Studio**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image105.png)
 
-    > Note: If Copilot Studio opens in the new UI, click the ellipsis (...) icon at the bottom-left of the screen and select Open classic experience.
 
-      ![](./media/imagez1.png)
 
 
 1. Enter M365 admin tenant ID in the **Sign in** field, then click **Next**.
