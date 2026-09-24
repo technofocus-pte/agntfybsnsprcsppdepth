@@ -359,7 +359,7 @@ In this exercise, you will activate the Power Pages trial and generate the compl
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image44.png)
 
-1. Wait while the Power Pages trial is provisioned for the **Dev One** environment.
+1. Wait while the Power Pages trial is provisioned for the **Dev One** environment. Click on **Get Started**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image45.png)
 
