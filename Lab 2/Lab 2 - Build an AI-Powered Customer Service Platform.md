@@ -934,7 +934,7 @@ In this exercise, you will publish the support assistant to Microsoft 365 and wa
 
 # Optional Exercise
 
-> Note: This exercise is supported only when the Dev environment is created in the United States region. If your Dev environment was created in the Canada region, the Generative Pages feature is not enabled and you will not be able to complete the hands-on steps. In that case, review the exercise for knowledge and demonstration purposes only and do not attempt to complete the steps in the environment.
+> Note: This exercise is supported only when the Dev One environment is created in the United States region. If your Dev One environment was created in the Canada region, the Generative Pages feature is not enabled and you will not be able to complete the hands-on steps. In that case, review the exercise for knowledge and demonstration purposes only and do not attempt to complete the steps in the environment.
 
 ## Exercise 15: Build the Supervisor Dashboard with Generative Pages
 
