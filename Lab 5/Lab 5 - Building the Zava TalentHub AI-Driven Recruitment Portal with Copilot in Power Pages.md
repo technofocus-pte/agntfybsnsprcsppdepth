@@ -52,6 +52,7 @@ To address these gaps, NovaCorp is introducing **Zava TalentHub** — a professi
 
 In this exercise, you will activate the free Power Apps Developer Plan and select the developer environment that hosts every component you build. Power Pages, Copilot Studio, and Power Automate must all point at this same environment, because that is how the portal, the agent, and the data share one Dataverse instance.
 
+<!--
 1. Open your **Edge** browser and navigate to +++https://www.microsoft.com/en-in/power-platform/products/power-apps+++ the Power Apps product page.
 
 1. On the product page, locate and click the **Try for free** button.
@@ -63,6 +64,10 @@ In this exercise, you will activate the free Power Apps Developer Plan and selec
 1. Click **Start free** to begin the Developer Plan sign-up.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image2.png)
+
+-->
+
+1. Open a browser and go to +++**https://make.powerapps.com**+++ sign in with office 365 admin tenant account.
 
 1. Enter the administrator password in the **Enter password** field, then click **Sign in**.
 
@@ -347,7 +352,22 @@ In this exercise, you will create the Applications table. This table receives ev
 
 In this exercise, you will activate the Power Pages trial and generate the complete Zava TalentHub portal from a single natural language description. Copilot creates the pages, navigation, layout, sections, and theme in under a minute — work that would otherwise take an afternoon of manual page building.
 
-1. Open a new browser tab and navigate to +++https://make.powerpages.microsoft.com+++ the Power Pages home page.
+1. Open a new browser tab and navigate to +++https://www.microsoft.com/en-in/power-platform/products/power-pages+++ the Power Pages home page. Click **Try for free**.
+
+    ![](./media/imageb1.png)
+
+1. In the **Let's get started** panel, enter the M365 admin tenant ID in the email field. Then select the check box.
+
+1. Click **Start free** to begin the Developer Plan sign-up.
+
+
+    ![](./media/imageb2.png)
+
+1. Enter Job title, Region and Phone number in the respective field. Select the check box and click on the **Submit** button.
+
+    ![](./media/imageb3.png)
+
+<!--
 
 1. If prompted, sign in with the same lab admin account used in Exercise 1.
 
@@ -355,7 +375,9 @@ In this exercise, you will activate the Power Pages trial and generate the compl
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image43.png)
 
-1. Confirm the environment selector in the top-right corner shows **Dev One**. If it does not, click it and select **Dev One**. The site must be created in the same environment as your Dataverse tables.
+-->
+
+5. Confirm the environment selector in the top-right corner shows **Dev One**. If it does not, click it and select **Dev One**. The site must be created in the same environment as your Dataverse tables.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image44.png)
 
@@ -625,7 +647,7 @@ In this exercise, you will activate Copilot Studio in the same Dev One environme
 
 ![](./media/imagez1.png)
 
-1. Open a new browser tab and navigate to +++https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio+++ the Microsoft Copilot Studio product page.
+1. Open a new browser tab and navigate to +++https://copilotstudio.microsoft.com/+++ the Microsoft Copilot Studio product page.
 
 1. Click **Sign in to Copilot Studio**.
 
@@ -662,6 +684,7 @@ In this exercise, you will activate Copilot Studio in the same Dev One environme
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image88.png)
 
+<!--
 1. On the **Select a team** dialog, click **start a trial**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image89.png)
@@ -686,7 +709,8 @@ In this exercise, you will activate Copilot Studio in the same Dev One environme
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image92.png)
 
-1. Confirm the Copilot Studio home page loads and that the environment selector shows **Dev One**.
+-->
+11. Confirm the Copilot Studio home page loads and that the environment selector shows **Dev One**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%205/media/image93.png)
 

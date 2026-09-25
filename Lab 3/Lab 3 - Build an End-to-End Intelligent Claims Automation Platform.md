@@ -52,6 +52,7 @@ A Copilot-driven claims automation platform will be implemented to modernize cla
 
 In this exercise, you will activate a Microsoft Power Apps trial and switch to the Dev One developer environment. This environment contains Dataverse and will be used for every remaining exercise in this lab.
 
+<!--
 1. Open your Edge browser and navigate to +++https://www.microsoft.com/en-in/power-platform/products/power-apps+++, the Microsoft Power Apps product page.
 
 1. On the product page, click the **Try for free** button.
@@ -67,6 +68,10 @@ In this exercise, you will activate a Microsoft Power Apps trial and switch to t
 1. On the sign-in screen, enter the administrator password and click **Sign in**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image3.png)
+
+-->
+
+1. Open a browser and go to +++**https://make.powerapps.com**+++ sign in with office 365 admin tenant account.
 
 1. Confirm that the Power Apps home page opens and that the environment selector displays **Contoso (default)**.
 
@@ -152,8 +157,12 @@ In this exercise, you will create the ZavaClaims Claims table by importing the s
 
 In this exercise, you will activate a Microsoft Power Automate trial using the same administrator account. Power Automate provides the process mining, cloud flow and AI Builder capabilities used in the exercises that follow.
 
-1. Open a new browser tab and navigate to +++https://www.microsoft.com/en-in/power-platform/products/power-automate+++ the Microsoft Power Automate product page.
+1. Open a new browser tab and navigate to +++https://make.powerautomate.com/+++ the Microsoft Power Automate product page.
 
+1. Sign in with office 365 admin tenant account.
+
+
+<!--
 1. On the product page, click the **Try for free** button.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image18.png)
@@ -174,7 +183,9 @@ In this exercise, you will activate a Microsoft Power Automate trial using the s
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image22.png)
 
-1. If the Microsoft Copilot page opens instead of Power Automate, click the app launcher, enter +++Power Automate+++ in the search field, and select **Power Automate**.
+-->
+
+3. If the Microsoft Copilot page opens instead of Power Automate, click the app launcher, enter +++Power Automate+++ in the search field, and select **Power Automate**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image23.png)
 
@@ -607,14 +618,7 @@ In this exercise, you will activate a Copilot Studio trial and point it at the D
 
 ![](./media/imagez1.png)
 
-1. Open a new browser tab and navigate to +++https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio+++ the Microsoft Copilot Studio product page.
-
-1. Click **Sign in to Copilot Studio**.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image105.png)
-
-
-
+1. Open a new browser tab and navigate to +++https://copilotstudio.microsoft.com/+++ the Microsoft Copilot Studio product page. Click **Sign in to Copilot Studio**.
 
 1. Enter M365 admin tenant ID in the **Sign in** field, then click **Next**.
 
@@ -655,6 +659,8 @@ In this exercise, you will activate a Copilot Studio trial and point it at the D
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image112.png)
 
+<!--
+
 1. On the **Select a team** dialog, click **start a trial**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image113.png)
@@ -679,13 +685,18 @@ In this exercise, you will activate a Copilot Studio trial and point it at the D
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image116.png)
 
-1. Confirm the Copilot Studio home page loads and that the environment selector shows **Dev One**.
+-->
+
+11. Confirm the Copilot Studio home page loads and that the environment selector shows **Dev One**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%203/media/image117.png)
 
+<!--
 1. The Copilot Studio trial is active, and the portal is running in the same Dev One environment that holds the Dataverse tables.
 
-    > Note: If the Copilot Studio home page does not load, copy the Environment ID and replace the existing Environment ID in the URL.
+-->
+
+> Note: If the Copilot Studio home page does not load, copy the Environment ID and replace the existing Environment ID in the URL.
 
 ## Exercise 11: Build the ZavaAssist Agent
 

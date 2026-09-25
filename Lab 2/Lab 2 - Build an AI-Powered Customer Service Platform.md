@@ -46,6 +46,7 @@ An end-to-end Power Platform solution built on a single Dataverse table will mod
 
 In this exercise, you will activate a **Power Apps Developer Plan** and select the **developer environment** that will host all solution components created throughout the lab. Using the same environment for **Power Apps**, **Power Automate**, and **Copilot Studio** ensures that the agent console, automation flows, and AI agent can seamlessly access and share a single Dataverse table, providing a unified customer service solution.
 
+<!--
 1. Using Microsoft Edge, navigate to the Power Apps product page: **+++https://www.microsoft.com/en-in/power-platform/products/power-apps+++**.
 
 1. On the **Power Apps** product page, select **Try for free**.
@@ -55,6 +56,10 @@ In this exercise, you will activate a **Power Apps Developer Plan** and select t
 1. Select **Start free** to begin the **Developer Plan** sign-up process.
 
    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image1.png)
+
+-->
+
+1. Open a browser and go to +++**https://make.powerapps.com**+++ sign in with office 365 admin tenant account.
 
 1. Enter admin Id and password in the respective field and then select **Sign in.**
 

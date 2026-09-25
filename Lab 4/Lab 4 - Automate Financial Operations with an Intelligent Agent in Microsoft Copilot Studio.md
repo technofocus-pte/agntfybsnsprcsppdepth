@@ -54,6 +54,8 @@ A Copilot Studio agent grounded in Dataverse will be implemented to modernise fi
 
 In this exercise, you will activate the free Power Apps Developer Plan and select the developer environment that hosts every component you build. All later exercises must be completed in this environment.
 
+
+<!--
 1. Open your **Edge** browser and navigate to +++https://www.microsoft.com/en-in/power-platform/products/power-apps+++ the Power Apps product page.
 
 1. On the product page, locate and click the **Try for free** button.
@@ -69,6 +71,10 @@ In this exercise, you will activate the free Power Apps Developer Plan and selec
 1. Enter the administrator password in the **Enter password** field, then click **Sign in**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%204/media/image3.png)
+
+-->
+
+1. Open a browser and go to +++**https://make.powerapps.com**+++ sign in with office 365 admin tenant account.
 
 1. Wait for the Power Apps home page to load. The welcome message confirms that the Developer Plan is active.
 
@@ -245,11 +251,7 @@ In this exercise, you will activate the Copilot Studio trial and switch Copilot 
     
 ![](./media/imagez1.png)
 
-1. Open a new browser tab and navigate to +++https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio+++ the Microsoft Copilot Studio product page.
-
-1. Click **Sign in to Copilot Studio**.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%204/media/image40.png)
+1. Open a new browser tab and navigate to +++https://copilotstudio.microsoft.com/+++ the Microsoft Copilot Studio product page.Click **Sign in to Copilot Studio**.
 
 1. Enter M365 admin tenant ID in the **Sign in** field, then click **Next**.
 
@@ -281,6 +283,7 @@ In this exercise, you will activate the Copilot Studio trial and switch Copilot 
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%204/media/image47.png)
 
+<!--
 1. On the **Select a team** dialog, click **start a trial**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%204/media/image48.png)
@@ -305,7 +308,9 @@ In this exercise, you will activate the Copilot Studio trial and switch Copilot 
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%204/media/image51.png)
 
-1. Confirm the Copilot Studio home page loads and that the environment selector shows **Dev One**.
+-->
+
+10. Confirm the Copilot Studio home page loads and that the environment selector shows **Dev One**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%204/media/image52.png)
 
