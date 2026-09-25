@@ -265,7 +265,7 @@ In this exercise, you will create the **NovaCom Service Console** model-driven a
 
 1. In the Power Apps navigation pane, select **+ Create**.
 
-1. Under **Start from design**, select **Blank app** with navigation.
+1. Under **Start from design**, click see more options and select **Blank app** with navigation.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image28.png)
 
