@@ -221,6 +221,15 @@ In this exercise, you will configure the default view for the **Service Tickets*
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image24.png)
 
+1. Click on the **Status** column drop down and then select **Edit table column**.
+
+    ![](./media/imagec1.png)
+
+ 1. Select **Enabled for Advanced Find** for the Status column. Click on the **Save** button.
+
+
+    ![](./media/imagec2.png)
+
 1. In the **Properties** pane, under **Filter by**, select **Edit** filters.
 
 1. Select **+ Add**, and then select **Add row**. Configure the filter with the following values:
@@ -229,7 +238,7 @@ In this exercise, you will configure the default view for the **Service Tickets*
     - Operator: **Does not equal**
     - Value: **+++Resolved+++**
 
-    > Note : Select **Enabled for Advanced Find** for the Status column. Otherwise, the filter will display only **Active** and **Inactive** values, and you won't be able to enter a custom value manually.
+
 
 1. Select **OK** to save the filter. Verify that **resolved tickets** are no longer displayed in the preview grid and that only active tickets remain visible.
 
