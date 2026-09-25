@@ -54,11 +54,11 @@ In this exercise, you will activate a **Power Apps Developer Plan** and select t
 
 1. Select **Start free** to begin the **Developer Plan** sign-up process.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image1.png)
+   ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image1.png)
 
 1. Enter admin Id and password in the respective field and then select **Sign in.**
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image2.png)
+   ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image2.png)
 
 1. After the **Power Apps** home page loads, verify that the welcome message confirms the **Developer Plan** is active.
 
@@ -70,7 +70,7 @@ In this exercise, you will activate a **Power Apps Developer Plan** and select t
 
 1. Verify that **Dev One** is the active environment before continuing. Do not use the Contoso (default) environment, as certain Copilot Studio and Generative Pages features used in this lab are not available there.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image4.png)
+   ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image4.png)
 
     >[!Note] Make a note of the region shown beside the selected environment name, as it will be used later in Exercise 13.
 
@@ -85,15 +85,15 @@ In this exercise, you will create the **Service Tickets** Dataverse table by imp
 
 1. On the command bar, select **New table**, and then select **Create new tables**.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image5.png)
+   ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image5.png)
 
 1. On the Choose an option to create tables page, select **Import an Excel** file or .CSV.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image6.png)
+   ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image6.png)
 
 1. In the **Import an Excel or .CSV** file dialog, select **Select from device**.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image7.png)
+   ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image7.png)
 
 1. Select **NovaCom_ServiceTickets.csv** from the **C:\labfiles** folder, and then select **Open**.
 
