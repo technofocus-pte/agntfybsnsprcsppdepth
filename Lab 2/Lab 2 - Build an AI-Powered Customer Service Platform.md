@@ -862,8 +862,81 @@ In this exercise, you will test the assistant against five realistic customer qu
 
     **Conclusion**: The **NovaCom Support Assistant** answers accurately from live data, refuses to guess, and raises real tickets that enter the existing escalation process.
 
-<!--
-## Exercise 14: Build the Supervisor Dashboard with Generative Pages
+## Exercise 14: Publish the Agent to Microsoft 365 and Test End to End
+
+In this exercise, you will publish the support assistant to Microsoft 365 and walk the complete journey one final time, confirming that all four components you built are connected through the Service Tickets table.
+
+1. Return to the Copilot Studio tab and open the **NovaCom Support Assistant**.
+
+1. On the agent **Overview** page, click **Publish**.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image94.png)
+
+1. In the **Publish this agent** dialog, review the listed items and click **Publish**. Wait for the publish to complete.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image95.png)
+
+1. Select **Channels**, then select the **Microsoft 365 and Teams** channel.
+
+1. Select **Add channel**.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image96.png)
+
+1. After the channel is added, select **See agent in Microsoft 365**.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image97.png)
+
+1. Select **Add** to add the agent in Microsoft 365.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image98.png)
+
+1. The agent is then added successfully.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image99.png)
+
+1. Select the suggested prompt **Check my ticket** and select the **Send** icon.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image100.png)
+
+1. Confirm the agent returns the same answer it gave in the Copilot Studio test panel.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image101.png)
+
+1. Enter the following query and click the Send icon: +++Which outage tickets are currently escalated?+++
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image102.png)
+
+1. Enter the following and click the Send icon: +++I have lost all service at my office and cannot take card payments. This is urgent.+++
+
+1. Provide your name, your lab admin email address, and the category **Outage** when the agent asks, and confirm the ticket should be raised as **Critical**.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image103.png)
+
+1. Confirm the agent returns a new **NVC-TKT-** number.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image104.png)
+
+1. Complete the following final verification checklist:
+
+    - The new ticket appears in the **NovaCom Service Console** ticket list
+    - Within two minutes its Status reads Escalated and Assigned Agent reads
+    Escalation Team
+  
+    - An escalation email with the subject prefix **[CRITICAL]** has
+    arrived in your mailbox
+  
+    - The **Supervisor Dashboard** escalations list now includes the new
+    ticket
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image105.png)
+
+**Conclusion:** That last check is the whole platform working as one. A customer described a problem in conversation, an agent tool wrote it to Dataverse, a flow escalated it and notified the duty manager, and a supervisor dashboard picked it up — with no NovaCom employee involved at any point.
+
+# Optional Exercise
+
+> Note: This exercise is supported only when the Dev environment is created in the United States region. If your Dev environment was created in the Canada region, the Generative Pages feature is not enabled and you will not be able to complete the hands-on steps. In that case, review the exercise for knowledge and demonstration purposes only and do not attempt to complete the steps in the environment.
+
+## Exercise 15: Build the Supervisor Dashboard with Generative Pages
 
 In this exercise, you will build the supervisor dashboard that NovaCom team leads have never had, by describing it in plain English. Generative Pages interprets the description, writes React and TypeScript code, compiles it, and renders a working page inside the model-driven app.
 
@@ -950,78 +1023,6 @@ Before starting, confirm your environment region is United States, United Kingdo
 1. Open the **NovaCom Service Console** and confirm **Supervisor Dashboard** appears in the app navigation and loads with live ticket data.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image93.png)
-
--->
-## Exercise 14: Publish the Agent to Microsoft 365 and Test End to End
-
-In this exercise, you will publish the support assistant to Microsoft 365 and walk the complete journey one final time, confirming that all four components you built are connected through the Service Tickets table.
-
-1. Return to the Copilot Studio tab and open the **NovaCom Support Assistant**.
-
-1. On the agent **Overview** page, click **Publish**.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image94.png)
-
-1. In the **Publish this agent** dialog, review the listed items and click **Publish**. Wait for the publish to complete.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image95.png)
-
-1. Select **Channels**, then select the **Microsoft 365 and Teams** channel.
-
-1. Select **Add channel**.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image96.png)
-
-1. After the channel is added, select **See agent in Microsoft 365**.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image97.png)
-
-1. Select **Add** to add the agent in Microsoft 365.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image98.png)
-
-1. The agent is then added successfully.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image99.png)
-
-1. Select the suggested prompt **Check my ticket** and select the **Send** icon.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image100.png)
-
-1. Confirm the agent returns the same answer it gave in the Copilot Studio test panel.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image101.png)
-
-1. Enter the following query and click the Send icon: +++Which outage tickets are currently escalated?+++
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image102.png)
-
-1. Enter the following and click the Send icon: +++I have lost all service at my office and cannot take card payments. This is urgent.+++
-
-1. Provide your name, your lab admin email address, and the category **Outage** when the agent asks, and confirm the ticket should be raised as **Critical**.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image103.png)
-
-1. Confirm the agent returns a new **NVC-TKT-** number.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image104.png)
-
-1. Complete the following final verification checklist:
-
-    - The new ticket appears in the **NovaCom Service Console** ticket list
-    - Within two minutes its Status reads Escalated and Assigned Agent reads
-    Escalation Team
-  
-    - An escalation email with the subject prefix **[CRITICAL]** has
-    arrived in your mailbox
-  
-    - The **Supervisor Dashboard** escalations list now includes the new
-    ticket
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image105.png)
-
-**Conclusion:** That last check is the whole platform working as one. A customer described a problem in conversation, an agent tool wrote it to Dataverse, a flow escalated it and notified the duty manager, and a supervisor dashboard picked it up — with no NovaCom employee involved at any point.
-
 
 ## Conclusion
 
