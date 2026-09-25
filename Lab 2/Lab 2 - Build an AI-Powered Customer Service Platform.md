@@ -238,6 +238,8 @@ In this exercise, you will configure the default view for the **Service Tickets*
     - Operator: **Does not equal**
     - Value: **+++Resolved+++**
 
+    > Note: Select single line text status column.
+
 
 
 1. Select **OK** to save the filter. Verify that **resolved tickets** are no longer displayed in the preview grid and that only active tickets remain visible.
