@@ -61,6 +61,11 @@ In this exercise, you set up the foundation for the entire lab. You navigate to 
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%201/media/image2.png)
 
+1. Select the United States region and click on the **Get started.**
+
+    ![](./media/imagea1.png)
+
+
 1. Wait for the Power Apps home page to load. The welcome message confirms that the Developer Plan is active.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%201/media/image3.png)
