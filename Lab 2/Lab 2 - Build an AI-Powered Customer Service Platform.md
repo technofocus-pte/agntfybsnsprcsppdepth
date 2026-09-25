@@ -932,7 +932,7 @@ In this exercise, you will publish the support assistant to Microsoft 365 and wa
 
 **Conclusion:** That last check is the whole platform working as one. A customer described a problem in conversation, an agent tool wrote it to Dataverse, a flow escalated it and notified the duty manager, and a supervisor dashboard picked it up — with no NovaCom employee involved at any point.
 
-# Optional Exercise
+## Optional Exercise
 
 > Note: This exercise is supported only when the Dev One environment is created in the United States region. If your Dev One environment was created in the Canada region, the Generative Pages feature is not enabled and you will not be able to complete the hands-on steps. In that case, review the exercise for knowledge and demonstration purposes only and do not attempt to complete the steps in the environment.
 
