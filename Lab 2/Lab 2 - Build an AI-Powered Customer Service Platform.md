@@ -336,7 +336,7 @@ In this exercise, you will customize the **Service Tickets** form to improve the
 
 1. Select **Form field** from top pane.
 
-1. In the **Properties** pane, under **Formatting**, set **Layout to 2**.
+1. In the **Properties** pane, under **Formatting**, set **columns** as **2 column**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/agntfybsnsprcsppdepth/refs/heads/main/Lab%202/media/image37.png)
 
@@ -478,7 +478,7 @@ Open a new browser tab and navigate to +++https://www.microsoft.com/en-in/power-
 
 1. In the **Subject** field, enter the following text, and then insert the **Ticket Title** **dynamic** content at the end:
 
-    +++[CRITICAL] NovaCom ticket escalated - +++
+    +++[CRITICAL] NovaCom ticket escalated -+++
 
 1. Select the **Body** field and enter the following text, replacing each bracketed value with dynamic content where indicated:
 
