@@ -780,7 +780,7 @@ In this exercise, you will build an agent flow that writes a new ticket to Datav
 
 1. Return to the **NovaCom Support Assistant**, select **Tools**, then select **Add a tool**.
 
-1. Select the **Flow** filter, then select **NVC Create Support Ticket**.
+1. Select the **Workflow** filter, then select **NVC Create Support Ticket**.
 
 1. Select **Add and configure**.
 
